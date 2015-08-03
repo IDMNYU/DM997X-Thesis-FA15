@@ -1,0 +1,225 @@
+# DM-GY 997X MS Thesis In Digital Media
+
+![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
+#### Integrated Digital Media • Technology, Culture & Society Department 
+
+    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2015
+    Wednesdays • 7:30-10:20PM • 2MTC MAGNET 811 • 3 credit hrs
+
+---
+# CALENDAR (THIS IS A DRAFT!!!)
+## This will be in draft form until Monday, August 31st.
+
+<table>
+<tr>
+    <td width="15%">DUE DATE<br>
+    <i>by or before</i></td>
+    <td width="85%">DELIVERABLES<br><i>All dates and assignments are subject to change at the discretion of the professor</i></td> 
+</tr>
+<tr>
+    <td>Before Class Begins</td>
+    <td>
+    <ul>
+    <li><strong>Read the <a href="dm997X_ms_thesis_syllabus.md">syllabus</a></strong> and supporting docs on github and be prepared to ask questions on first day of class</li>
+    <li><strong>Read <a href="http://chrisguillebeau.com/how-to-write-a-dozen-novels-and-hundreds-of-stories" target="_blank">How To Write A Dozen Novels and Hundreds of Stories</a></strong></li>
+    <li><strong><a href="https://getit.library.nyu.edu/go/6809674" target="_blank">Succeeding with your master's dissertation a step-by-step handbook</a> by John Biggam</li> 
+    <li>By or before Wednesday, Sep 2nd at noon <strong>post on slack a PDF (firstnamelastname_MSThesis_Beg_of_Sem_Status.pdf) of your responses to the MS Thesis Beginning of Semester Status doc</strong> (MS_Thesis_Beg_of_Sem_Status.doc) found under Files on slack.</li>
+    </ul></td>    
+</tr>
+<tr>
+    <td>Wed, Sep 02</td>
+    <td>
+        <ul>
+        <li>Guest Talk: TBD, IDM MS '15</li>
+        <li><a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A</li>
+        <li>Confirm Groups A and B</li>
+        <li>Create Individual Meeting Order</li>
+        <li>Discuss <a href="http://chrisguillebeau.com/how-to-write-a-dozen-novels-and-hundreds-of-stories" target="_blank">How To Write A Dozen Novels and Hundreds of Stories</a></li>
+        <li>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones</li>
+        <li>Discuss Capture from <a href="http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280/ref=sr_1_1?ie=UTF8&qid=1420844841&sr=8-1&keywords=getting+things+done" target="_blank">Getting Things Done: The Art of Stress-Free Productivity</a> by David Allen
+        <li>Overview of <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a></li>
+        <li>Overview of <a href="http://pomodorotechnique.com" target="_blank">The Pomodoro Technique</a></li>
+        <li>Overview of <a href="http://rescuetime.com" target="_blank">RescueTime</a> and <a href="http://zapier.com" target="_blank">Zapier</a>, an alternative to <a href="https://ifttt.com/" target="_blank">ifttt</a></li>
+        </ul>
+    </td>  
+</tr>
+<tr>
+    <td>Wed, Sep 09</td>
+    <td>
+    <ul> 
+    <li>(OPTIONAL) Install <a href="http://rescuetime.com" target="_blank">RescueTime</a> and populate categories and productivity values.</li>
+    <li><strong>Populate a calendar</strong> (google, iCal, or non-digital) with due dates for this class</li>
+    <li>Read <a href="http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy" target="_blank">How To Write X Number of Words a Day &amp; Not Go Crazy</a></li>
+    <li><strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 1st Draft</li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 1st Draft</li>
+    <li>In-class peer critiques</li>
+    <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group A</a>: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
+    <li>Make an appointment with IDM’s Technology Manager, Elton Kwok, MAGNET 883, eltonkwok@nyu.edu to connect a database to your <a href="dm997X_ms_thesis_website.md">thesis website</a> on http://sites.bxmc.poly.edu</li>
+    </ul>
+    </td> 
+</tr>
+<tr>
+    <td>Tue, Sep 15</td>
+    <td><strong><i>LAST DAY OF DROP/ADD</i></strong> (to receive 100% of tuition &amp; fees and not receive a grade of 'W')</td> 
+</tr>
+<tr>
+    <td>Wed, Sep 16</td>
+    <td>
+        <ul>
+        <li><strong>Conduct Research</strong></li>
+        <li><strong><a href="dm997X_ms_thesis_paper.md">Visual Outline or Mind Map</a></strong> 1st Draft (Do this BEFORE creating your written outline)</li>
+        <li><strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> 1st Draft</li>
+        <li><strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 2nd Draft</li>
+        <li><strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 2nd Draft</li>
+        <li>In-class peer critiques</li>
+        <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group B</a>: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
+        </ul>
+    </td> 
+</tr>
+<tr>
+    <td>Wed, Sep 23</td>
+    <td>
+    <ul>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Detailed Written Outline</a></strong> 1st Draft</li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Visual Outline or Mind Map</a></strong> 2nd Draft</li>
+    <li>In-class peer critiques</li>
+    <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group A</a>: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
+    </ul> 
+    </td> 
+</tr>
+<tr>
+    <td>Wed, Sep 30</td>
+    <td>
+    <ul>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 1st Draft</li> 
+    <li>In-class peer critiques: Body Drafts (Bring at least 1 printed copy (ideally 2) to class so that a classmate can read and edit your document during class.)</li>
+     <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group B</a>: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
+    </ul> 
+    </td> 
+</tr>
+
+<tr>
+    <td>Wed, Oct 07</td>
+    <td>
+    <ul>
+    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
+    
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 1st Draft</li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 2nd Draft (Please have someone other than your self read and edit your document before you turn it in.
+Include that person's name [and their title and/or relationship with you (if not a classmate)] at the top of the paper as Editor )</li>
+
+    </ul>     
+    </td> 
+</tr>
+<tr>
+    <td>Wed, Oct 14</td>
+    <td>
+    <ul>
+    <li><strong>Schedule one on one, 30 minute appointments for midterm assessment.</strong> Bring your printed self-assessments with you to your scheduled one one appointments.</li>
+    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
+    
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 2nd Draft</li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 3rd Draft</li>
+ 
+    </ul> (Please have someone other than your self read and edit your intro and body before you turn it in. (Even better, have someone read them out loud to you.) Include that person's name [and their title and/or relationship with you (if not a classmate)] at the top of the paper as Editor )
+    </td> 
+</tr>
+
+
+<tr>
+    <td>Wed, Oct 21</td>
+    <td>
+    <ul>
+    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 1st Draft </li> 
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 1st Draft</li>
+    </ul> 
+    (Please have someone other than your self read and edit your conclusion and abstract before you turn it in. (Even better, have someone read them out loud to you.) Include that person's name [and their title and/or relationship with you (if not a classmate)] at the top of the paper as Editor )
+    </td> 
+</tr>
+<tr>
+    <td>Wed, Oct 28</td>
+    <td>
+    <ul>
+    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 2nd Draft</li> 
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 2nd Draft</li>
+    </ul> 
+    (Please have someone other than your self read and edit your conclusion and abstract before you turn it in. (Even better, have someone read them out loud to you.) Include that person's name [and their title and/or relationship with you (if not a classmate)] at the top of the paper as Editor )
+    </td> 
+</tr>
+<tr>
+    <td>Tue, Nov 03</td>
+    <td><strong><i>LAST DAY TO WITHDRAW</i></strong></td> 
+</tr>
+<tr>
+    <td>Wed, Nov 04</td>
+    <td>
+    <ul>
+    <li><strong>10 minute <a href="dm997X_ms_thesis_project.md">Project Gold Presentations</a></strong> for ALL students.</li>
+    </ul> 
+    (Please have someone other than your self read and edit your Vita, Acknowledgements (optional), and Dedication (optional) before you turn it in. (Even better, have someone read your intro and body out loud to you.) Include that person's name [and their title and/or relationship with you (if not a classmate)] at the top of the paper as Editor )
+    </td> 
+</tr>
+
+<tr>
+    <td>Wed, Nov 11</td>
+    <td>
+    <ul>
+    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Vita, Acknowledgements (optional), and Dedication (optional)</a></strong> 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></li> 
+    <li><strong>Share your <a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> 1st Draft with your project advisor if you have not already done so.</li>
+    <li><strong><a href="dm997X_ms_thesis_assignments.md">Dropbox link of deliverables for the ms thesis catalog</a></strong></li>
+     
+    </ul>
+    (Please have someone other than your self read and edit your Vita, Acknowledgements (optional), and Dedication (optional) before you turn it in. (Even better, have someone read them out loud to you.) Include that person's name [and their title and/or relationship with you (if not a classmate)] at the top of the paper as Editor )     
+    </td> 
+</tr>
+<tr>
+<td>Wed, Nov 18</td>
+<td>
+    <ul>
+    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> 2nd Draft</li> 
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Vita, Acknowledgements (optional), and Dedication (optional)</a></strong> 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></li>
+    
+    </ul>
+    (Please have someone other than your self read and edit your compiled thesis paper before you turn it in. (Even better, have someone read your it out loud to you AND make an appointment at the writing center.) Include that person's name [and their title and/or relationship with you (if not a classmate)] at the top of the paper as Editor ) 
+    </td> 
+
+</tr>
+<tr>
+<td>Wed, Nov 25</td>
+<td><b>Thanksgiving Holiday</b> No Class</td>
+</tr>
+<tr>
+    <td>Wed, Dec 02</td>
+    <td><a href="dm997X_ms_thesis_assignments.md">Dropbox link of all related project files, Resume, Cover Letter, LinkedIn Profile, Letter to Next Cohort, and Portfolio Website</a></td>
+</tr>
+<tr>
+    <td>Dec 7-11 (up to 4 per day)</td>
+    <td><strong><a href="dm997X_ms_thesis_defense.md">Thesis Defenses</a></strong></td>
+</tr>
+<tr>
+    <td>Dec 16</td>
+    <td><i>Reading Day</i></td> 
+</tr>
+<tr>
+    <td>Dec 14-18</td>
+    <td><strong>Exit Interview Survey</strong> (will be emailed to you)</td>
+</tr>
+<tr>
+    <td>Dec 18</td>
+    <td><strong>**3 Bound Copies** of Your Thesis Paper on *acid-free paper* due to Eric Maiello. If you want a bound copy for yourself, bind 4. </strong> 
+    <ul>
+    <li>See instructions on how to get them printed in NYU SoE's Thesis guidelines which you can download from slack  under <a href="http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf" target="_blank">Files</a></li>
+    </ul></td>
+</tr>
+<tr>
+    <td>Dec 17-Dec 23</td>
+    <td><i>Fall Semester Exams</i></td> 
+</tr>
+</table>
+
+
+
