@@ -256,22 +256,20 @@ Students, in addition to their regular NYU allotment, also have available to the
 ### REQUIRED BOOKS
 The following books are available for purchase in the NYU library. I highly suggest you acquire your own copies, but there will hopefully be copies on reserve in the library. 
 
-* [Do The Work!] (http://www.amazon.com/Do-Work-Steven-Pressfield/dp/1936719010/ref=sr_1_2?s=books&ie=UTF8&qid=1312385234&sr=1-2) by Steven Pressfield
-* [Show Your Work!] (http://www.amazon.com/Show-Your-Work-Creativity-Discovered-ebook/dp/B00GU2RGGI/ref=sr_1_1?ie=UTF8&qid=1420589663&sr=8-1&keywords=show+the+work+austin+kleon) by Austin Kleon
 * [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
 
 
 ### REQUIRED TOOLS
 * Analog or Digital Calendar
-* [Personal Kanban] (http://www.personalkanban.com)
-* [RescueTime] (http://rescuetime.com)
-* [Zapier] (http://zapier.com) (optional)
 * [Poly's Writing Center] (http://engineering.nyu.edu/academics/support/polytechnic/writing)
 
 
 ### ADDITIONAL RECOMMENDED TIME MANAGEMENT & PRODUCTIVITY RESOURCES BEYOND PERSONAL KANBAN
 
 Hope these resources help. They've helped me, but the secret is discipline, focus, and prioritizing (which requires not doing something else). No system is a magic cure. A system only works if you use it daily.
+* [Personal Kanban] (http://www.personalkanban.com)
+* [RescueTime] (http://rescuetime.com) 
+* [Zapier] (http://zapier.com)
 
 * **^The following books are available for purchase in the NYU library.** *
 
