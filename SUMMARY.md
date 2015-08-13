@@ -1,4 +1,4 @@
 # Summary
 
-* Syllabus
+* [Syllabus](syllabus.md)
 
