@@ -22,7 +22,7 @@
 *“If you put off everything ‘till you’re sure of it, you’ll get nothing done.”* -Norman Vincent Peale
 
 *“The successful warrior is the average person with laser-like focus.”* – Bruce Lee
- 
+
 ---
 
 
