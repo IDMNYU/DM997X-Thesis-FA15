@@ -261,6 +261,7 @@ The following books are available for purchase in the NYU library. I highly sugg
 
 ### REQUIRED TOOLS
 * Analog or Digital Calendar
+* [gitprint.com] (http://gitprint.com)
 * [Poly's Writing Center] (http://engineering.nyu.edu/academics/support/polytechnic/writing)
 
 
