@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Syllabus](dm997X_ms_thesis_syllabus.md)
-* [Assignments](dm997X_ms_thesis_assignments.md)
+* [End of Semester Deliverables](dm997X_ms_thesis_end_of_semester_deliverables.md)
 * [Calendar](dm997X_ms_thesis_calendar.md)
 * [Groups](dm997X_ms_thesis_groups.md)
 * [Thesis Defense](dm997X_ms_thesis_defense.md)
