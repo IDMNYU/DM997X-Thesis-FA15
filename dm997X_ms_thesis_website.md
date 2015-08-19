@@ -5,7 +5,7 @@
 
 ## THESIS PROCESS WEBSITE
 
-You should have a **dedicated**, thesis website to document their **weekly** progress/process of your MS Thesis (ideally in wordpress) on http://sites.bxmc.poly.edu
+You should have a **dedicated**, thesis website to document your **weekly** progress/process of your MS Thesis (ideally in wordpress) on http://sites.bxmc.poly.edu
 * Students are expected to share their progress with the instructor and class using
 their process website.
 * You can receive web space from IDM’s Technology Manager, Elton Kwok, MAGNET 883. Email eltonkwok@nyu.edu to set up an appointment for your web space.
@@ -27,7 +27,7 @@ Also the following PDFs contain excellent examples of possible entries:
 
 **What your thesis website should contain?**
 * *Weekly Thesis Progress/Process*
-  * at least, 1 post per week DUE at noon on Mondays. If it is not posted by noon, you will not receive credit. 
+  * at least, 1 post per week DUE at noon on Wednesdays. If it is not posted by noon, you will not receive credit. 
   * The majority of the posts should be your own writing (well-composed and proofread for impeccable spelling and grammar).
   * Project Advisor Meeting Documentation (2-4x)
   * pdfs of any presentations (annotated)
@@ -36,11 +36,13 @@ Also the following PDFs contain excellent examples of possible entries:
   * Include images, illustrations, audio, video, snippets of research, ANNOTATED links, etc. relevant to your thesis. 
   * If you do not do anything for the week, write **I did not work on my thesis this week.**
 
+
 * *An About Page*
   * The “elevator pitch” / Thesis Statement
   * A link to your pre-thesis site
   * A link to a pdf of your pre-thesis defense presentation
   * Documentation (i.e. hi-res images and/or video) of your prototype from pre-thesis
+
 
 * *Sourced & Annotated Research / Reference / Inspiration* 
   * Sourced means where did you get this from? if it is a website, provide a link. If it is a book, provide a bibliography. If it is an image, where did you get it from? If it is a quote, who said it or who did you poll or interview?
