@@ -121,7 +121,7 @@ The External Reviewer is identified in consultation with your Thesis Project Adv
 You will partner with a classmate for moral support, ideation, proofreading, presentation practice, and most importantly to stay on task. 
 
 ####Thesis Peers
-Your fellow graduate students are considered to be peers in the discussion and dialogue of your thesis. Students are strongly encouraged to share research and resources as well as critique from their peers. Utilize the grad studio MAGNET 804 to hold informal critiques and discussion outside of class.
+Your fellow graduate students are considered to be peers in the discussion and dialogue of your thesis. Students are strongly encouraged to share research and resources as well as critique from their peers. Utilize IDM's grad studio MAGNET 804 to hold informal critiques and discussion outside of class.
 
 
 ### COMMUNICATING WITH THE PROFESSOR OUTSIDE OF CLASS
