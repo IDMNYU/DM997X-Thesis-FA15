@@ -127,7 +127,7 @@ Your fellow graduate students are considered to be peers in the discussion and d
 ### COMMUNICATING WITH THE PROFESSOR OUTSIDE OF CLASS
 
 * Direct message on Slack about logistics (when, where, how many?) ONLY
-* Talk to me in person directly after class, during your status meeting, or set up an appointment about issues and problems. DO NOT email long conversations. (If your email turns into paragraphs that means you should be talking to me in person not emailing me.)
+* Talk to me in person directly after class, during your status meeting, or set up an appointment about issues and problems. DO NOT direct message long conversations. (If your direct message turns into paragraphs that means you should be talking to me in person not direct messaging me.)
 
 
 ### STUDENT RESPONSIBILITIES
