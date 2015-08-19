@@ -2,7 +2,7 @@
 ##### Fall 2015 • De Angela L. Duff • Wednesdays • 7:30-10:20pm • 2MTC MAGNET 811 
 
 ---
-
+##THESIS DEFENSE
 
 Thesis Defenses will be open to NYU Faculty, Staff, and Students. Date, Time, and MAGNET Room to be determined.
 
