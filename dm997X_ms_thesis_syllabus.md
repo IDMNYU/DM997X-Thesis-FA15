@@ -8,7 +8,7 @@
 
     Prerequisite: DM-GY 9963 MS Pre-Thesis in Digital Media: Research Methods
    
-###Gitbook: http://deangela.gitbooks.io/ms-thesis-in-digital-media/content  
+####Gitbook: http://deangela.gitbooks.io/ms-thesis-in-digital-media/content  
 ####Course Management Site: http://bxmc.slack.com 
 
 # (THIS IS A DRAFT!!!)
