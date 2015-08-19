@@ -9,7 +9,7 @@
 ---
 
 ## GENERAL ASSIGNMENTS
-NOTE: There are other assignments listed on the [thesis paper] (dm997X_ms_thesis_paper.md) and [thesis project] (dm997X_ms_thesis_project.md) pages. Due dates for the following assignments can be found on the [thesis calendar] (dm997X_ms_thesis_calendar.md).
+NOTE: There are other assignments listed on the [thesis paper](dm997X_ms_thesis_paper.md) and [thesis project](dm997X_ms_thesis_project.md) pages. Due dates for the following assignments can be found on the [thesis calendar](dm997X_ms_thesis_calendar.md).
 
 
 ### DELIVERABLES FOR IDM ARCHIVES 
