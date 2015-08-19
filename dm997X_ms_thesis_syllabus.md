@@ -125,7 +125,7 @@ Your fellow graduate students are considered to be peers in the discussion and d
 
 ### COMMUNICATING WITH THE PROFESSOR OUTSIDE OF CLASS
 
-* Email contact about logistics (when, where, how many?) ONLY
+* Direct message on Slack about logistics (when, where, how many?) ONLY
 * Talk to me in person directly after class, during your status meeting, or set up an appointment about issues and problems. DO NOT email long conversations. (If your email turns into paragraphs that means you should be talking to me in person not emailing me.)
 
 
@@ -137,7 +137,7 @@ Your fellow graduate students are considered to be peers in the discussion and d
 * Present your work. 
 * Meet, individually, with the professor during your scheduled time to discuss your thesis progress.
 * Consult slack  at least once a week for up to date info.
-* Maintain a weekly, dedicated, thesis website.
+* Maintain a weekly, dedicated, thesis process website.
 * Complete all deliverables by their due dates.
 * Acquire and read copies of the required books.
 * Action – do your absolute best.
@@ -181,7 +181,7 @@ Extra Credit: Career Counseling Appt. through NYU's Waserman Center
 
 ##### Qualitative Grading Overview
 
-You will be judged on the quality, relevance, iteration, completion, and presentation of your thesis. 
+You will be judged on the quality, iteration, completion, and presentation of your thesis. 
 
 ###### A. Excellent (90-100)
 Your performance and attendance has been of the highest level, showing sustained excellence in meeting course responsibilities. Your thesis clearly differentiates itself from other work. Your thesis has memorable impact, and pursues concepts and techniques above and beyond average goals. The ideas behind your thesis are original, thoughtful and/or imaginative. Spelling, punctuation or grammatical errors are non-existent. Your thesis demonstrates your ability to think critically and work independently. Your thesis also demonstrates the use of strong methods and process.
