@@ -1,14 +1,7 @@
-# DM-GY 997X MS Thesis In Digital Media
-
-![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
-#### Integrated Digital Media • Technology, Culture & Society Department 
-
-    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2015
-    Wednesdays • 7:30-10:20PM • 2MTC MAGNET 811 • 3 credit hrs
+### DM-GY 997X MS Thesis In Digital Media
+##### Fall 2015 • De Angela L. Duff • Wednesdays • 7:30-10:20pm • 2MTC MAGNET 811 
 
 ---
-
-## THESIS RESEARCH
 
 There are many ways to conduct research beyond doing literature reviews (i.e. reading). I have bolded the ones you may find the most useful. I suggest doing research on what these research methods are if you don't know.
 
