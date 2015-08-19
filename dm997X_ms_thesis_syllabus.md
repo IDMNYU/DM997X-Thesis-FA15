@@ -177,7 +177,7 @@ Your fellow graduate students are considered to be peers in the discussion and d
 * 10% Project Critique Presentations
 * 2.5% [Letter to Next Cohort](dm997X_ms_thesis_assignments.md)
 * 7.5% Resume, Cover Letter, LinkedIn Profile
-* 5% [Portfolio Website](dm997X_ms_thesis_assignments.md)
+* 05% [Portfolio Website](dm997X_ms_thesis_assignments.md)
 
 *Extra Credit: Career Counseling Appt. through NYU's Waserman Center*
 
@@ -269,11 +269,10 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 * [RescueTime](http://rescuetime.com) 
 * [Zapier](http://zapier.com)
 
-* **^The following books are available for purchase in the NYU library.** *
 
 *The Now Habit*
 
-* ^[The Now Habit](http://www.amazon.com/Now-Habit-Overcoming-Procrastination-Guilt-Free/dp/1585425524/ref=sr_1_1?ie=UTF8&qid=1420844824&sr=8-1&keywords=neil+fiore) by Neil Fiore
+* [The Now Habit](http://www.amazon.com/Now-Habit-Overcoming-Procrastination-Guilt-Free/dp/1585425524/ref=sr_1_1?ie=UTF8&qid=1420844824&sr=8-1&keywords=neil+fiore) by Neil Fiore
 
 * [Neil Fiore’s Unschedule on lifeclever.com](http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play)
 
@@ -281,13 +280,13 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 *Getting Things Done* (GTD) is more complicated but I use a lot of the techniques in conjunction with Personal Kanban.
 
-* ^[Getting Things Done: The Art of Stress-Free Productivity](http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280/ref=sr_1_1?ie=UTF8&qid=1420844841&sr=8-1&keywords=getting+things+done) by David Allen
+* [Getting Things Done: The Art of Stress-Free Productivity](http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280/ref=sr_1_1?ie=UTF8&qid=1420844841&sr=8-1&keywords=getting+things+done) by David Allen
 
 * [43 Folders (All things GTD by Merlin Mann)](http://www.43folders.com)
 
 * [Productive Talk Compilation: 8-episode audio podcast with GTD’s David Allen](http://www.43folders.com/2006/11/28/productive-talk-comp)
 
-* ^[The 7 Habits of Highly Effective People](http://www.amazon.com/7-Habits-Highly-Effective-People/dp/0935721800/ref=sr_1_2?ie=UTF8&qid=1420844862&sr=8-2&keywords=7+habits+of+highly+effective+people) by Stephen Covey
+* [The 7 Habits of Highly Effective People](http://www.amazon.com/7-Habits-Highly-Effective-People/dp/0935721800/ref=sr_1_2?ie=UTF8&qid=1420844862&sr=8-2&keywords=7+habits+of+highly+effective+people) by Stephen Covey
 
 * [Time Warrior: How to defeat procrastination, people-pleasing, self-doubt, over-commitment, broken promises and chaos](http://www.amazon.com/Time-Warrior-procrastination-people-pleasing-over-commitment/dp/1600250378/ref=sr_1_1?s=books&ie=UTF8&qid=1312385159&sr=1-1) by Steven Chandler
 
