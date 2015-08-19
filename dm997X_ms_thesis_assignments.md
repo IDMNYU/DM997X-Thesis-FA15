@@ -3,7 +3,7 @@
 
 ---
 
-## GENERAL ASSIGNMENTS
+## END OF SEMESTER DELIVERABLES
 NOTE: There are other assignments listed on the [thesis paper](dm997X_ms_thesis_paper.md) and [thesis project](dm997X_ms_thesis_project.md) pages. Due dates for all assignments can be found on the [thesis calendar](dm997X_ms_thesis_calendar.md).
 
 
@@ -23,9 +23,7 @@ Create a dropbox link of
   * Title of your project
   * URL to your project website
   * Abstract
-  
 2. *at least* 3, hi-res images of your project (RAW preferably or 300dpi)
-
 3. **all related project files** (e.g. video, HTML files, audio files, etc ) for **gold** version
 
 
