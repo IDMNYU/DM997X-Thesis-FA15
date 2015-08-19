@@ -310,96 +310,96 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 ### RECOMMENDED WRITING RESOURCES
 
-* [NYU SoE's Thesis guidelines] (http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf)
+* [NYU SoE's Thesis guidelines](http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf)
 
-* [The Elements of Style, Fourth Edition] (http://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/ref=sr_1_1?ie=UTF8&qid=1422276317&sr=8-1&keywords=stunk+and+whites+elements+of+style) by Strunk and White
+* [The Elements of Style, Fourth Edition](http://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/ref=sr_1_1?ie=UTF8&qid=1422276317&sr=8-1&keywords=stunk+and+whites+elements+of+style) by Strunk and White
 
-* [The Mac is Not a Typewriter] (http://www.amazon.com/Mac-Not-Typewriter-2nd/dp/0201782634/ref=sr_1_1?ie=UTF8&qid=1422276493&sr=8-1&keywords=the+mac+is+not+a+typewriter) by Robin Williams
+* [The Mac is Not a Typewriter](http://www.amazon.com/Mac-Not-Typewriter-2nd/dp/0201782634/ref=sr_1_1?ie=UTF8&qid=1422276493&sr=8-1&keywords=the+mac+is+not+a+typewriter) by Robin Williams
 
-* [Dr. Kendra Gaines' Basics of Academic Writing] (http://www.gwr.arizona.edu/content-topics.htm)
+* [Dr. Kendra Gaines' Basics of Academic Writing](http://www.gwr.arizona.edu/content-topics.htm)
      
-* [Guide to Writing a Masters Thesis] (http://www.kf.vu.lt/dokumentai/Uzsienio%20reikalai/Masters_Thesis_Guide.pdf)
+* [Guide to Writing a Masters Thesis](http://www.kf.vu.lt/dokumentai/Uzsienio%20reikalai/Masters_Thesis_Guide.pdf)
 
-* [How To Write X Number of Words a Day & Not Go Crazy] (http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy)
+* [How To Write X Number of Words a Day & Not Go Crazy](http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy)
 
-* [NYU's Tips for Thesis and Dissertation Writers] (http://guides.nyu.edu/content.php?pid=31133&sid=1112487)
+* [NYU's Tips for Thesis and Dissertation Writers](http://guides.nyu.edu/content.php?pid=31133&sid=1112487)
   * Dissertation Abstracts (Sample Theses)
 
-* [Purdue Writing Lab] (http://owl.english.purdue.edu/owl/)
+* [Purdue Writing Lab](http://owl.english.purdue.edu/owl/)
 
-  * [Purdue's OWL: Chicago Manual of Style 16th Edition] (https://owl.english.purdue.edu/owl/resource/717/01/)
+  * [Purdue's OWL: Chicago Manual of Style 16th Edition](https://owl.english.purdue.edu/owl/resource/717/01/)
 
   * [Purdue's OWL: MLA Formatting and Style Guide](https://owl.english.purdue.edu/owl/resource/747/01)
 
-  * [Purdue's OWL: MLA Sample Paper with Endnotes and Bibliography] (https://owl.english.purdue.edu/media/pdf/20090701095636_747.pdf)
+  * [Purdue's OWL: MLA Sample Paper with Endnotes and Bibliography](https://owl.english.purdue.edu/media/pdf/20090701095636_747.pdf)
 
-  * [Tips and Examples for Writing Thesis Statements] (https://owl.english.purdue.edu/owl/resource/587/1/)
+  * [Tips and Examples for Writing Thesis Statements](https://owl.english.purdue.edu/owl/resource/587/1/)
 
-  * [Purdue's OWL: Starting The Writing Process] (https://owl.english.purdue.edu/owl/resource/544/02/)
+  * [Purdue's OWL: Starting The Writing Process](https://owl.english.purdue.edu/owl/resource/544/02/)
 
-  * [Purdue's OWL: Why and How To Create a Useful Outline] (https://owl.english.purdue.edu/owl/resource/544/02/)
+  * [Purdue's OWL: Why and How To Create a Useful Outline](https://owl.english.purdue.edu/owl/resource/544/02/)
 
-  * [Purdue's OWL: Proofreading] (https://owl.english.purdue.edu/owl/resource/561/1/)
+  * [Purdue's OWL: Proofreading](https://owl.english.purdue.edu/owl/resource/561/1/)
 
-* [Chicago Manual of Style] (http://www.chicagomanualofstyle.org/home.html)
+* [Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html)
 
-* [Indiana University writing lab] (http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml)
+* [Indiana University writing lab](http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml)
 
-* [Columbia University writing lab] (http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html) 
+* [Columbia University writing lab](http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html) 
 
 * [Paul Brian's Common Errors in English Usage](http://public.wsu.edu/~brians/errors/errors.html)
 
-* [Bird by Bird: Some Instructions on Writing and Life] (http://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/ref=sr_1_1?ie=UTF8&qid=1421432230&sr=8-1&keywords=bird+by+bird) by Anne Lamott
+* [Bird by Bird: Some Instructions on Writing and Life](http://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/ref=sr_1_1?ie=UTF8&qid=1421432230&sr=8-1&keywords=bird+by+bird) by Anne Lamott
 
 
 ### RECOMMENDED ACADEMIC RESEARCH TOOLS
-* [EasyBib] (http://www.easybib.com)
-* [NCU Citation Builder] (http://www.lib.ncsu.edu/citationbuilder)
-* [Mendeley] (http://www.mendeley.com)
-* [EBSCO] (http://ejournals.ebsco.com/)
-* [IEEE] (http://www.ieee.org)
-* [JStor] (http://www.jstor.org)
-* [Fifty alternatives to JStor] (http://www.similarsitesearch.com/alternatives-to/jstor.org)
+* [EasyBib](http://www.easybib.com)
+* [NCU Citation Builder](http://www.lib.ncsu.edu/citationbuilder)
+* [Mendeley](http://www.mendeley.com)
+* [EBSCO](http://ejournals.ebsco.com/)
+* [IEEE](http://www.ieee.org)
+* [JStor](http://www.jstor.org)
+* [Fifty alternatives to JStor](http://www.similarsitesearch.com/alternatives-to/jstor.org)
 
 
 ### RECOMMENDED PRESENTATION RESOURCES
 
-* [Speaking.io] (http://speaking.io)
-* [Presentation Zen: Simple Ideas on Presentation Design and Delivery (2nd Edition)] (http://www.amazon.com/Presentation-Zen-Simple-Delivery-Edition/dp/0321811984/ref=sr_1_4?ie=UTF8&qid=1358102885&sr=8-4&keywords=presentation+zen) by Garr Reynolds
+* [Speaking.io](http://speaking.io)
+* [Presentation Zen: Simple Ideas on Presentation Design and Delivery (2nd Edition)](http://www.amazon.com/Presentation-Zen-Simple-Delivery-Edition/dp/0321811984/ref=sr_1_4?ie=UTF8&qid=1358102885&sr=8-4&keywords=presentation+zen) by Garr Reynolds
 
 
 ### RECOMMENDED CAREER RESOURCES
 
-* [GlassDoor] (http://www.glassdoor.com/index.htm)
+* [GlassDoor](http://www.glassdoor.com/index.htm)
 
-* [AIGA's Survey of Design Salary 2014] (http://designsalaries.aiga.org)
+* [AIGA's Survey of Design Salary 2014](http://designsalaries.aiga.org)
 
-* [NYU's CareerNet] (https://nyu-csm.symplicity.com/students)
+* [NYU's CareerNet](https://nyu-csm.symplicity.com/students)
 
-* [NYU's Wasserman Center for Career Development] (http://www.nyu.edu/life/resources-and-services/career-development/prepare-for-the-job-search.html)
+* [NYU's Wasserman Center for Career Development](http://www.nyu.edu/life/resources-and-services/career-development/prepare-for-the-job-search.html)
 
-  * [NYU's Wasserman Center's Resume &amp; Cover Letters] (http://www.nyu.edu/life/resources-and-services/career-development/prepare-for-the-job-search/resumes-and-cover-letters.html)
+  * [NYU's Wasserman Center's Resume &amp; Cover Letters](http://www.nyu.edu/life/resources-and-services/career-development/prepare-for-the-job-search/resumes-and-cover-letters.html)
 
-    * [NYU's Wasserman Center's Resume Samples] (http://www.nyu.edu/content/dam/nyu/wasserman/documents/Resume%20samples.pdf)
+    * [NYU's Wasserman Center's Resume Samples](http://www.nyu.edu/content/dam/nyu/wasserman/documents/Resume%20samples.pdf)
   
-    * [NYU's Wasserman Center's Cover Letter Sample] (http://www.nyu.edu/content/dam/nyu/wasserman/documents/cover%20letter%20sample.pdf)
+    * [NYU's Wasserman Center's Cover Letter Sample](http://www.nyu.edu/content/dam/nyu/wasserman/documents/cover%20letter%20sample.pdf)
 
-  * [NYU's Wasserman Center's Events] (https://events.nyu.edu/#view/all/group/wasserman-center)
+  * [NYU's Wasserman Center's Events](https://events.nyu.edu/#view/all/group/wasserman-center)
 
-  * [NYU's Wasserman Center's Finding a Mentor] (http://www.nyu.edu/life/resources-and-services/career-development/prepare-for-the-job-search/finding-a-mentor.html)
+  * [NYU's Wasserman Center's Finding a Mentor](http://www.nyu.edu/life/resources-and-services/career-development/prepare-for-the-job-search/finding-a-mentor.html)
 
 
 ### RECOMMENDED BOOKS
 
-* [The 4-Hour Workweek, Expanded and Updated] (http://www.amazon.com/4-Hour-Workweek-Expanded-Updated-Cutting-Edge/dp/0307465357/ref=sr_1_2?s=books&ie=UTF8&qid=1312561321&sr=1-2) by Timothy Ferriss
+* [The 4-Hour Workweek, Expanded and Updated](http://www.amazon.com/4-Hour-Workweek-Expanded-Updated-Cutting-Edge/dp/0307465357/ref=sr_1_2?s=books&ie=UTF8&qid=1312561321&sr=1-2) by Timothy Ferriss
 
-* [Anything You Want] (http://www.amazon.com/Anything-You-Want-Derek-Sivers/dp/1936719118/ref=sr_1_1?s=books&ie=UTF8&qid=1312561032&sr=1-1) by Derek Sivers 
+* [Anything You Want](http://www.amazon.com/Anything-You-Want-Derek-Sivers/dp/1936719118/ref=sr_1_1?s=books&ie=UTF8&qid=1312561032&sr=1-1) by Derek Sivers 
 
-* [Steal Like An Artist: 10 Things Nobody Told You About Being Creative] (http://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253/ref=sr_1_1?ie=UTF8&qid=1422468736&sr=8-1&keywords=steal+like+an+artist) by Austin Kleon
+* [Steal Like An Artist: 10 Things Nobody Told You About Being Creative](http://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253/ref=sr_1_1?ie=UTF8&qid=1422468736&sr=8-1&keywords=steal+like+an+artist) by Austin Kleon
 
-* [The Art of Non-Conformity: Set Your Own Rules, Live the Life You Want, and Change the World] (http://www.amazon.com/Art-Non-Conformity-Rules-Change-World/dp/0399536108/ref=sr_1_1?s=books&ie=UTF8&qid=1312561247&sr=1-1) by Chris Guillebeau
+* [The Art of Non-Conformity: Set Your Own Rules, Live the Life You Want, and Change the World](http://www.amazon.com/Art-Non-Conformity-Rules-Change-World/dp/0399536108/ref=sr_1_1?s=books&ie=UTF8&qid=1312561247&sr=1-1) by Chris Guillebeau
 
-* [The War of Art: Break Through the Blocks and Win Your Inner Creative Battles] (http://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/) by Steven Pressfield<br>If you like *Do The Work* by Steven Pressfield, which is pretty much a distillation of the principles in The War of Art, also by Steven Pressfield, I highly suggest you acquire this one as well.
+* [The War of Art: Break Through the Blocks and Win Your Inner Creative Battles](http://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/) by Steven Pressfield<br>If you like *Do The Work* by Steven Pressfield, which is pretty much a distillation of the principles in The War of Art, also by Steven Pressfield, I highly suggest you acquire this one as well.
 
 
 ### [THESIS ASSIGNMENTS](dm997X_ms_thesis_assignments.md)
