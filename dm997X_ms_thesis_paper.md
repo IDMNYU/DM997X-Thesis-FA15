@@ -116,10 +116,10 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
 
 ### Assignment: Intro (Background/Context/Rationale)
 BEFORE you write your intro, read:
-* [Indiana University's Paragraphs and Topic Sentences] (http://www.indiana.edu/~wts/pamphlets/paragraphs.shtml)
-* Chapter 4, The dissertation Introduction, in [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
+* [Indiana University's Paragraphs and Topic Sentences](http://www.indiana.edu/~wts/pamphlets/paragraphs.shtml)
+* Chapter 4, The dissertation Introduction, in [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
 
-General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam 
+General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam 
 
 * Provide background information on research topic
 * Justify the need for your study
@@ -140,10 +140,10 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
 
 ### Assignment: Conclusion
 BEFORE you write your conclusion, read:
-* [Indiana’s University’s Writing Conclusions] (http://www.indiana.edu/~wts/pamphlets/conclusions.shtml)
-* Chapter 9, Concluding your dissertation, in [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
+* [Indiana’s University’s Writing Conclusions](http://www.indiana.edu/~wts/pamphlets/conclusions.shtml)
+* Chapter 9, Concluding your dissertation, in [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
 
-General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam 
+General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam 
 
 * Remind reader of your initial research objectives  
 * Summarize Literature Review, Comparative Analysis, and Research findings (related to research objectives) 
@@ -154,10 +154,10 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
 
 ### Assignment: Abstract
 BEFORE you write your abstract, read:
-* [Indiana University's Writing Abstracts] (http://www.indiana.edu/~wts/pamphlets/abstracts.shtml)
-* Chapter 10, Finally: Writing the abstract, in [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
+* [Indiana University's Writing Abstracts](http://www.indiana.edu/~wts/pamphlets/abstracts.shtml)
+* Chapter 10, Finally: Writing the abstract, in [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
 
-General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam 
+General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam 
 
 * Write it last! 
 * Identify the problem/issue that you investigated 
@@ -170,7 +170,7 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
 
 ### Assignment: Proofread
 BEFORE you proofread, read: 
-* [Indiana University's Proofreading for Common Surface Errors: Spelling, Punctuation, and Grammar] (http://www.indiana.edu/~wts/pamphlets/proofing_grammar.shtml)
+* [Indiana University's Proofreading for Common Surface Errors: Spelling, Punctuation, and Grammar](http://www.indiana.edu/~wts/pamphlets/proofing_grammar.shtml)
 
 
 
