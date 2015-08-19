@@ -5,7 +5,7 @@
 
 ## THESIS PROCESS WEBSITE
 
-You should have a **dedicated**, thesis website to document your **weekly** progress/process of your MS Thesis (ideally in wordpress) on http://sites.bxmc.poly.edu
+You should have a **dedicated**, thesis website to document your **weekly** progress/process of your MS Thesis (ideally in wordpress) on http://sites.bxmc.poly.edu.
 * Students are expected to share their progress with the instructor and class using
 their process website.
 * You can receive web space from IDM’s Technology Manager, Elton Kwok, MAGNET 883. Email eltonkwok@nyu.edu to set up an appointment for your web space.
