@@ -137,10 +137,11 @@ Your fellow graduate students are considered to be peers in the discussion and d
 * Participate in class. Be vocal.
 * Present your work. 
 * Meet, individually, with the professor during your scheduled time to discuss your thesis progress.
+* Meet weekly with your thesis accountablity partner
 * Consult slack  at least once a week for up to date info.
 * Maintain a weekly, dedicated, thesis process website.
 * Complete all deliverables by their due dates.
-* Acquire and read copies of the required books.
+* Acquire and read copies of the required book.
 * Action – do your absolute best.
 * Strive for continuous improvement.
 * Pay attention to detail & craft.
@@ -171,7 +172,7 @@ Your fellow graduate students are considered to be peers in the discussion and d
 ##### Quantitative Grading Overview
 
 * 50% Thesis Defense (which includes [Thesis Paper](dm997X_ms_thesis_paper.md) and [Thesis Project](dm997X_ms_thesis_project.md))
-* 15% Weekly Progress: Personal Kanban (Project Milestones), Calendar, Self Assessment Rubrics & [Thesis Process Website](dm997X_ms_thesis_website.md)
+* 15% Weekly Progress: Project Milestones (aka what have you done this week?), Calendar, Self Assessment Rubrics & [Thesis Process Website](dm997X_ms_thesis_website.md)
 * 10% Mock Thesis Defenses
 * 10% Project Critique Presentations
 * 2.5% [Letter to Next Cohort](dm997X_ms_thesis_assignments.md)
