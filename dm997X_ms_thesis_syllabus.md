@@ -169,15 +169,15 @@ Your fellow graduate students are considered to be peers in the discussion and d
 
 ##### Quantitative Grading Overview
 
-* 50% Thesis Defense (which includes [Thesis Paper](dm997X_ms_thesis_paper.md) and [Thesis Project] (dm997X_ms_thesis_project.md))
-* 15% Weekly Progress: Personal Kanban (Project Milestones), Calendar, Self Assessment Rubrics & [Thesis Process Website] (dm997X_ms_thesis_website.md)
+* 50% Thesis Defense (which includes [Thesis Paper](dm997X_ms_thesis_paper.md) and [Thesis Project](dm997X_ms_thesis_project.md))
+* 15% Weekly Progress: Personal Kanban (Project Milestones), Calendar, Self Assessment Rubrics & [Thesis Process Website](dm997X_ms_thesis_website.md)
 * 10% Mock Thesis Defenses
 * 10% Project Critique Presentations
-* 2.5% [Letter to Next Cohort] (dm997X_ms_thesis_assignments.md)
+* 2.5% [Letter to Next Cohort](dm997X_ms_thesis_assignments.md)
 * 7.5% Resume, Cover Letter, LinkedIn Profile
-* 5% [Portfolio Website] (dm997X_ms_thesis_assignments.md)
+* 5% [Portfolio Website](dm997X_ms_thesis_assignments.md)
 
-Extra Credit: Career Counseling Appt. through NYU's Waserman Center
+*Extra Credit: Career Counseling Appt. through NYU's Waserman Center*
 
 ##### Qualitative Grading Overview
 
@@ -247,65 +247,65 @@ Students, in addition to their regular NYU allotment, also have available to the
 * Browser: Chrome or Firefox
 * HTML Text Editor (Sublime Text, Coda, Textmate, BBEdit/TextWrangler, etc)
 * FTP Application (Cyberduck, Transmit, Fetch, etc)
-* [Web Space] (dm997X_ms_thesis_website.md)
+* [Web Space](dm997X_ms_thesis_website.md)
   
 
 ### REQUIRED BOOKS
 The following books are available for purchase in the NYU library. I highly suggest you acquire your own copies, but there will hopefully be copies on reserve in the library. 
 
-* [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
+* [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
 
 
 ### REQUIRED TOOLS
 * Analog or Digital Calendar
-* [gitprint.com] (http://gitprint.com)
-* [Poly's Writing Center] (http://engineering.nyu.edu/academics/support/polytechnic/writing)
+* [gitprint.com](http://gitprint.com)
+* [Poly's Writing Center](http://engineering.nyu.edu/academics/support/polytechnic/writing)
 
 
 ### ADDITIONAL RECOMMENDED TIME MANAGEMENT & PRODUCTIVITY RESOURCES BEYOND PERSONAL KANBAN
 
 Hope these resources help. They've helped me, but the secret is discipline, focus, and prioritizing (which requires not doing something else). No system is a magic cure. A system only works if you use it daily.
-* [Personal Kanban] (http://www.personalkanban.com)
-* [RescueTime] (http://rescuetime.com) 
-* [Zapier] (http://zapier.com)
+* [Personal Kanban](http://www.personalkanban.com)
+* [RescueTime](http://rescuetime.com) 
+* [Zapier](http://zapier.com)
 
 * **^The following books are available for purchase in the NYU library.** *
 
 *The Now Habit*
 
-* ^[The Now Habit] (http://www.amazon.com/Now-Habit-Overcoming-Procrastination-Guilt-Free/dp/1585425524/ref=sr_1_1?ie=UTF8&qid=1420844824&sr=8-1&keywords=neil+fiore) by Neil Fiore
+* ^[The Now Habit](http://www.amazon.com/Now-Habit-Overcoming-Procrastination-Guilt-Free/dp/1585425524/ref=sr_1_1?ie=UTF8&qid=1420844824&sr=8-1&keywords=neil+fiore) by Neil Fiore
 
-* [Neil Fiore’s Unschedule on lifeclever.com] (http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play)
+* [Neil Fiore’s Unschedule on lifeclever.com](http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play)
 
-* [Neil Fiore’s Sample Unschedule (I suggest a modified version of this as we will discuss] (http://www.neilfiore.com/nowhabit-schedule.shtml)
+* [Neil Fiore’s Sample Unschedule (I suggest a modified version of this as we will discuss](http://www.neilfiore.com/nowhabit-schedule.shtml)
 
 *Getting Things Done* (GTD) is more complicated but I use a lot of the techniques in conjunction with Personal Kanban.
 
-* ^[Getting Things Done: The Art of Stress-Free Productivity] (http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280/ref=sr_1_1?ie=UTF8&qid=1420844841&sr=8-1&keywords=getting+things+done) by David Allen
+* ^[Getting Things Done: The Art of Stress-Free Productivity](http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280/ref=sr_1_1?ie=UTF8&qid=1420844841&sr=8-1&keywords=getting+things+done) by David Allen
 
-* [43 Folders (All things GTD by Merlin Mann)] (http://www.43folders.com)
+* [43 Folders (All things GTD by Merlin Mann)](http://www.43folders.com)
 
-* [Productive Talk Compilation: 8-episode audio podcast with GTD’s David Allen] (http://www.43folders.com/2006/11/28/productive-talk-comp)
+* [Productive Talk Compilation: 8-episode audio podcast with GTD’s David Allen](http://www.43folders.com/2006/11/28/productive-talk-comp)
 
-* ^[The 7 Habits of Highly Effective People] (http://www.amazon.com/7-Habits-Highly-Effective-People/dp/0935721800/ref=sr_1_2?ie=UTF8&qid=1420844862&sr=8-2&keywords=7+habits+of+highly+effective+people) by Stephen Covey
+* ^[The 7 Habits of Highly Effective People](http://www.amazon.com/7-Habits-Highly-Effective-People/dp/0935721800/ref=sr_1_2?ie=UTF8&qid=1420844862&sr=8-2&keywords=7+habits+of+highly+effective+people) by Stephen Covey
 
-* [Time Warrior: How to defeat procrastination, people-pleasing, self-doubt, over-commitment, broken promises and chaos] (http://www.amazon.com/Time-Warrior-procrastination-people-pleasing-over-commitment/dp/1600250378/ref=sr_1_1?s=books&ie=UTF8&qid=1312385159&sr=1-1) by Steven Chandler
+* [Time Warrior: How to defeat procrastination, people-pleasing, self-doubt, over-commitment, broken promises and chaos](http://www.amazon.com/Time-Warrior-procrastination-people-pleasing-over-commitment/dp/1600250378/ref=sr_1_1?s=books&ie=UTF8&qid=1312385159&sr=1-1) by Steven Chandler
 
-* [Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time by Brian Tracy] (http://www.amazon.com/Eat-That-Frog-Great-Procrastinating/dp/1576754227/ref=sr_1_1?s=books&ie=UTF8&qid=1358357240&sr=1-1)
+* [Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time by Brian Tracy](http://www.amazon.com/Eat-That-Frog-Great-Procrastinating/dp/1576754227/ref=sr_1_1?s=books&ie=UTF8&qid=1358357240&sr=1-1)
 
-* [Personal Kanban: Mapping Work | Navigating Life] (http://www.amazon.com/Personal-Kanban-Mapping-Work-Navigating/dp/1453802266/ref=sr_1_1?s=books&ie=UTF8&qid=1358043876&sr=1-1&keywords=personal+kanban) by Jim Benson and Tonianne DeMaria Barry 
+* [Personal Kanban: Mapping Work | Navigating Life](http://www.amazon.com/Personal-Kanban-Mapping-Work-Navigating/dp/1453802266/ref=sr_1_1?s=books&ie=UTF8&qid=1358043876&sr=1-1&keywords=personal+kanban) by Jim Benson and Tonianne DeMaria Barry 
 
 *The Pomodoro Technique*
 * [Pomodoro Technique Illustrated: Can You Focus - Really Focus - for
-25 Minutes?] (http://www.amazon.com/Pomodoro-Technique-Illustrated-Minutes-Pragmatic/dp/1934356506/ref=sr_1_1?s=books&ie=UTF8&qid=1358372303&sr=1-1) by Staffan Noteberg
+25 Minutes?](http://www.amazon.com/Pomodoro-Technique-Illustrated-Minutes-Pragmatic/dp/1934356506/ref=sr_1_1?s=books&ie=UTF8&qid=1358372303&sr=1-1) by Staffan Noteberg
 
-* [pomodorotechnique.com] (http://pomodorotechnique.com/)
+* [pomodorotechnique.com](http://pomodorotechnique.com/)
 
-* [5 Pomodoro Timer Extensions For Google Chrome] (http://www.ilovefreesoftware.com/05/featured/pomodoro-timer-extensions-google-chrome.html)
+* [5 Pomodoro Timer Extensions For Google Chrome](http://www.ilovefreesoftware.com/05/featured/pomodoro-timer-extensions-google-chrome.html)
 
-* [PomodoroFox] (https://addons.mozilla.org/en-US/firefox/addon/pomodorofox)
+* [PomodoroFox](https://addons.mozilla.org/en-US/firefox/addon/pomodorofox)
 
-* [The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal by Jim Loehr & Tony Schwartz] (http://www.amazon.com/The-Power-Full-Engagement-Performance/dp/0743226755/ref=sr_1_5?ie=UTF8&qid=1358355636&sr=8-5&keywords=tony+schwartz)
+* [The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal by Jim Loehr & Tony Schwartz](http://www.amazon.com/The-Power-Full-Engagement-Performance/dp/0743226755/ref=sr_1_5?ie=UTF8&qid=1358355636&sr=8-5&keywords=tony+schwartz)
 
 
 ### RECOMMENDED WRITING RESOURCES
