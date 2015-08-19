@@ -117,8 +117,9 @@ You will meet with your Thesis Project Advisor at least 2 to 4 times throughout 
 ####External Reviewer
 The External Reviewer is identified in consultation with your Thesis Project Advisor. The Thesis Faculty or IDM's Academic Advisor will contact the External Reviewer to determine their availability for the Thesis Defense. The External Reviewer attends your Thesis Defense Panel, and will be given a digital copy of your Thesis paper for review.
 
-#### Your Accountability Partner
-You will partner with a classmate for moral support and more importantly to stay on task. Do not blame
+#### Your Thesis Accountability Partner
+You will partner with a classmate for moral support, ideation, proofreading, presentation practice, and most importantly to stay on task. 
+
 ####Thesis Peers
 Your fellow graduate students are considered to be peers in the discussion and dialogue of your thesis. Students are strongly encouraged to share research and resources as well as critique from their peers. Utilize the grad studio MAGNET 804 to hold informal critiques and discussion outside of class.
 
@@ -251,7 +252,6 @@ Students, in addition to their regular NYU allotment, also have available to the
   
 
 ### REQUIRED BOOKS
-The following books are available for purchase in the NYU library. I highly suggest you acquire your own copies, but there will hopefully be copies on reserve in the library. 
 
 * [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
 
