@@ -10,9 +10,7 @@
    
    
 ###Github Repository: http://github.com/IDMNYU/DM997X-Thesis-FA15
-
-####Course Management Site
-* http://bxmc.slack.com 
+####Course Management Site: http://bxmc.slack.com 
 
 # (THIS IS A DRAFT!!!)
 ## This will be in draft form until Monday, August 31st.
