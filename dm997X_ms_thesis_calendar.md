@@ -15,9 +15,9 @@
     <td>Before Class Begins</td>
     <td>
     <ul>
-    <li><strong>Read the <a href="dm997X_ms_thesis_syllabus.md">syllabus</a></strong> and supporting docs on github and be prepared to ask questions on first day of class</li>
+    <li><strong>Read the <a href="dm997X_ms_thesis_syllabus.md">syllabus</a></strong> and supporting docs on gitbook and be prepared to ask questions on first day of class.</li>
     <li><strong>Read <a href="http://chrisguillebeau.com/how-to-write-a-dozen-novels-and-hundreds-of-stories" target="_blank">How To Write A Dozen Novels and Hundreds of Stories</a></strong></li>
-    <li><strong><a href="https://getit.library.nyu.edu/go/6809674" target="_blank">Succeeding with your master's dissertation a step-by-step handbook</a> by John Biggam</li> 
+    <li><strong>Begin Reading <a href="https://getit.library.nyu.edu/go/6809674" target="_blank">Succeeding with your master's dissertation a step-by-step handbook</a> by John Biggam</li> 
     <li>By or before Wednesday, Sep 2nd at noon <strong>post on slack a PDF (firstnamelastname_MSThesis_Beg_of_Sem_Status.pdf) of your responses to the MS Thesis Beginning of Semester Status doc</strong> (MS_Thesis_Beg_of_Sem_Status.doc) found under Files on slack.</li>
     </ul></td>    
 </tr>
@@ -49,7 +49,7 @@
     <li><strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 1st Draft</li>
     <li>In-class peer critiques</li>
     <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group A</a>: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
-    <li>Make an appointment with IDM’s Technology Manager, Elton Kwok, MAGNET 883, eltonkwok@nyu.edu to connect a database to your <a href="dm997X_ms_thesis_website.md">thesis website</a> on http://sites.bxmc.poly.edu</li>
+    <li>Make an appointment with IDM’s Technology Manager, Elton Kwok, MAGNET 883, eltonkwok@nyu.edu to connect a database to your <a href="dm997X_ms_thesis_website.md">thesis process website</a> on http://sites.bxmc.poly.edu</li>
     </ul>
     </td> 
 </tr>
@@ -205,7 +205,7 @@ Include that person's name [and their title and/or relationship with you (if not
 </tr>
 <tr>
     <td>Dec 18</td>
-    <td><strong>**3 Bound Copies** of Your Thesis Paper on *acid-free paper* due to Eric Maiello. If you want a bound copy for yourself, bind 4. </strong> 
+    <td><strong>**2 Bound Copies** of Your Thesis Paper on *acid-free paper* due to Eric Maiello. If you want a bound copy for yourself, bind 3. </strong> 
     <ul>
     <li>See instructions on how to get them printed in NYU SoE's Thesis guidelines which you can download from slack  under <a href="http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf" target="_blank">Files</a></li>
     </ul></td>
