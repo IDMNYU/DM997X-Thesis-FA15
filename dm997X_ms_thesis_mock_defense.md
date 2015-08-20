@@ -14,7 +14,10 @@ Mock thesis defenses will be held on designated Wednesdays, and will consist of 
 
 You are always welcome to invite an outside critic to your project critiques and/or mock thesis defenses. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc.  
 
-Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and/or your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. Have at least two classmates take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project. 
+Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and/or your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. 
+* Have at least two classmates take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. 
+* Review your crit notes and reflect upon what was said. '
+* Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project. 
 
 Rules of the Critique:
 * Be Present and Engaged. (i.e. Close your laptops and turn off your cellphones.)
