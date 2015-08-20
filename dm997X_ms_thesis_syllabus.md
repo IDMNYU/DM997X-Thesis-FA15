@@ -40,7 +40,6 @@ The following IDM program goals are reinforced within this course. At a graduate
 * develop **critical thinking skills** that will allow them to analyze and position their work within cultural, historic, aesthetic, economic, and technological contexts.
 * gain knowledge of **professional practices and organizations** by developing their verbal, visual, and written communication for documentation and presentation, exhibition and promotion, networking, and career preparation.
 
-
 ### COURSE GOALS
 
 This course will help students deeply:
@@ -50,7 +49,6 @@ This course will help students deeply:
 * write
 * iterate
 * present
-
 
 ### LEARNING OUTCOMES
 
@@ -84,31 +82,7 @@ they are most useful exactly when you feel you have nothing to talk about or sho
 Students will also conduct self assessments as well as be evaluated by the professor throughout the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something. 
 
 
-### THESIS COMPONENTS
-The MS Thesis in Digital Media is comprised of four primary components: 
-* [Thesis Paper](dm997X_ms_thesis_paper.md)
-* [Thesis Project](dm997X_ms_thesis_project.md)
-* [Thesis Process Website](dm997X_ms_thesis_website.md)
-* [Thesis Defense](dm997X_ms_thesis_defense.md)
 
-
-### THESIS ROLES
-Your thesis is under the guidance of faculty and a community of peers, both inside and outside the university, who play a number of roles:
-
-#### Thesis Faculty
-The Thesis faculty (for this class De Angela L. Duff) is the primary critic and mentor throughout the thesis process. 
-
-#### Thesis Project Advisor
-You will meet with your Thesis Project Advisor at least 2 to 4 times throughout the semester for feedback on your thesis paper, project, and/or defense presentation. *Document* your meetings with your advisor (date, time, length, and typed notes) on your thesis website. Your Thesis Project Advisor attends your Thesis Defense Panel, and will be given a digital copy of your Thesis paper for review.
-
-####External Reviewer
-The External Reviewer is identified in consultation with your Thesis Project Advisor. The Thesis Faculty or IDM's Academic Advisor will contact the External Reviewer to determine their availability for the Thesis Defense. The External Reviewer attends your Thesis Defense Panel, and will be given a digital copy of your Thesis paper for review.
-
-#### Your Thesis Accountability Partner
-You will partner with a classmate for moral support, ideation, proofreading, presentation practice, and most importantly to stay on task. 
-
-####Thesis Peers
-Your fellow graduate students are considered to be peers in the discussion and dialogue of your thesis. Students are strongly encouraged to share research and resources as well as critique from their peers. Utilize IDM's grad studio MAGNET 804 to hold informal critiques and discussion outside of class.
 
 
 ### COMMUNICATING WITH THE PROFESSOR OUTSIDE OF CLASS
@@ -245,6 +219,31 @@ Students, in addition to their regular NYU allotment, also have available to the
 * Analog or Digital Calendar
 * [Poly's Writing Center](http://engineering.nyu.edu/academics/support/polytechnic/writing)
 
+### THESIS COMPONENTS
+The MS Thesis in Digital Media is comprised of four primary components: 
+* [Thesis Paper](dm997X_ms_thesis_paper.md)
+* [Thesis Project](dm997X_ms_thesis_project.md)
+* [Thesis Process Website](dm997X_ms_thesis_website.md)
+* [Thesis Defense](dm997X_ms_thesis_defense.md)
+
+
+### THESIS ROLES
+Your thesis is under the guidance of faculty and a community of peers, both inside and outside the university, who play a number of roles:
+
+#### Thesis Faculty
+The Thesis faculty (for this class De Angela L. Duff) is the primary critic and mentor throughout the thesis process. 
+
+#### Thesis Project Advisor
+You will meet with your Thesis Project Advisor at least 2 to 4 times throughout the semester for feedback on your thesis paper, project, and/or defense presentation. *Document* your meetings with your advisor (date, time, length, and typed notes) on your thesis website. Your Thesis Project Advisor attends your Thesis Defense Panel, and will be given a digital copy of your Thesis paper for review.
+
+####External Reviewer
+The External Reviewer is identified in consultation with your Thesis Project Advisor. The Thesis Faculty or IDM's Academic Advisor will contact the External Reviewer to determine their availability for the Thesis Defense. The External Reviewer attends your Thesis Defense Panel, and will be given a digital copy of your Thesis paper for review.
+
+#### Your Thesis Accountability Partner
+You will partner with a classmate for moral support, ideation, proofreading, presentation practice, and most importantly to stay on task. 
+
+####Thesis Peers
+Your fellow graduate students are considered to be peers in the discussion and dialogue of your thesis. Students are strongly encouraged to share research and resources as well as critique from their peers. Utilize IDM's grad studio MAGNET 804 to hold informal critiques and discussion outside of class.
 
 ### [CALENDAR](dm997X_ms_thesis_calendar.md)
 See Appendix
