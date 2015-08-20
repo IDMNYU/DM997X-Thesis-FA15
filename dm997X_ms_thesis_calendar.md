@@ -189,7 +189,7 @@ Include that person's name [and their title and/or relationship with you (if not
 </tr>
 <tr>
     <td>Wed, Dec 02</td>
-    <td><a href="dm997X_ms_thesis_assignments.md">Dropbox link of all related project files, Resume, Cover Letter, LinkedIn Profile, Letter to Next Cohort, and Portfolio Website</a></td>
+    <td><a href="dm997X_ms_thesis_assignments.md">End of Semester Deliverables</a></td>
 </tr>
 <tr>
     <td>Dec 7-11 (up to 4 per day)</td>
