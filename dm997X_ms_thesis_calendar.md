@@ -48,7 +48,7 @@
     <li><strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 1st Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Visual Outline or Mind Map</a></strong> 1st Draft</li>
     <li>In-class peer critiques</li>
-    <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group A</a>: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
+    <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group A</a>: Individual Meetings / Project Milestones / Self Assessment / Project Website Updates</li>
     <li>Make an appointment with IDM’s Technology Manager, Elton Kwok, MAGNET 883, eltonkwok@nyu.edu to connect a database to your <a href="dm997X_ms_thesis_website.md">thesis process website</a> on http://sites.bxmc.poly.edu</li>
     </ul>
     </td> 
@@ -68,7 +68,7 @@
         <li><strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 2nd Draft</li>
         <li><strong><a href="dm997X_ms_thesis_paper.md">Visual Outline or Mind Map</a></strong> 2nd Draft</li>
         <li>In-class peer critiques</li>
-        <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group B</a>: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
+        <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group B</a>: Individual Meetings / Project Milestones / Self Assessment / Project Website Updates</li>
         </ul>
     </td> 
 </tr>
@@ -80,7 +80,7 @@
     <li><strong><a href="dm997X_ms_thesis_paper.md">Detailed Written Outline</a></strong> 1st Draft</li>
     
     <li>In-class peer critiques</li>
-    <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group A</a>: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
+    <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group A</a>: Individual Meetings / Project Milestones / Self Assessment / Project Website Updates</li>
     </ul> 
     </td> 
 </tr>
@@ -91,7 +91,7 @@
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 1st Draft</li> 
     <li>In-class peer critiques: Body Drafts (Bring at least 1 printed copy (ideally 2) to class so that a classmate can read and edit your document during class.)</li>
-<li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group B</a>: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
+<li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group B</a>: Individual Meetings / Project Milestones / Self Assessment / Project Website Updates</li>
     </ul> 
     </td> 
 </tr>
@@ -100,7 +100,7 @@
     <td>Wed, Oct 07</td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_project.md">Project Presentation: Beta <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
     
     <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 1st Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 2nd Draft</li>
@@ -113,7 +113,7 @@
     <td>
     <ul>
     <li><strong>Schedule one on one, 30 minute appointments for midterm assessment.</strong> Bring your printed self-assessments with you to your scheduled one one appointments.</li>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_project.md">Project Presentation: Beta <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
     
     <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 2nd Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 3rd Draft</li>
