@@ -20,7 +20,7 @@ Here's a guide for a starting point:
 
 ***(Working Title)* is a *(What is it?)* that *(What does it do?)* for *(Your Audience)* to *(Why? What's the purpose)*.** 
 
-*Note: Obviously you would not leave the parenthesis; it's a just a marker to denote what you should add.*
+*Note: Obviously you would not leave in the parentheses; it's a just a marker to denote what you should add.*
 
 
 
