@@ -67,7 +67,7 @@ This class will consist of
 * Individual Meetings
 * In-class Peer Critiques
 * Project Presentations and Critique
-* [Mock Thesis Defenses and Critique]()
+* [Mock Thesis Defenses and Critique](dm997X_ms_thesis_mock_defense.md)
 * [Thesis Defense](dm997X_ms_thesis_defense.md) 
 
 **Individual Meetings**<br>The order of our weekly, individual 20 minute status meetings will be determined on the first day of class. We will alternate weeks between group A and B. Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed *prior* to meeting with the instructor. 
