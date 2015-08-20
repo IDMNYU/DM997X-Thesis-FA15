@@ -40,6 +40,12 @@ This website should market and promote your body of work for possible employment
 
 Write a letter to the next class giving them advice on how to succeed with their thesis paper, project, and defense. (What would you do differently if you could start the course again? What would you do the same?)
 
+### RESUME & COVER LETTER
+*Post on slack as a pdf.*
+
+### LINKEDIN PROFILE
+*Post URL on slack.*
+
 
 
 
