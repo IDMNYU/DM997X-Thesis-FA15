@@ -11,5 +11,5 @@
 * [Thesis Project](dm997X_ms_thesis_project.md)
 * [Thesis Research](dm997X_ms_thesis_research.md)
 * [Thesis Process Website](dm997X_ms_thesis_website.md)
-* Resources
+* [Resources](dm997x_ms_thesis_resources.md)
 
