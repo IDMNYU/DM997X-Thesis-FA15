@@ -5,7 +5,7 @@
 
 ## RECOMMENDED RESOURCES
 
-### TIME MANAGEMENT & PRODUCTIVITY RESOURCES BEYOND PERSONAL KANBAN
+### TIME MANAGEMENT & PRODUCTIVITY RESOURCES (BEYOND PERSONAL KANBAN)
 
 Hope these resources help. They've helped me, but the secret is discipline, focus, and prioritizing (which requires not doing something else). No system is a magic cure. A system only works if you use it daily.
 * [Personal Kanban](http://www.personalkanban.com)
