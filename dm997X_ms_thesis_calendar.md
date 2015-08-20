@@ -200,7 +200,7 @@ Include that person's name [and their title and/or relationship with you (if not
     <td><i>Reading Day</i></td> 
 </tr>
 <tr>
-    <td>Dec 14-18</td>
+    <td>Dec 12-18</td>
     <td><strong>Exit Interview Survey</strong> (will be emailed to you)</td>
 </tr>
 <tr>
