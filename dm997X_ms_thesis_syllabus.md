@@ -162,10 +162,10 @@ Your fellow graduate students are considered to be peers in the discussion and d
 * 15% Weekly Progress: Project Milestones (aka what have you done this week?), Calendar, Self Assessment Rubrics & [Thesis Process Website](dm997X_ms_thesis_website.md)
 * 10% Mock Thesis Defenses
 * 10% Project Critique Presentations
-* (dm997X_ms_thesis_assignments.md)
+* (dm997xmsthesis_end_of_semester_deliverables.md)
 
 * 2.5% [Letter to Next Cohort](dm997X_ms_thesis_assignments.md)
-* 7.5% Resume, Cover Letter, LinkedIn Profile
+* 7.5% 
 * 05% [Portfolio Website](dm997X_ms_thesis_assignments.md)
 
 *Extra Credit: Career Counseling Appt. through NYU's Waserman Center*
