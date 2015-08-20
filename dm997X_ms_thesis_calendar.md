@@ -189,15 +189,11 @@ Include that person's name [and their title and/or relationship with you (if not
 </tr>
 <tr>
     <td>Wed, Dec 02</td>
-    <td><a href="dm997xmsthesis_end_of_semester_deliverables.md">End of Semester Deliverables</a></td>
+    <td><strong><a href="dm997xmsthesis_end_of_semester_deliverables.md">End of Semester Deliverables</a></strong></td>
 </tr>
 <tr>
     <td>Dec 7-11 (up to 4 per day)</td>
     <td><strong><a href="dm997X_ms_thesis_defense.md">Thesis Defenses</a></strong></td>
-</tr>
-<tr>
-    <td>Dec 16</td>
-    <td><i>Reading Day</i></td> 
 </tr>
 <tr>
     <td>Dec 12-18</td>
@@ -209,10 +205,6 @@ Include that person's name [and their title and/or relationship with you (if not
     <ul>
     <li>See instructions on how to get them printed in NYU SoE's Thesis guidelines which you can download from slack  under <a href="http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf" target="_blank">Files</a></li>
     </ul></td>
-</tr>
-<tr>
-    <td>Dec 17-Dec 23</td>
-    <td><i>Fall Semester Exams</i></td> 
 </tr>
 </table>
 
