@@ -99,8 +99,7 @@
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
     
     <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 1st Draft</li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 2nd Draft (Please have someone other than your self read and edit your document before you turn it in.
-Include that person's name [and their title and/or relationship with you (if not a classmate)] at the top of the paper as Editor )</li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 2nd Draft</li>
 
     </ul>     
     </td> 
@@ -115,7 +114,7 @@ Include that person's name [and their title and/or relationship with you (if not
     <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 2nd Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 3rd Draft</li>
  
-    </ul> (Please have someone other than your self read and edit your intro and body before you turn it in. (Even better, have someone read them out loud to you.) Include that person's name [and their title and/or relationship with you (if not a classmate)] at the top of the paper as Editor )
+    </ul> 
     </td> 
 </tr>
 
@@ -128,7 +127,7 @@ Include that person's name [and their title and/or relationship with you (if not
     <li><strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 1st Draft </li> 
     <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 1st Draft</li>
     </ul> 
-    (Please have someone other than your self read and edit your conclusion and abstract before you turn it in. (Even better, have someone read them out loud to you.) Include that person's name [and their title and/or relationship with you (if not a classmate)] at the top of the paper as Editor )
+   
     </td> 
 </tr>
 <tr>
@@ -139,7 +138,7 @@ Include that person's name [and their title and/or relationship with you (if not
     <li><strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 2nd Draft</li> 
     <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 2nd Draft</li>
     </ul> 
-    (Please have someone other than your self read and edit your conclusion and abstract before you turn it in. (Even better, have someone read them out loud to you.) Include that person's name [and their title and/or relationship with you (if not a classmate)] at the top of the paper as Editor )
+   
     </td> 
 </tr>
 <tr>
@@ -152,7 +151,7 @@ Include that person's name [and their title and/or relationship with you (if not
     <ul>
     <li><strong>10 minute <a href="dm997X_ms_thesis_project.md">Project Gold Presentations</a></strong> for ALL students.</li>
     </ul> 
-    (Please have someone other than your self read and edit your Vita, Acknowledgements (optional), and Dedication (optional) before you turn it in. (Even better, have someone read your intro and body out loud to you.) Include that person's name [and their title and/or relationship with you (if not a classmate)] at the top of the paper as Editor )
+    
     </td> 
 </tr>
 
@@ -166,7 +165,7 @@ Include that person's name [and their title and/or relationship with you (if not
     <li><strong><a href="dm997X_ms_thesis_assignments.md">Dropbox link of deliverables for the ms thesis catalog</a></strong></li>
      
     </ul>
-    (Please have someone other than your self read and edit your Vita, Acknowledgements (optional), and Dedication (optional) before you turn it in. (Even better, have someone read them out loud to you.) Include that person's name [and their title and/or relationship with you (if not a classmate)] at the top of the paper as Editor )     
+   
     </td> 
 </tr>
 <tr>
@@ -175,10 +174,10 @@ Include that person's name [and their title and/or relationship with you (if not
     <ul>
     <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> 2nd Draft</li> 
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Vita, Acknowledgements (optional), and Dedication (optional)</a></strong> 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Vita, Acknowledgements (optional), and Dedication (optional)</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></strong> 1st Draft</li>
     
     </ul>
-    (Please have someone other than your self read and edit your compiled thesis paper before you turn it in. (Even better, have someone read your it out loud to you AND make an appointment at the writing center.) Include that person's name [and their title and/or relationship with you (if not a classmate)] at the top of the paper as Editor ) 
+    
     </td> 
 
 </tr>
