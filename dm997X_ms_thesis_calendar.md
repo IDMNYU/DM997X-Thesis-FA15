@@ -187,7 +187,7 @@
 </tr>
 <tr>
     <td>Wed, Dec 02</td>
-    <td><strong><a href="dm997xmsthesis_end_of_semester_deliverables.md">End of Semester Deliverables</a></strong></td>
+    <td><strong><a href="dm997xmsthesis_end_of_semester_deliverables.md">End of Semester Deliverables</a></strong> Due</td>
 </tr>
 <tr>
     <td>Dec 7-11 (up to 4 per day)</td>
@@ -199,8 +199,9 @@
 </tr>
 <tr>
     <td>Dec 18</td>
-    <td><strong>**2 Bound Copies** of Your Thesis Paper on *acid-free paper* due to Eric Maiello. If you want a bound copy for yourself, bind 3. </strong> 
+    <td><strong>2 Bound Copies of Your Thesis Paper on acid-free paper due to Eric Maiello.</strong> 
     <ul>
+    <li>If you want a bound copy for yourself, bind 3.</li>
     <li>See instructions on how to get them printed in NYU SoE's Thesis guidelines which you can download from slack  under <a href="http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf" target="_blank">Files</a></li>
     </ul></td>
 </tr>
