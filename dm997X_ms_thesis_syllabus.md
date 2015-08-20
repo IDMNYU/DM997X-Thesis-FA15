@@ -159,11 +159,11 @@ Your fellow graduate students are considered to be peers in the discussion and d
 ##### Quantitative Grading Overview
 
 * 50% Thesis Defense (which includes [Thesis Paper](dm997X_ms_thesis_paper.md) and [Thesis Project](dm997X_ms_thesis_project.md))
-* 15% Weekly Progress: Project Milestones (aka what have you done this week?) on [Thesis Process Website](dm997X_ms_thesis_website.md) and Calendar
-* 15% [End of Semester Deliverables](dm997xmsthesis_end_of_semester_deliverables.md)
+* 12% Weekly Progress: Project Milestones (aka what have you done this week?) on [Thesis Process Website](dm997X_ms_thesis_website.md) and Calendar
+* 10% [End of Semester Deliverables](dm997xmsthesis_end_of_semester_deliverables.md)
 * 10% Mock Thesis Defenses
 * 10% Project Critique Presentations
-* Self Assessment & Rubrics
+* 08% Self Assessment & Rubrics
 
 *Extra Credit: Career Counseling Appt. through NYU's Waserman Center*
 
