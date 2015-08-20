@@ -160,10 +160,10 @@ Your fellow graduate students are considered to be peers in the discussion and d
 
 * 50% Thesis Defense (which includes [Thesis Paper](dm997X_ms_thesis_paper.md) and [Thesis Project](dm997X_ms_thesis_project.md))
 * 12% Weekly Progress: Project Milestones (aka what have you done this week?) on [Thesis Process Website](dm997X_ms_thesis_website.md) and Calendar
-* 10% [End of Semester Deliverables](dm997xmsthesis_end_of_semester_deliverables.md)
+* 15% [End of Semester Deliverables](dm997xmsthesis_end_of_semester_deliverables.md)
 * 10% Mock Thesis Defenses
 * 10% Project Critique Presentations
-* 08% Self Assessment & Rubrics
+* 03% Self Assessment & Rubrics
 
 *Extra Credit: Career Counseling Appt. through NYU's Waserman Center*
 
