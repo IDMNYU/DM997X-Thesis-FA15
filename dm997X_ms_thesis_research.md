@@ -2,7 +2,7 @@
 ##### Fall 2015 • De Angela L. Duff • Wednesdays • 7:30-10:20pm • 2MTC MAGNET 811 
 
 ---
-
+## THESIS RESEARCH
 There are many ways to conduct research beyond doing literature reviews (i.e. reading). I have bolded the ones you may find the most useful. I suggest doing research on what these research methods are if you don't know.
 
 01. **A/B Testing**
