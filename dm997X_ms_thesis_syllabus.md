@@ -68,7 +68,8 @@ This class will consist of
 * In-class Peer Critiques
 * Project Presentations and Critique
 * [Mock Thesis Defenses and Critique](dm997X_ms_thesis_mock_defense.md)
-* [Thesis Defense](dm997X_ms_thesis_defense.md) 
+* [Thesis Defense](dm997X_ms_thesis_defense.md)
+* Self Assessment
 
 **Individual Meetings**<br>The order of our weekly, individual 20 minute status meetings will be determined on the first day of class. We will alternate weeks between group A and B. Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed *prior* to meeting with the instructor. 
 
@@ -79,15 +80,16 @@ they are most useful exactly when you feel you have nothing to talk about or sho
 
 **[Project Presentations & Mock Thesis Defenses](dm997X_ms_thesis_mock_defense.md)**<br>Project critiques or mock thesis defenses will be held on designated Wednessdays, and will consist of the professor, ALL thesis students, and outside critics, at times. 
 
+**Self Assessment**
 Students will also conduct self assessments as well as be evaluated by the professor throughout the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something. 
 
 
 ### THESIS COMPONENTS
 The MS Thesis in Digital Media is comprised of four primary components: 
-* Thesis Paper
-* Thesis Project
-* Thesis Process Website 
-* Thesis Defense
+* [Thesis Paper](dm997X_ms_thesis_paper.md)
+* [Thesis Project](dm997X_ms_thesis_project.md)
+* [Thesis Process Website](dm997X_ms_thesis_website.md)
+* [Thesis Defense](dm997X_ms_thesis_defense.md)
 
 
 ### THESIS ROLES
@@ -160,6 +162,8 @@ Your fellow graduate students are considered to be peers in the discussion and d
 * 15% Weekly Progress: Project Milestones (aka what have you done this week?), Calendar, Self Assessment Rubrics & [Thesis Process Website](dm997X_ms_thesis_website.md)
 * 10% Mock Thesis Defenses
 * 10% Project Critique Presentations
+* (dm997X_ms_thesis_assignments.md)
+
 * 2.5% [Letter to Next Cohort](dm997X_ms_thesis_assignments.md)
 * 7.5% Resume, Cover Letter, LinkedIn Profile
 * 05% [Portfolio Website](dm997X_ms_thesis_assignments.md)
@@ -388,22 +392,6 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 * [Steal Like An Artist: 10 Things Nobody Told You About Being Creative](http://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253/ref=sr_1_1?ie=UTF8&qid=1422468736&sr=8-1&keywords=steal+like+an+artist) by Austin Kleon
 
 * [The War of Art: Break Through the Blocks and Win Your Inner Creative Battles](http://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/) by Steven Pressfield<br>(If you like *Do The Work* by Steven Pressfield, which is pretty much a distillation of the principles in The War of Art, also by Steven Pressfield, I highly suggest you acquire this one as well.)
-
-
-### [THESIS ASSIGNMENTS](dm997X_ms_thesis_assignments.md)
-See Appendix
-
-### [THESIS PROCESS WEBSITE](dm997X_ms_thesis_website.md)
-See Appendix
-
-### [THESIS PAPER](dm997X_ms_thesis_paper.md)
-See Appendix
-
-### [THESIS PROJECT](dm997X_ms_thesis_project.md)
-See Appendix
-
-### [THESIS DEFENSE](dm997X_ms_thesis_defense.md)
-See Appendix
 
 ### [CALENDAR](dm997X_ms_thesis_calendar.md)
 See Appendix
