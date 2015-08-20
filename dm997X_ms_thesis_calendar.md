@@ -18,7 +18,7 @@
     <li><strong>Read the <a href="dm997X_ms_thesis_syllabus.md">syllabus</a></strong> and supporting docs on gitbook and be prepared to ask questions on first day of class.</li>
     <li><strong>Read <a href="http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy" target="_blank">How To Write X Number of Words a Day &amp; Not Go Crazy</a></strong></li>
     <li><strong>Begin Reading <a href="https://getit.library.nyu.edu/go/6809674" target="_blank">Succeeding with your master's dissertation a step-by-step handbook</a> by John Biggam</li> 
-    <li>By or before Wednesday, Sep 2nd at noon <strong>post on slack a PDF (firstnamelastname_MSThesis_Beg_of_Sem_Status.pdf) of your responses to the MS Thesis Beginning of Semester Status doc</strong> (MS_Thesis_Beg_of_Sem_Status.doc) found under Files on slack.</li>
+    <li>By or before Wednesday, Sep 2nd at noon <strong>direct message on Slack a PDF (firstname_msthesis_status.pdf) of your responses to the <a href="beginning_of_semester_status.md">MS Thesis Beginning of Semester Status doc.</li>
     </ul></td>    
 </tr>
 <tr>
