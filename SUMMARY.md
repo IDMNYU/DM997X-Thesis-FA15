@@ -4,7 +4,7 @@
 * [Syllabus](dm997X_ms_thesis_syllabus.md)
 * [Calendar](dm997X_ms_thesis_calendar.md)
 * [Groups](dm997X_ms_thesis_groups.md)
-* [End of Semester Deliverables](dm997xms_thesis_end_of_semester_deliverables_md.md)
+* [End of Semester Deliverables](dm997xms_thesis_end_of_semester_deliverables.md)
 * [Thesis Defense](dm997X_ms_thesis_defense.md)
 * [Project Presentations & Mock Thesis Defenses](dm997X_ms_thesis_mock_defense.md)
 * [Thesis Paper](dm997X_ms_thesis_paper.md)
