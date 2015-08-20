@@ -219,11 +219,9 @@ Any printed assignments should always contain the following info, be saved as a 
 
 **File Naming**
 
-All PDFs should be labeled as follows:
-* firstnameLastname_assignmentName_date.pdf (deangeladuff_resume_2015jan03.pdf)
+* All PDFs should be labeled as follows *firstnameLastname_assignmentName_date.pdf* (deangeladuff_resume_2015jan03.pdf)
 
-All REVISED DOCS should be labeled as follows:
-* firstnamelastname_assignmentName#_date.pdf (deangeladuff_resume2_2015feb27.pdf)
+* All REVISED DOCS should be labeled as follows *firstnamelastname_assignmentName#_date.pdf* (deangeladuff_resume2_2015feb27.pdf)
 
 
 ### ADDITIONAL INFO REGARDING PRINTING
