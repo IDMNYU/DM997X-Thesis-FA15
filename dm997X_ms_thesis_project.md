@@ -5,7 +5,7 @@
 
 ## THESIS PROJECT
 
-You should be [conducting research](dm997X_ms_thesis_research.md) and user testing throughout the ENTIRE semester. Do not wait until the last minute to begin user testing. User testing gives you invaluable feedback. Include the results of your user testing in your thesis paper.
+You should be [conducting research](dm997X_ms_thesis_research.md) and user testing throughout the ENTIRE semester. Do not wait until the last minute to begin user testing; User testing gives you invaluable feedback about your project. Include the results of your user testing in your thesis paper.
 
 ### Assignment: Project Milestones
 Break down your milestones into actionable tasks using a system of your choice. All actionable tasks should start with a verb (i.e. write, call, email, build, collect, etc.), and can be completed in a day. Also be specific with your tasks. *(For example, "take 20 photographs" is more explicit than "take photographs". "Take 5 photos of tigers, 5 photos of bears, 5 photos of lizards, and 5 photos of cats" is more explicit than "take 20 photographs".)*
