@@ -27,7 +27,7 @@
     <td>Wed, Sep 02</td>
     <td>
         <ul>
-        <li>Guest Talk: TBD, IDM MS '15</li>
+        <li>Guest Talk: Billy Noble, IDM MS '15</li>
         <li><a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A</li>
         <li>Confirm Groups A and B</li>
         <li>Create Individual Meeting Order</li>
