@@ -46,7 +46,7 @@
     <ul> 
     
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 1st Draft</li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 1st Draft</li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong>2nd Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Visual Outline or Mind Map</a></strong> 1st Draft</li>
     <li>In-class peer critiques</li>
     <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group A</a>: Individual Meetings / Project Milestones / Self Assessment / Project Website Updates</li>
@@ -66,8 +66,8 @@
         
         <li><strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> 1st Draft</li>
         <li><strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 2nd Draft</li>
-        <li><strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 2nd Draft</li>
         <li><strong><a href="dm997X_ms_thesis_paper.md">Visual Outline or Mind Map</a></strong> 2nd Draft</li>
+        <li>(OPTIONAL) <strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 3rd Draft</li>
         <li>In-class peer critiques</li>
         <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group B</a>: Individual Meetings / Project Milestones / Self Assessment / Project Website Updates</li>
         </ul>
