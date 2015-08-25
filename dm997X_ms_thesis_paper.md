@@ -1,20 +1,16 @@
-# DM-GY 997X MS Thesis In Digital Media
-
-![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
-#### Integrated Digital Media • Technology, Culture & Society Department 
-
-    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2015
-    Wednesdays • 7:30-10:20PM • 2MTC MAGNET 811 • 3 credit hrs
+### DM-GY 997X MS Thesis In Digital Media
+##### Fall 2015 • De Angela L. Duff • Wednesdays • 7:30-10:20pm • 2MTC MAGNET 811 
 
 ---
 
 ## THESIS PAPER GUIDELINES
 
-For standard formatting, consult
-Master's Thesis and Project Guidelines_March2014 version.pdf, the word templates, as well as [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
+For standard formatting, consult Master's Thesis and Project Guidelines_March2014 version.pdf, the word templates (pinned on Slack), as well as [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary).
+
+**<font color="#ff0000">Please have someone other than yourself read and edit your all of your writing before you turn it in.</a>** (Even better, have someone read your writing out loud to you.) Include that person's name [and their title and/or relationship with you (if not your accountability partner or other classmate)] at the top of the paper as Editor.
 
 ### Assignment: The “elevator pitch” / Thesis Statement
-Read [Indiana University's How To Write a Thesis Statement] (http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml) BEFORE you write your thesis statement.
+Read [Indiana University's How To Write a Thesis Statement](http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml) BEFORE you write your thesis statement.
 
 * First, ask yourself what question is your research trying to answer? (Please reference the above link.)
 * Secondly, tun that question into a statement. (Please reference the above link.)
@@ -24,26 +20,26 @@ Here's a guide for a starting point:
 
 ***(Working Title)* is a *(What is it?)* that *(What does it do?)* for *(Your Audience)* to *(Why? What's the purpose)*.** 
 
-*Note: Obviously you would not leave the parenthesis; it's a just a marker to denote what you should add.*
+*Note: Obviously you would not leave in the parentheses; it's a just a marker to denote what you should add.*
 
 
 
 ### Assignment: Visual Outline or Mind Map
-Read [Columbia University's Skimming vs. Reading] (http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html#Skimming) and [Columbia University's Order of Writing] (http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html#Order) at http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html BEFORE creating your visual outline. Use the figures, graphs, and illustrations you will use in your paper. This visual outline will also be extremely helpful in your project presentations and (mock) thesis defenses. 
+Read [Columbia University's Skimming vs. Reading](http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html#Skimming) and [Columbia University's Order of Writing](http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html#Order) at http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html BEFORE creating your visual outline. Use the figures, graphs, and illustrations you will use in your paper. This visual outline will also be extremely helpful in your project presentations and (mock) thesis defenses. 
 
 Or
 
 Look at the example of a mind map on slack, and create a mind map of your paper.
 
 ### Assignment: Written Outline
-Read [Indiana University's Using Outlines] (http://www.indiana.edu/~wts/pamphlets/outlines.shtml), BEFORE you write your outline.
+Read [Indiana University's Using Outlines](http://www.indiana.edu/~wts/pamphlets/outlines.shtml), BEFORE you write your outline.
 
 * Section Title
 * Section Title
 * Section Title
 
 ### Assignment: Detailed Written Outline
-Review [Indiana University's Using Outlines] (http://www.indiana.edu/~wts/pamphlets/outlines.shtml), BEFORE you write your detailed outline.
+Review [Indiana University's Using Outlines](http://www.indiana.edu/~wts/pamphlets/outlines.shtml), BEFORE you write your detailed outline.
 
 Create a more detailed written outline by fleshing out they key points of your topics and/or subtopics of your initial written outline.
 
@@ -64,9 +60,9 @@ I recommend you use some sort of version control for keeping track of drafts of 
 * Worst case scenario, would be creating **manual version control by duplicating your word processing (MS Word, Pages, etc.) file and adding the date to each major draft**.
 
 BEFORE you write your body, read:
-* [Indiana University's Paragraphs and Topic Sentences] (http://www.indiana.edu/~wts/pamphlets/paragraphs.shtml)
-* Chapter 5, The Literature Review, in [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
-* Chapter 7, Research Methods, in [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
+* [Indiana University's Paragraphs and Topic Sentences](http://www.indiana.edu/~wts/pamphlets/paragraphs.shtml)
+* Chapter 5, The Literature Review, in [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam(available for download via Bobst's ebrary)
+* Chapter 7, Research Methods, in [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam(available for download via Bobst's ebrary)
 
 *I recommend the following chapters. However, you can change the nomenclature or add or subtract to these as you see fit.*
 
@@ -88,12 +84,14 @@ BEFORE you write your body, read:
         <li>You should decide which processes are most appropriate for your project.</li>
         </ul>
 
+
 * **Resources** (including, but not limited to)
     * List of Collaborators, Participants, and Advisors (People and their roles). Be Specific. First &amp; Last Names and URLs if available
     * Materials &amp; Vendors List
     * Technical requirements
     * Budget
-  You should decide what kinds of resources are most appropriate for your project. (How are you achieving this?)
+        * You should decide what kinds of resources are most appropriate for your project. (How are you achieving this?)
+
 
 * **Development**
     * Prototype(s) – including, but not limited to, exercises, tests, models, maquettes, animatics 
@@ -106,9 +104,10 @@ BEFORE you write your body, read:
      * Beta
      * Gold
 
+
 * **Findings and Discussion**
 
-General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam
+General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam
 
 * **User Testing Results:** Information about the data you collected at each stage of development and how it compares against your Literature Review, Related Work, or Competitive Analysis findings.
 * Stick to your framework for analysis (if you have one!)
@@ -119,10 +118,10 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
 
 ### Assignment: Intro (Background/Context/Rationale)
 BEFORE you write your intro, read:
-* [Indiana University's Paragraphs and Topic Sentences] (http://www.indiana.edu/~wts/pamphlets/paragraphs.shtml)
-* Chapter 4, The dissertation Introduction, in [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
+* [Indiana University's Paragraphs and Topic Sentences](http://www.indiana.edu/~wts/pamphlets/paragraphs.shtml)
+* Chapter 4, The dissertation Introduction, in [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
 
-General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam 
+General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam 
 
 * Provide background information on research topic
 * Justify the need for your study
@@ -143,10 +142,10 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
 
 ### Assignment: Conclusion
 BEFORE you write your conclusion, read:
-* [Indiana’s University’s Writing Conclusions] (http://www.indiana.edu/~wts/pamphlets/conclusions.shtml)
-* Chapter 9, Concluding your dissertation, in [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
+* [Indiana’s University’s Writing Conclusions](http://www.indiana.edu/~wts/pamphlets/conclusions.shtml)
+* Chapter 9, Concluding your dissertation, in [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
 
-General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam 
+General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam 
 
 * Remind reader of your initial research objectives  
 * Summarize Literature Review, Comparative Analysis, and Research findings (related to research objectives) 
@@ -157,10 +156,10 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
 
 ### Assignment: Abstract
 BEFORE you write your abstract, read:
-* [Indiana University's Writing Abstracts] (http://www.indiana.edu/~wts/pamphlets/abstracts.shtml)
-* Chapter 10, Finally: Writing the abstract, in [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
+* [Indiana University's Writing Abstracts](http://www.indiana.edu/~wts/pamphlets/abstracts.shtml)
+* Chapter 10, Finally: Writing the abstract, in [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
 
-General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam 
+General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam 
 
 * Write it last! 
 * Identify the problem/issue that you investigated 
@@ -173,7 +172,7 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
 
 ### Assignment: Proofread
 BEFORE you proofread, read: 
-* [Indiana University's Proofreading for Common Surface Errors: Spelling, Punctuation, and Grammar] (http://www.indiana.edu/~wts/pamphlets/proofing_grammar.shtml)
+* [Indiana University's Proofreading for Common Surface Errors: Spelling, Punctuation, and Grammar](http://www.indiana.edu/~wts/pamphlets/proofing_grammar.shtml)
 
 
 

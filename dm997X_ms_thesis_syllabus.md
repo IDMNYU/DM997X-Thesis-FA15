@@ -8,14 +8,11 @@
 
     Prerequisite: DM-GY 9963 MS Pre-Thesis in Digital Media: Research Methods
    
-   
-###Github Repository: http://github.com/IDMNYU/DM997X-Thesis-FA15
-
-####Course Management Site
-* http://bxmc.slack.com 
+####Gitbook: http://deangela.gitbooks.io/ms-thesis-in-digital-media/content  
+####Course Management Site: http://bxmc.slack.com 
 
 # (THIS IS A DRAFT!!!)
-## This will be in draft form until Monday, August 31st.
+## This will be in draft form until we meet on the first day of class.
 
 ---
 
@@ -43,7 +40,6 @@ The following IDM program goals are reinforced within this course. At a graduate
 * develop **critical thinking skills** that will allow them to analyze and position their work within cultural, historic, aesthetic, economic, and technological contexts.
 * gain knowledge of **professional practices and organizations** by developing their verbal, visual, and written communication for documentation and presentation, exhibition and promotion, networking, and career preparation.
 
-
 ### COURSE GOALS
 
 This course will help students deeply:
@@ -53,7 +49,6 @@ This course will help students deeply:
 * write
 * iterate
 * present
-
 
 ### LEARNING OUTCOMES
 
@@ -70,8 +65,9 @@ This class will consist of
 * Individual Meetings
 * In-class Peer Critiques
 * Project Presentations and Critique
-* Mock Thesis Defenses and Critique
-* [Thesis Defense] (dm997X_ms_thesis_defense.md) 
+* [Mock Thesis Defenses and Critique](dm997X_ms_thesis_mock_defense.md)
+* [Thesis Defense](dm997X_ms_thesis_defense.md)
+* Self Assessment
 
 **Individual Meetings**<br>The order of our weekly, individual 20 minute status meetings will be determined on the first day of class. We will alternate weeks between group A and B. Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed *prior* to meeting with the instructor. 
 
@@ -80,56 +76,19 @@ they are most useful exactly when you feel you have nothing to talk about or sho
 
 **In-class peer critiques**<br>While I am meeting with your fellow classmates, it is mandatory that you receive peer critique on whatever you are currently working on. You should not be working on anything during peer critique. You should be giving feedback to a fellow classmate. When you are finished with one classmate, find another. Rinse and repeat.
 
-**Project Presentations & Mock Thesis Defenses**<br>Project critiques or mock thesis defenses will be held on designated Wednessdays, and will consist of the professor, ALL thesis students, and outside critics, at times. 
+**[Project Presentations & Mock Thesis Defenses](dm997X_ms_thesis_mock_defense.md)**<br>Project critiques or mock thesis defenses will be held on designated Wednessdays, and will consist of the professor, ALL thesis students, and outside critics, at times. 
 
-     Each presentation will consist of 
-     * 10 minutes of presentation and 
-     * 10 minutes of critique 
-     (or a combination thereof)
-     for 20 minutes total. 
-
-You are always welcome to invite an outside critic to your project critiques and/or mock thesis defenses. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc.  
-
-Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and/or your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. Have at least two classmates take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project. 
-
-Rules of the Critique:
-* Be Present and Engaged. (i.e. Close your laptops and turn off your cellphones.)
-* Give Feedback to your classmates.
-* Do NOT take feedback personally.
-
+**Self Assessment**
 Students will also conduct self assessments as well as be evaluated by the professor throughout the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something. 
 
 
-### THESIS COMPONENTS
-The MS Thesis in Digital Media is comprised of four primary components: 
-* Thesis Paper
-* Thesis Project
-* Thesis Process Website 
-* Thesis Defense
 
-
-### THESIS ROLES
-Your thesis is under the guidance of faculty and a community of peers, both inside and outside the university, who play a number of roles:
-
-#### Thesis Faculty
-The Thesis faculty (for this class De Angela L. Duff) is the primary critic and mentor throughout the thesis process. 
-
-#### Thesis Project Advisor
-You will meet with your Thesis Project Advisor at least 2 to 4 times throughout the semester for feedback on your thesis paper, project, and/or defense presentation. *Document* your meetings with your advisor (date, time, length, and typed notes) on your thesis website. Your Thesis Project Advisor attends your Thesis Defense Panel, and will be given a digital copy of your Thesis paper for review.
-
-####External Reviewer
-The External Reviewer is identified in consultation with your Thesis Project Advisor. The Thesis Faculty or IDM's Academic Advisor will contact the External Reviewer to determine their availability for the Thesis Defense. The External Reviewer attends your Thesis Defense Panel, and will be given a digital copy of your Thesis paper for review.
-
-#### Your Accountability Partner
-You will partner with a classmate for moral support and more importantly to stay on task. Do not blame
-####Thesis Peers
-Your fellow graduate students are considered to be peers in the discussion and dialogue of your thesis. Students are strongly encouraged to share research and resources as well as critique from their peers. Utilize the grad studio MAGNET 804 to hold informal critiques and discussion outside of class.
 
 
 ### COMMUNICATING WITH THE PROFESSOR OUTSIDE OF CLASS
 
-* Email contact about logistics (when, where, how many?) ONLY
-* Talk to me in person directly after class, during your status meeting, or set up an appointment about issues and problems. DO NOT email long conversations. (If your email turns into paragraphs that means you should be talking to me in person not emailing me.)
+* Direct message on Slack about logistics (when, where, how many?) ONLY
+* Talk to me in person directly after class, during your status meeting, or set up an appointment about issues and problems. DO NOT direct message long conversations. (If your direct message turns into paragraphs that means you should be talking to me in person not direct messaging me.)
 
 
 ### STUDENT RESPONSIBILITIES
@@ -139,10 +98,11 @@ Your fellow graduate students are considered to be peers in the discussion and d
 * Participate in class. Be vocal.
 * Present your work. 
 * Meet, individually, with the professor during your scheduled time to discuss your thesis progress.
+* Meet weekly with your thesis accountablity partner
 * Consult slack  at least once a week for up to date info.
-* Maintain a weekly, dedicated, thesis website.
+* Maintain a weekly, dedicated, thesis process website.
 * Complete all deliverables by their due dates.
-* Acquire and read copies of the required books.
+* Acquire and read copies of the required book.
 * Action – do your absolute best.
 * Strive for continuous improvement.
 * Pay attention to detail & craft.
@@ -172,19 +132,18 @@ Your fellow graduate students are considered to be peers in the discussion and d
 
 ##### Quantitative Grading Overview
 
-* 50% Thesis Defense (which includes [Thesis Paper] (dm997X_ms_thesis_paper.md) and [Thesis Project] (dm997X_ms_thesis_project.md))
-* 15% Weekly Progress: Personal Kanban (Project Milestones), Calendar, Self Assessment Rubrics & [Thesis Process Website] (dm997X_ms_thesis_website.md)
+* 50% Thesis Defense (which includes [Thesis Paper](dm997X_ms_thesis_paper.md) and [Thesis Project](dm997X_ms_thesis_project.md))
+* 12% Weekly Progress: Project Milestones (aka what have you done this week?) on [Thesis Process Website](dm997X_ms_thesis_website.md) and Calendar
+* 15% [End of Semester Deliverables](dm997xmsthesis_end_of_semester_deliverables.md)
 * 10% Mock Thesis Defenses
 * 10% Project Critique Presentations
-* 2.5% [Letter to Next Cohort] (dm997X_ms_thesis_assignments.md)
-* 7.5% Resume, Cover Letter, LinkedIn Profile
-* 5% [Portfolio Website] (dm997X_ms_thesis_assignments.md)
+* 03% Self Assessment & Rubrics
 
-Extra Credit: Career Counseling Appt. through NYU's Waserman Center
+*Extra Credit: Career Counseling Appt. through NYU's Waserman Center*
 
 ##### Qualitative Grading Overview
 
-You will be judged on the quality, relevance, iteration, completion, and presentation of your thesis. 
+You will be judged on the quality, iteration, completion, and presentation of your thesis. 
 
 ###### A. Excellent (90-100)
 Your performance and attendance has been of the highest level, showing sustained excellence in meeting course responsibilities. Your thesis clearly differentiates itself from other work. Your thesis has memorable impact, and pursues concepts and techniques above and beyond average goals. The ideas behind your thesis are original, thoughtful and/or imaginative. Spelling, punctuation or grammatical errors are non-existent. Your thesis demonstrates your ability to think critically and work independently. Your thesis also demonstrates the use of strong methods and process.
@@ -234,11 +193,9 @@ Any printed assignments should always contain the following info, be saved as a 
 
 **File Naming**
 
-All PDFs should be labeled as follows:
-* firstnameLastname_assignmentName_date.pdf (deangeladuff_resume_2015jan03.pdf)
+* All PDFs should be labeled as follows *firstnameLastname_assignmentName_date.pdf* (deangeladuff_resume_2015jan03.pdf)
 
-All REVISED DOCS should be labeled as follows:
-* firstnamelastname_assignmentName#_date.pdf (deangeladuff_resume2_2015feb27.pdf)
+* All REVISED DOCS should be labeled as follows *firstnamelastname_assignmentName#_date.pdf* (deangeladuff_resume2_2015feb27.pdf)
 
 
 ### ADDITIONAL INFO REGARDING PRINTING
@@ -250,175 +207,43 @@ Students, in addition to their regular NYU allotment, also have available to the
 * Browser: Chrome or Firefox
 * HTML Text Editor (Sublime Text, Coda, Textmate, BBEdit/TextWrangler, etc)
 * FTP Application (Cyberduck, Transmit, Fetch, etc)
-* [Web Space] (dm997X_ms_thesis_website.md)
+* [Web Space](dm997X_ms_thesis_website.md)
   
 
 ### REQUIRED BOOKS
-The following books are available for purchase in the NYU library. I highly suggest you acquire your own copies, but there will hopefully be copies on reserve in the library. 
 
-* [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
+* [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
 
 
 ### REQUIRED TOOLS
 * Analog or Digital Calendar
-* [gitprint.com] (http://gitprint.com)
-* [Poly's Writing Center] (http://engineering.nyu.edu/academics/support/polytechnic/writing)
+* [Poly's Writing Center](http://engineering.nyu.edu/academics/support/polytechnic/writing)
 
+### THESIS COMPONENTS
+The MS Thesis in Digital Media is comprised of four primary components: 
+* [Thesis Paper](dm997X_ms_thesis_paper.md)
+* [Thesis Project](dm997X_ms_thesis_project.md)
+* [Thesis Process Website](dm997X_ms_thesis_website.md)
+* [Thesis Defense](dm997X_ms_thesis_defense.md)
 
-### ADDITIONAL RECOMMENDED TIME MANAGEMENT & PRODUCTIVITY RESOURCES BEYOND PERSONAL KANBAN
 
-Hope these resources help. They've helped me, but the secret is discipline, focus, and prioritizing (which requires not doing something else). No system is a magic cure. A system only works if you use it daily.
-* [Personal Kanban] (http://www.personalkanban.com)
-* [RescueTime] (http://rescuetime.com) 
-* [Zapier] (http://zapier.com)
+### THESIS ROLES
+Your thesis is under the guidance of faculty and a community of peers, both inside and outside the university, who play a number of roles:
 
-* **^The following books are available for purchase in the NYU library.** *
+#### Thesis Faculty
+The Thesis faculty (for this class De Angela L. Duff) is the primary critic and mentor throughout the thesis process. 
 
-*The Now Habit*
+#### Thesis Project Advisor
+You will meet with your Thesis Project Advisor at least 2 to 4 times throughout the semester for feedback on your thesis paper, project, and/or defense presentation. *Document* your meetings with your advisor (date, time, length, and typed notes) on your thesis website. Your Thesis Project Advisor attends your Thesis Defense Panel, and will be given a digital copy of your Thesis paper for review.
 
-* ^[The Now Habit] (http://www.amazon.com/Now-Habit-Overcoming-Procrastination-Guilt-Free/dp/1585425524/ref=sr_1_1?ie=UTF8&qid=1420844824&sr=8-1&keywords=neil+fiore) by Neil Fiore
+####External Reviewer
+The External Reviewer is identified in consultation with your Thesis Project Advisor. The Thesis Faculty or IDM's Academic Advisor will contact the External Reviewer to determine their availability for the Thesis Defense. The External Reviewer attends your Thesis Defense Panel, and will be given a digital copy of your Thesis paper for review.
 
-* [Neil Fiore’s Unschedule on lifeclever.com] (http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play)
+#### Your Thesis Accountability Partner
+You will partner with a classmate for moral support, ideation, proofreading, presentation practice, and most importantly to stay on task. 
 
-* [Neil Fiore’s Sample Unschedule (I suggest a modified version of this as we will discuss] (http://www.neilfiore.com/nowhabit-schedule.shtml)
-
-*Getting Things Done* (GTD) is more complicated but I use a lot of the techniques in conjunction with Personal Kanban.
-
-* ^[Getting Things Done: The Art of Stress-Free Productivity] (http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280/ref=sr_1_1?ie=UTF8&qid=1420844841&sr=8-1&keywords=getting+things+done) by David Allen
-
-* [43 Folders (All things GTD by Merlin Mann)] (http://www.43folders.com)
-
-* [Productive Talk Compilation: 8-episode audio podcast with GTD’s David Allen] (http://www.43folders.com/2006/11/28/productive-talk-comp)
-
-* ^[The 7 Habits of Highly Effective People] (http://www.amazon.com/7-Habits-Highly-Effective-People/dp/0935721800/ref=sr_1_2?ie=UTF8&qid=1420844862&sr=8-2&keywords=7+habits+of+highly+effective+people) by Stephen Covey
-
-* [Time Warrior: How to defeat procrastination, people-pleasing, self-doubt, over-commitment, broken promises and chaos] (http://www.amazon.com/Time-Warrior-procrastination-people-pleasing-over-commitment/dp/1600250378/ref=sr_1_1?s=books&ie=UTF8&qid=1312385159&sr=1-1) by Steven Chandler
-
-* [Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time by Brian Tracy] (http://www.amazon.com/Eat-That-Frog-Great-Procrastinating/dp/1576754227/ref=sr_1_1?s=books&ie=UTF8&qid=1358357240&sr=1-1)
-
-* [Personal Kanban: Mapping Work | Navigating Life] (http://www.amazon.com/Personal-Kanban-Mapping-Work-Navigating/dp/1453802266/ref=sr_1_1?s=books&ie=UTF8&qid=1358043876&sr=1-1&keywords=personal+kanban) by Jim Benson and Tonianne DeMaria Barry 
-
-*The Pomodoro Technique*
-* [Pomodoro Technique Illustrated: Can You Focus - Really Focus - for
-25 Minutes?] (http://www.amazon.com/Pomodoro-Technique-Illustrated-Minutes-Pragmatic/dp/1934356506/ref=sr_1_1?s=books&ie=UTF8&qid=1358372303&sr=1-1) by Staffan Noteberg
-
-* [pomodorotechnique.com] (http://pomodorotechnique.com/)
-
-* [5 Pomodoro Timer Extensions For Google Chrome] (http://www.ilovefreesoftware.com/05/featured/pomodoro-timer-extensions-google-chrome.html)
-
-* [PomodoroFox] (https://addons.mozilla.org/en-US/firefox/addon/pomodorofox)
-
-* [The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal by Jim Loehr & Tony Schwartz] (http://www.amazon.com/The-Power-Full-Engagement-Performance/dp/0743226755/ref=sr_1_5?ie=UTF8&qid=1358355636&sr=8-5&keywords=tony+schwartz)
-
-
-### RECOMMENDED WRITING RESOURCES
-
-* [NYU SoE's Thesis guidelines] (http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf)
-
-* [The Elements of Style, Fourth Edition] (http://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/ref=sr_1_1?ie=UTF8&qid=1422276317&sr=8-1&keywords=stunk+and+whites+elements+of+style) by Strunk and White
-
-* [The Mac is Not a Typewriter] (http://www.amazon.com/Mac-Not-Typewriter-2nd/dp/0201782634/ref=sr_1_1?ie=UTF8&qid=1422276493&sr=8-1&keywords=the+mac+is+not+a+typewriter) by Robin Williams
-
-* [Dr. Kendra Gaines' Basics of Academic Writing] (http://www.gwr.arizona.edu/content-topics.htm)
-     
-* [Guide to Writing a Masters Thesis] (http://www.kf.vu.lt/dokumentai/Uzsienio%20reikalai/Masters_Thesis_Guide.pdf)
-
-* [How To Write X Number of Words a Day & Not Go Crazy] (http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy)
-
-* [NYU's Tips for Thesis and Dissertation Writers] (http://guides.nyu.edu/content.php?pid=31133&sid=1112487)
-  * Dissertation Abstracts (Sample Theses)
-
-* [Purdue Writing Lab] (http://owl.english.purdue.edu/owl/)
-
-  * [Purdue's OWL: Chicago Manual of Style 16th Edition] (https://owl.english.purdue.edu/owl/resource/717/01/)
-
-  * [Purdue's OWL: MLA Formatting and Style Guide](https://owl.english.purdue.edu/owl/resource/747/01)
-
-  * [Purdue's OWL: MLA Sample Paper with Endnotes and Bibliography] (https://owl.english.purdue.edu/media/pdf/20090701095636_747.pdf)
-
-  * [Tips and Examples for Writing Thesis Statements] (https://owl.english.purdue.edu/owl/resource/587/1/)
-
-  * [Purdue's OWL: Starting The Writing Process] (https://owl.english.purdue.edu/owl/resource/544/02/)
-
-  * [Purdue's OWL: Why and How To Create a Useful Outline] (https://owl.english.purdue.edu/owl/resource/544/02/)
-
-  * [Purdue's OWL: Proofreading] (https://owl.english.purdue.edu/owl/resource/561/1/)
-
-* [Chicago Manual of Style] (http://www.chicagomanualofstyle.org/home.html)
-
-* [Indiana University writing lab] (http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml)
-
-* [Columbia University writing lab] (http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html) 
-
-* [Paul Brian's Common Errors in English Usage](http://public.wsu.edu/~brians/errors/errors.html)
-
-* [Bird by Bird: Some Instructions on Writing and Life] (http://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/ref=sr_1_1?ie=UTF8&qid=1421432230&sr=8-1&keywords=bird+by+bird) by Anne Lamott
-
-
-### RECOMMENDED ACADEMIC RESEARCH TOOLS
-* [EasyBib] (http://www.easybib.com)
-* [NCU Citation Builder] (http://www.lib.ncsu.edu/citationbuilder)
-* [Mendeley] (http://www.mendeley.com)
-* [EBSCO] (http://ejournals.ebsco.com/)
-* [IEEE] (http://www.ieee.org)
-* [JStor] (http://www.jstor.org)
-* [Fifty alternatives to JStor] (http://www.similarsitesearch.com/alternatives-to/jstor.org)
-
-
-### RECOMMENDED PRESENTATION RESOURCES
-
-* [Speaking.io] (http://speaking.io)
-* [Presentation Zen: Simple Ideas on Presentation Design and Delivery (2nd Edition)] (http://www.amazon.com/Presentation-Zen-Simple-Delivery-Edition/dp/0321811984/ref=sr_1_4?ie=UTF8&qid=1358102885&sr=8-4&keywords=presentation+zen) by Garr Reynolds
-
-
-### RECOMMENDED CAREER RESOURCES
-
-* [GlassDoor] (http://www.glassdoor.com/index.htm)
-
-* [AIGA's Survey of Design Salary 2014] (http://designsalaries.aiga.org)
-
-* [NYU's CareerNet] (https://nyu-csm.symplicity.com/students)
-
-* [NYU's Wasserman Center for Career Development] (http://www.nyu.edu/life/resources-and-services/career-development/prepare-for-the-job-search.html)
-
-  * [NYU's Wasserman Center's Resume &amp; Cover Letters] (http://www.nyu.edu/life/resources-and-services/career-development/prepare-for-the-job-search/resumes-and-cover-letters.html)
-
-    * [NYU's Wasserman Center's Resume Samples] (http://www.nyu.edu/content/dam/nyu/wasserman/documents/Resume%20samples.pdf)
-  
-    * [NYU's Wasserman Center's Cover Letter Sample] (http://www.nyu.edu/content/dam/nyu/wasserman/documents/cover%20letter%20sample.pdf)
-
-  * [NYU's Wasserman Center's Events] (https://events.nyu.edu/#view/all/group/wasserman-center)
-
-  * [NYU's Wasserman Center's Finding a Mentor] (http://www.nyu.edu/life/resources-and-services/career-development/prepare-for-the-job-search/finding-a-mentor.html)
-
-
-### RECOMMENDED BOOKS
-
-* [The 4-Hour Workweek, Expanded and Updated] (http://www.amazon.com/4-Hour-Workweek-Expanded-Updated-Cutting-Edge/dp/0307465357/ref=sr_1_2?s=books&ie=UTF8&qid=1312561321&sr=1-2) by Timothy Ferriss
-
-* [Anything You Want] (http://www.amazon.com/Anything-You-Want-Derek-Sivers/dp/1936719118/ref=sr_1_1?s=books&ie=UTF8&qid=1312561032&sr=1-1) by Derek Sivers 
-
-* [Steal Like An Artist: 10 Things Nobody Told You About Being Creative] (http://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253/ref=sr_1_1?ie=UTF8&qid=1422468736&sr=8-1&keywords=steal+like+an+artist) by Austin Kleon
-
-* [The Art of Non-Conformity: Set Your Own Rules, Live the Life You Want, and Change the World] (http://www.amazon.com/Art-Non-Conformity-Rules-Change-World/dp/0399536108/ref=sr_1_1?s=books&ie=UTF8&qid=1312561247&sr=1-1) by Chris Guillebeau
-
-* [The War of Art: Break Through the Blocks and Win Your Inner Creative Battles] (http://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/) by Steven Pressfield<br>If you like *Do The Work* by Steven Pressfield, which is pretty much a distillation of the principles in The War of Art, also by Steven Pressfield, I highly suggest you acquire this one as well.
-
-
-### [THESIS ASSIGNMENTS](dm997X_ms_thesis_assignments.md)
-See Appendix
-
-### [THESIS PROCESS WEBSITE](dm997X_ms_thesis_website.md)
-See Appendix
-
-### [THESIS PAPER](dm997X_ms_thesis_paper.md)
-See Appendix
-
-### [THESIS PROJECT](dm997X_ms_thesis_project.md)
-See Appendix
-
-### [THESIS DEFENSE](dm997X_ms_thesis_defense.md)
-See Appendix
+####Thesis Peers
+Your fellow graduate students are considered to be peers in the discussion and dialogue of your thesis. Students are strongly encouraged to share research and resources as well as critique from their peers. Utilize IDM's grad studio MAGNET 804 to hold informal critiques and discussion outside of class.
 
 ### [CALENDAR](dm997X_ms_thesis_calendar.md)
 See Appendix

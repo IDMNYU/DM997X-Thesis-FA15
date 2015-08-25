@@ -1,14 +1,7 @@
-# DM-GY 997X MS Thesis In Digital Media
-
-![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
-#### Integrated Digital Media • Technology, Culture & Society Department 
-
-    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2015
-    Wednesdays • 7:30-10:20PM • 2MTC MAGNET 811 • 3 credit hrs
+### DM-GY 997X MS Thesis In Digital Media
+##### Fall 2015 • De Angela L. Duff • Wednesdays • 7:30-10:20pm • 2MTC MAGNET 811 
 
 ---
-
-
 
 ## MS THESIS GROUPS
 
@@ -21,23 +14,21 @@ Group A and Group B will alternate every other week. Consult the <a href="dm997X
 <tr>
     <td>
     7:30pm Class Begins<br>
-    7:40pm <strong></strong><br>
-    8:00pm <strong></strong><br>
-    8:20pm <strong></strong><br>
-    8:40pm <strong></strong><br>
-    9:00pm <strong></strong><br>
-    9:20pm <strong></strong><br>
-    9:40pm <strong></strong><br>
-    10:00pm <strong></strong><br>
+    8:00pm <strong>Donovan</strong><br>
+    8:20pm <strong>Joseph</strong><br>
+    8:40pm <strong>Siddhi</strong><br>
+    9:00pm <strong>Ernesto</strong><br>
+    9:20pm <strong>Ijele</strong><br>
+    9:40pm <strong>Sriya</strong><br>
+    10:00pm <strong>Rachana</strong><br>
     </td>
     <td>7:30pm Class Begins<br>
-    7:40pm <strong></strong><br>
-    8:00pm <strong></strong><br>
-    8:20pm <strong></strong><br>
-    8:40pm <strong></strong><br>
-    9:00pm <strong></strong><br>
-    9:20pm <strong></strong><br>
-    9:40pm <strong></strong><br>
+    8:00pm <strong>Catt</strong><br>
+    8:20pm <strong>Guanchen</strong><br>
+    8:40pm <strong>Srihari</strong><br>
+    9:00pm <strong>Lauren</strong><br>
+    9:20pm <strong>Maria</strong><br>
+    9:40pm <strong>Celine</strong><br>
     10:00pm <strong></strong><br>
     </td>
 </tr>

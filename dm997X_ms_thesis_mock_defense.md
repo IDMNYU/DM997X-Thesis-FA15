@@ -1,14 +1,9 @@
-# DM-GY 997X MS Thesis In Digital Media
-
-![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
-#### Integrated Digital Media • Technology, Culture & Society Department 
-
-    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2015
-    Wednesdays • 7:30-10:20PM • 2MTC MAGNET 811 • 3 credit hrs
+### DM-GY 997X MS Thesis In Digital Media
+##### Fall 2015 • De Angela L. Duff • Wednesdays • 7:30-10:20pm • 2MTC MAGNET 811 
 
 ---
 
-## Mock Thesis Defenses
+## PROJECT PRESENTATIONS & MOCK THESIS DEFENSES 
 Mock thesis defenses will be held on designated Wednesdays, and will consist of the professor, ALL thesis students, and outside critics, at times. 
 
      Each presentation will consist of 
@@ -19,7 +14,11 @@ Mock thesis defenses will be held on designated Wednesdays, and will consist of 
 
 You are always welcome to invite an outside critic to your project critiques and/or mock thesis defenses. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc.  
 
-Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and/or your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. Have at least two classmates take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project. 
+Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and/or your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. 
+* Have at least two classmates take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. 
+* Review your crit notes and reflect upon what was said.
+* Ask yourself how you could combine, transform, or expand the ideas that show the most promise. 
+* However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project. 
 
 Rules of the Critique:
 * Be Present and Engaged. (i.e. Close your laptops and turn off your cellphones.)

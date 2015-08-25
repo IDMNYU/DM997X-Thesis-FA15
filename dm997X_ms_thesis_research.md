@@ -1,22 +1,15 @@
-# DM-GY 997X MS Thesis In Digital Media
-
-![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
-#### Integrated Digital Media • Technology, Culture & Society Department 
-
-    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2015
-    Wednesdays • 7:30-10:20PM • 2MTC MAGNET 811 • 3 credit hrs
+### DM-GY 997X MS Thesis In Digital Media
+##### Fall 2015 • De Angela L. Duff • Wednesdays • 7:30-10:20pm • 2MTC MAGNET 811 
 
 ---
-
 ## THESIS RESEARCH
-
 There are many ways to conduct research beyond doing literature reviews (i.e. reading). I have bolded the ones you may find the most useful. I suggest doing research on what these research methods are if you don't know.
 
-**01. A/B Testing**
+01. **A/B Testing**
 
 02. AEIOU
 
-03. [Affinity Diagramming] (http://www.mindtools.com/pages/article/newTMC_86.htm)
+03. [Affinity Diagramming](http://www.mindtools.com/pages/article/newTMC_86.htm)
 
 04. Artifact Analysis
 
@@ -44,7 +37,7 @@ There are many ways to conduct research beyond doing literature reviews (i.e. re
 
 16. Concept Mapping
 
-**17. Content Analysis** AKA Competitive Analysis or Comparative Analysis
+17. **Content Analysis** AKA Competitive Analysis or Comparative Analysis
 
 18. Content Inventory & Audit
 
@@ -106,7 +99,7 @@ There are many ways to conduct research beyond doing literature reviews (i.e. re
 
 47. Image Boards
 
-**48. Interviews**
+48. **Interviews**
 
 49. KJ Technique
 
@@ -116,13 +109,13 @@ There are many ways to conduct research beyond doing literature reviews (i.e. re
 
 52. Laddering
 
-**53. Literature Reviews**
+53. **Literature Reviews**
 
 54. The Love Letter & the Breakup Letter
 
 55. Mental Model Diagrams
 
-**56. Mind Mapping**
+56. **Mind Mapping**
 
 57. Observation
 
@@ -142,9 +135,9 @@ There are many ways to conduct research beyond doing literature reviews (i.e. re
 
 65. Picture Cards
 
-**66. Prototyping**
+66. **Prototyping**
 
-**67. Questionnaires**
+67. **Questionnaires**
 
 68. Rapid Iterative Testing & Evaluation (RITE)
 
@@ -174,9 +167,9 @@ There are many ways to conduct research beyond doing literature reviews (i.e. re
 
 81. Stakeholder Walkthrough
 
-**82. Storyboards**
+82. **Storyboards**
 
-**83. Surveys**
+83. **Surveys**
 
 84. Task Analysis
 
@@ -198,7 +191,7 @@ There are many ways to conduct research beyond doing literature reviews (i.e. re
 
 93. Usability Report
 
-**94. Usability Testing** AKA User Testing
+94. **Usability Testing** AKA User Testing
 
 95. User Journey Maps
 
