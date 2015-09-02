@@ -28,6 +28,7 @@
     <td>Wed, Sep 02</td>
     <td>
         <ul>
+        <li>Excerpt from 100 ways to motivate yourself by Steven Chandler</li>
         <li>Class Exercise: Why? (Do you adore your idea? Are you metaphorically willing to bleed (i.e. blood, sweat, and tears) for it?)</li>
         
        <Li>Class Exercise: Resistance / Enemies</li>
