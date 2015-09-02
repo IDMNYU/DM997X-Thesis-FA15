@@ -40,7 +40,7 @@
         <li>Always report any broken links or typos in the thesis gitbook with a direct message on slack
        <li>Confirm Groups A and B</li>
        
-       <li>Class Discussion: Your productivity system</li>
+       <li>Class Discussion: Your Productivity System</li>
     <li>Discuss <a href="http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy" target="_blank">How To Write X Number of Words a Day &amp; Not Go Crazy</a></li>
         <li>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones</li>
         <li>Discuss Capture from <a href="http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280/ref=sr_1_1?ie=UTF8&qid=1420844841&sr=8-1&keywords=getting+things+done" target="_blank">Getting Things Done: The Art of Stress-Free Productivity</a> by David Allen
