@@ -28,12 +28,14 @@
     <td>Wed, Sep 02</td>
     <td>
         <ul>
-        <li>Guest Talk: Billy Noble, IDM MS '15</li>
-        <li><a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A</li>
-        <li>Confirm Groups A and B</li>
-       <li>Class Exercise: Why?</li>
+        <li>Class Exercise: Why?</li>
        <Li>Class Exercise: Resistance</li>
        <li>Class Exercise: Your Allies</li>
+        <li>Guest Talk: Billy Noble, IDM MS '15</li>
+        <li><a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A</li>
+        <li>Always report any broken links or typos in the thesis gitbook
+       <li>Confirm Groups A and B</li>
+       
        <li>Class Discussion: Your productivity system</li>
         <li>Discuss <a href="http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy" target="_blank">How To Write X Number of Words a Day &amp; Not Go Crazy</a></li>
         <li>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones</li>
