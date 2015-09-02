@@ -10,10 +10,6 @@
    
 #####Gitbook: http://deangela.gitbooks.io/ms-thesis-in-digital-media/content/  
 #####Course Management Site: http://bxmc.slack.com 
-
-# (THIS IS A DRAFT!!!)
-## This will be in draft form until we meet on the first day of class.
-
 ---
 
 *“If you put off everything ‘till you’re sure of it, you’ll get nothing done.”* -Norman Vincent Peale
