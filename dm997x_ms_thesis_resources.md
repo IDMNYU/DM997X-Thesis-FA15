@@ -3,9 +3,9 @@
 
 ---
 
-## RECOMMENDED RESOURCES
+# RECOMMENDED RESOURCES
 
-### TIME MANAGEMENT & PRODUCTIVITY RESOURCES (BEYOND PERSONAL KANBAN)
+## TIME MANAGEMENT & PRODUCTIVITY RESOURCES (BEYOND PERSONAL KANBAN)
 
 Hope these resources help. They've helped me, but the secret is discipline, focus, and prioritizing (which requires not doing something else). No system is a magic cure. A system only works if you use it daily.
 * [Personal Kanban](http://www.personalkanban.com)
@@ -16,26 +16,25 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 *The Now Habit*
 
 * [The Now Habit](http://www.amazon.com/Now-Habit-Overcoming-Procrastination-Guilt-Free/dp/1585425524/ref=sr_1_1?ie=UTF8&qid=1420844824&sr=8-1&keywords=neil+fiore) by Neil Fiore
-
 * [Neil Fiore’s Unschedule on lifeclever.com](http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play)
-
 * [Neil Fiore’s Sample Unschedule (I suggest a modified version of this as we will discuss](http://www.neilfiore.com/nowhabit-schedule.shtml)
 
 *Getting Things Done* (GTD) is more complicated but I use a lot of the techniques in conjunction with Personal Kanban.
-
 * [Getting Things Done: The Art of Stress-Free Productivity](http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280/ref=sr_1_1?ie=UTF8&qid=1420844841&sr=8-1&keywords=getting+things+done) by David Allen
-
 * [43 Folders (All things GTD by Merlin Mann)](http://www.43folders.com)
-
 * [Productive Talk Compilation: 8-episode audio podcast with GTD’s David Allen](http://www.43folders.com/2006/11/28/productive-talk-comp)
 
-[The 7 Habits of Highly Effective People](http://www.amazon.com/7-Habits-Highly-Effective-People/dp/0935721800/ref=sr_1_2?ie=UTF8&qid=1420844862&sr=8-2&keywords=7+habits+of+highly+effective+people) by Stephen Covey
+*The 7 Habits of Highly Effective People*
+* [The 7 Habits of Highly Effective People](http://www.amazon.com/7-Habits-Highly-Effective-People/dp/0935721800/ref=sr_1_2?ie=UTF8&qid=1420844862&sr=8-2&keywords=7+habits+of+highly+effective+people) by Stephen Covey
 
-[Time Warrior: How to defeat procrastination, people-pleasing, self-doubt, over-commitment, broken promises and chaos](http://www.amazon.com/Time-Warrior-procrastination-people-pleasing-over-commitment/dp/1600250378/ref=sr_1_1?s=books&ie=UTF8&qid=1312385159&sr=1-1) by Steven Chandler
+*Time Warrior*
+* [Time Warrior: How to defeat procrastination, people-pleasing, self-doubt, over-commitment, broken promises and chaos](http://www.amazon.com/Time-Warrior-procrastination-people-pleasing-over-commitment/dp/1600250378/ref=sr_1_1?s=books&ie=UTF8&qid=1312385159&sr=1-1) by Steven Chandler
 
-[Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time by Brian Tracy](http://www.amazon.com/Eat-That-Frog-Great-Procrastinating/dp/1576754227/ref=sr_1_1?s=books&ie=UTF8&qid=1358357240&sr=1-1)
+*Eat That Frog!*
+* [Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time by Brian Tracy](http://www.amazon.com/Eat-That-Frog-Great-Procrastinating/dp/1576754227/ref=sr_1_1?s=books&ie=UTF8&qid=1358357240&sr=1-1)
 
-[Personal Kanban: Mapping Work | Navigating Life](http://www.amazon.com/Personal-Kanban-Mapping-Work-Navigating/dp/1453802266/ref=sr_1_1?s=books&ie=UTF8&qid=1358043876&sr=1-1&keywords=personal+kanban) by Jim Benson and Tonianne DeMaria Barry 
+*Personal Kanban*
+* [Personal Kanban: Mapping Work | Navigating Life](http://www.amazon.com/Personal-Kanban-Mapping-Work-Navigating/dp/1453802266/ref=sr_1_1?s=books&ie=UTF8&qid=1358043876&sr=1-1&keywords=personal+kanban) by Jim Benson and Tonianne DeMaria Barry 
 
 *The Pomodoro Technique*
 * [Pomodoro Technique Illustrated: Can You Focus - Really Focus - for
@@ -50,7 +49,7 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 * [The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal by Jim Loehr & Tony Schwartz](http://www.amazon.com/The-Power-Full-Engagement-Performance/dp/0743226755/ref=sr_1_5?ie=UTF8&qid=1358355636&sr=8-5&keywords=tony+schwartz)
 
 
-### RECOMMENDED WRITING RESOURCES
+## RECOMMENDED WRITING RESOURCES
 
 * [NYU SoE's Thesis guidelines](http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf)
 
@@ -66,6 +65,7 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 * [NYU's Tips for Thesis and Dissertation Writers](http://guides.nyu.edu/content.php?pid=31133&sid=1112487)
   * Dissertation Abstracts (Sample Theses)
+
 
 * [Purdue Writing Lab](http://owl.english.purdue.edu/owl/)
 
@@ -94,7 +94,7 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 * [Bird by Bird: Some Instructions on Writing and Life](http://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/ref=sr_1_1?ie=UTF8&qid=1421432230&sr=8-1&keywords=bird+by+bird) by Anne Lamott
 
 
-### RECOMMENDED ACADEMIC RESEARCH TOOLS
+## RECOMMENDED ACADEMIC RESEARCH TOOLS
 * [EasyBib](http://www.easybib.com)
 * [NCU Citation Builder](http://www.lib.ncsu.edu/citationbuilder)
 * [Mendeley](http://www.mendeley.com)
@@ -104,13 +104,13 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 * [Fifty alternatives to JStor](http://www.similarsitesearch.com/alternatives-to/jstor.org)
 
 
-### RECOMMENDED PRESENTATION RESOURCES
+## RECOMMENDED PRESENTATION RESOURCES
 
 * [Speaking.io](http://speaking.io)
 * [Presentation Zen: Simple Ideas on Presentation Design and Delivery (2nd Edition)](http://www.amazon.com/Presentation-Zen-Simple-Delivery-Edition/dp/0321811984/ref=sr_1_4?ie=UTF8&qid=1358102885&sr=8-4&keywords=presentation+zen) by Garr Reynolds
 
 
-### RECOMMENDED CAREER RESOURCES
+## RECOMMENDED CAREER RESOURCES
 
 * [GlassDoor](http://www.glassdoor.com/index.htm)
 
@@ -131,7 +131,7 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
   * [NYU's Wasserman Center's Finding a Mentor](http://www.nyu.edu/life/resources-and-services/career-development/prepare-for-the-job-search/finding-a-mentor.html)
 
 
-### RECOMMENDED BOOKS
+## RECOMMENDED BOOKS
 
 * [The 4-Hour Workweek, Expanded and Updated](http://www.amazon.com/4-Hour-Workweek-Expanded-Updated-Cutting-Edge/dp/0307465357/ref=sr_1_2?s=books&ie=UTF8&qid=1312561321&sr=1-2) by Timothy Ferriss
 
