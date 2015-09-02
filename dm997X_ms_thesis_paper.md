@@ -13,7 +13,7 @@ For standard formatting, consult Master's Thesis and Project Guidelines_March201
 Read [Indiana University's How To Write a Thesis Statement](http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml) BEFORE you write your thesis statement.
 
 * First, ask yourself what question is your research trying to answer? (Please reference the above link.)
-* Secondly, tun that question into a statement. (Please reference the above link.)
+* Secondly, turn that question into a statement. (Please reference the above link.)
 * Do not use **I** in your thesis statement.
 
 Here's a guide for a starting point: 
