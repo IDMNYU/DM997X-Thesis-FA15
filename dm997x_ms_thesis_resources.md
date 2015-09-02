@@ -85,9 +85,9 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 * [Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html)
 
-* [Indiana University writing lab](http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml)
+* [Indiana University Writing Lab](http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml)
 
-* [Columbia University writing lab](http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html) 
+* [Columbia University Writing Lab](http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html) 
 
 * [Paul Brian's Common Errors in English Usage](http://public.wsu.edu/~brians/errors/errors.html)
 
