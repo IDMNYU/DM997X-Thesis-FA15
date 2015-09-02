@@ -3,8 +3,9 @@
 ![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    De Angela L. Duff, deangela.duff@nyu.edu • Fall 2015 • Wednesdays 7:30-10:20PM 
-    MAGNET 811 • 3 credit hrs • Office hours by appointment or directly before class 
+    De Angela L. Duff, deangela.duff@nyu.edu • Fall 2015 
+    Wednesdays 7:30-10:20PM • MAGNET 811 • 3 credit hrs 
+    Office hours by appointment or directly before class 
     Office: MAGNET 882 • Office Phone: 646 997 0718
 
     Prerequisite: DM-GY 9963 MS Pre-Thesis in Digital Media: Research Methods
