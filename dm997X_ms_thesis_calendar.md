@@ -28,8 +28,8 @@
     <td>Wed, Sep 02</td>
     <td>
         <ul>
-        <li>Class Exercise: Why?</li>
-       <Li>Class Exercise: Resistance</li>
+        <li>Class Exercise: Why? (Do you adore your idea? Are you metaphorically willing to bleed (i.e. blood, sweat, and tears) for it?)</li>
+       <Li>Class Exercise: Resistance / Enemies</li>
        <li>Class Exercise: Your Allies</li>
         <li>Guest Talk: Billy Noble, IDM MS '15</li>
         <li><a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A</li>
