@@ -15,14 +15,10 @@ You really need to create a dropbox account if you have not already done so. Let
 
 Each student will provide their own **dropbox link**. A dropbox link is actually different than sharing an actual *dropbox folder*. Here’s a how to: https://www.dropbox.com/help/167 (There is also a video explaining how to do it later in the page as well.) 
  
-Create a dropbox link of 
-1. PDF which contains
-  * Your Name
-  * MS Thesis In Digital Media
-  * Fall 2015
-  * Title of your project
-  * URL to your project website
-  * Abstract
+Create a dropbox link that contains the following: 
+1. PDF of your Final Thesis Paper
+2. PDF of your Thesis Defense Presentation
+3. The URL to your thesis process website
 2. *at least* 3, hi-res images of your project (RAW preferably or 300dpi)
 3. **all related project files** (e.g. video, HTML files, audio files, etc ) for **gold** version
 
