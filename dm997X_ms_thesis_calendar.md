@@ -37,7 +37,7 @@
        <li>Discuss Process (Research, Design, and Build)
        <li>Guest Talk: Billy Noble, IDM MS '15</li>
        <li><a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A</li>
-       <li>Discuss </li>
+       <li>Discuss Succeeding with your master's dissertation a step-by-step handbook by John Biggam</li>
        <li>Always report any broken links or typos in the thesis gitbook with a direct message on slack
        <li>Confirm Groups A and B</li>
        
