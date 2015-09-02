@@ -56,7 +56,7 @@
     <td>Wed, Sep 09</td>
     <td>
     <ul>
-    <li>Weekly Progress: Project Milestones (aka what have you done this week?) on [Thesis Process Website](dm997X_ms_thesis_website.md) and Calendar</li>
+    <li>Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</li>
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha Presentations <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong> include</li> 
     <ul>
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 1st Draft</li>
