@@ -9,7 +9,7 @@
 <tr>
     <td width="15%">DUE DATE<br>
     <i>by or before</i></td>
-    <td width="85%">DELIVERABLES<br><i><strong>All dates and assignments are subject to change at the discretion of the professor</strong></i></td> 
+    <td width="85%">DELIVERABLES<br><i>All dates and assignments are subject to change at the discretion of the professor</i></td> 
 </tr>
 <tr>
     <td>Before Class Begins</td>
@@ -29,8 +29,10 @@
     <td>
         <ul>
         <li>Class Exercise: Why? (Do you adore your idea? Are you metaphorically willing to bleed (i.e. blood, sweat, and tears) for it?)</li>
+        
        <Li>Class Exercise: Resistance / Enemies</li>
        <li>Class Exercise: Your Allies</li>
+       <li>Class Exercise: Your mantra, power song, or power move to get you to action.</li>
        <li>Discuss Process (Research, Design, and Build)
         <li>Guest Talk: Billy Noble, IDM MS '15</li>
         <li><a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A</li>
