@@ -18,29 +18,27 @@ Each student will provide their own **dropbox link**. A dropbox link is actually
 Create a dropbox link that contains the following: 
 1. PDF of your Final Thesis Paper
 2. PDF of your Thesis Defense Presentation
-3. The URL to your thesis process website
+3. Letter to Next Cohort
+3. URL to your thesis process website
+4. URL to your portfolio website
+5. URL to your linkedin profile
+6. Resume and Cover Letter
 2. *at least* 3, hi-res images of your project (RAW preferably or 300dpi)
 3. **all related project files** (e.g. video, HTML files, audio files, etc ) for **gold** version
 
 
 ## PORTFOLIO WEBSITE
 
-*Post URL on slack. NOTE: This is different than your <a href="dm4003_thesis_website.md">Thesis Process Website</a>.*
+NOTE: This is different than your <a href="dm4003_thesis_website.md">Thesis Process Website</a>.*
 
 This website should market and promote your body of work for possible employment or other post graduation opportunities. This site should NOT be hosted on http://sites.bxmc.poly.edu. Ideally, you should have your own domain name.
 
 
 ## LETTER TO NEXT COHORT  
 
-*Post on slack as a pdf.*
-
 Write a letter to the next class giving them advice on how to succeed with their thesis paper, project, and defense. (What would you do differently if you could start the course again? What would you do the same?)
 
-## RESUME & COVER LETTER
-*Post on slack as a pdf.*
 
-## LINKEDIN PROFILE
-*Post URL on slack.*
 
 
 
