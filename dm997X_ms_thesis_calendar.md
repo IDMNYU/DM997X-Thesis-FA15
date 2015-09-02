@@ -35,9 +35,9 @@
        <li>Class Exercise: Your Allies</li>
        <li>Class Exercise: Your mantra, power song, or power move to get you to action.</li>
        <li>Discuss Process (Research, Design, and Build)
-        <li>Guest Talk: Billy Noble, IDM MS '15</li>
-        <li><a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A</li>
-        <li>Always report any broken links or typos in the thesis gitbook with a direct message on slack
+       <li>Guest Talk: Billy Noble, IDM MS '15</li>
+       <li><a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A</li>
+       <li>Always report any broken links or typos in the thesis gitbook with a direct message on slack
        <li>Confirm Groups A and B</li>
        
        <li>Class Discussion: Your Productivity System</li>
