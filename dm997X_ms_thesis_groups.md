@@ -15,12 +15,12 @@ Group A and Group B will alternate every other week. Consult the <a href="dm997X
     <td>
     7:30pm Class Begins<br>
     8:00pm <strong>Donovan</strong><br>
-    8:20pm <strong>Joseph</strong><br>
-    8:40pm <strong>Siddhi</strong><br>
-    9:00pm <strong>Ernesto</strong><br>
-    9:20pm <strong>Ijele</strong><br>
-    9:40pm <strong>Sriya</strong><br>
-    10:00pm <strong>Rachana</strong><br>
+    8:20pm <strong>Joe</strong><br>
+    8:40pm <strong>Ernesto</strong><br>
+    9:00pm <strong>Ijele</strong><br>
+    9:20pm <strong>Sriya</strong><br>
+    9:40pm <strong>Rachana</strong><br>
+    10:00pm Class Wraps Up
     </td>
     <td>7:30pm Class Begins<br>
     8:00pm <strong>Catt</strong><br>
@@ -29,7 +29,7 @@ Group A and Group B will alternate every other week. Consult the <a href="dm997X
     9:00pm <strong>Lauren</strong><br>
     9:20pm <strong>Maria</strong><br>
     9:40pm <strong>Celine</strong><br>
-    10:00pm <strong></strong><br>
+    10:00pm Class Wraps Up
     </td>
 </tr>
 </table>
