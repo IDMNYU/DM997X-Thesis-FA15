@@ -9,7 +9,7 @@
 <tr>
     <td width="15%">DUE DATE<br>
     <i>by or before</i></td>
-    <td width="85%">DELIVERABLES<br><i>All dates and assignments are subject to change at the discretion of the professor</i></td> 
+    <td width="85%">DELIVERABLES<br><i><strong>All dates and assignments are subject to change at the discretion of the professor</strong></i></td> 
 </tr>
 <tr>
     <td>Before Class Begins</td>
