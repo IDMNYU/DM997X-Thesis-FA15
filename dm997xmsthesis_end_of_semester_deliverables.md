@@ -18,11 +18,11 @@ Each student will provide their own **dropbox link**. A dropbox link is actually
 Create a dropbox link that contains the following: 
 1. PDF of your Final Thesis Paper
 2. PDF of your Thesis Defense Presentation
-3. Letter to Next Cohort
+3. PDF of Letter to Next Cohort
+4. PDF of Resume and Cover Letter
 3. URL to your thesis process website
 4. URL to your portfolio website
 5. URL to your linkedin profile
-6. Resume and Cover Letter
 2. *at least* 3, hi-res images of your project (RAW preferably or 300dpi)
 3. **all related project files** (e.g. video, HTML files, audio files, etc ) for **gold** version
 
