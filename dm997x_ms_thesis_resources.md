@@ -64,7 +64,7 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 * [How To Write X Number of Words a Day & Not Go Crazy](http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy)
 
 * [NYU's Tips for Thesis and Dissertation Writers](http://guides.nyu.edu/content.php?pid=31133&sid=1112487)
-  * Dissertation Abstracts (Sample Theses)
+  * **Dissertation Abstracts (Sample Theses)**
 
 
 * [Purdue Writing Lab](http://owl.english.purdue.edu/owl/)
