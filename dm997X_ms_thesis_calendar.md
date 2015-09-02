@@ -31,9 +31,10 @@
         <li>Class Exercise: Why? (Do you adore your idea? Are you metaphorically willing to bleed (i.e. blood, sweat, and tears) for it?)</li>
        <Li>Class Exercise: Resistance / Enemies</li>
        <li>Class Exercise: Your Allies</li>
+       <li>Discuss Process (Research, Design, and Build)
         <li>Guest Talk: Billy Noble, IDM MS '15</li>
         <li><a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A</li>
-        <li>Always report any broken links or typos in the thesis gitbook
+        <li>Always report any broken links or typos in the thesis gitbook with a direct message on slack
        <li>Confirm Groups A and B</li>
        
        <li>Class Discussion: Your productivity system</li>
@@ -92,7 +93,7 @@
     <li><strong><a href="dm997X_ms_thesis_paper.md">Detailed Written Outline</a></strong> 1st Draft</li>
     
     <li>In-class peer critiques</li>
-    <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group A</a>: Individual Meetings / Project Milestones / Self Assessment / Project Website Updates</li>
+    <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group A</a>: Individual Meetings / Project Milestones / Self Assessment / Project Website Updates / <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a> for at least one week</li>
     </ul> 
     </td> 
 </tr>
@@ -103,7 +104,7 @@
     
     <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 1st Draft</li> 
     <li>In-class peer critiques: Body Drafts (Bring at least 1 printed copy (ideally 2) to class so that a classmate can read and edit your document during class.)</li>
-<li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group B</a>: Individual Meetings / Project Milestones / Self Assessment / Project Website Updates</li>
+<li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group B</a>: Individual Meetings / Project Milestones / Self Assessment / Project Website Updates /  <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a> for at least one week</li>
     </ul> 
     </td> 
 </tr>
