@@ -9,7 +9,7 @@ For standard formatting, consult Master's Thesis and Project Guidelines_March201
 
 **<font color="#ff0000">Please have someone other than yourself read and edit your all of your writing before you turn it in.</a>** (Even better, have someone read your writing out loud to you.) Include that person's name [and their title and/or relationship with you (if not your accountability partner or other classmate)] at the top of the paper as Editor.
 
-### Assignment: The “elevator pitch” / Thesis Statement
+## Assignment: The “elevator pitch” / Thesis Statement
 Read [Indiana University's How To Write a Thesis Statement](http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml) BEFORE you write your thesis statement.
 
 * First, ask yourself what question is your research trying to answer? (Please reference the above link.)
@@ -24,7 +24,7 @@ Here's a guide for a starting point:
 
 
 
-### Assignment: Visual Outline or Mind Map
+## Assignment: Visual Outline or Mind Map
 Read [Columbia University's Skimming vs. Reading](http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html#Skimming) and [Columbia University's Order of Writing](http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html#Order) at http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html BEFORE creating your visual outline. Use the figures, graphs, and illustrations you will use in your paper. This visual outline will also be extremely helpful in your project presentations and (mock) thesis defenses. 
 
 Or
@@ -38,7 +38,7 @@ Read [Indiana University's Using Outlines](http://www.indiana.edu/~wts/pamphlets
 * Section Title
 * Section Title
 
-### Assignment: Detailed Written Outline
+## Assignment: Detailed Written Outline
 Review [Indiana University's Using Outlines](http://www.indiana.edu/~wts/pamphlets/outlines.shtml), BEFORE you write your detailed outline.
 
 Create a more detailed written outline by fleshing out they key points of your topics and/or subtopics of your initial written outline.
@@ -52,7 +52,7 @@ Create a more detailed written outline by fleshing out they key points of your t
     * Subsection Key Points
   * Section Key Points
 
-### Assignment: Body 
+## Assignment: Body 
 
 I recommend you use some sort of version control for keeping track of drafts of your writing. 
 * I'd highly recommend writing your paper using **github** (the best version control out there.)
@@ -116,7 +116,7 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
 * Place evidence of (non-confidential) empirical research in appendices (questionnaires, interview transcripts/notes, experiment results, etc.)
 
 
-### Assignment: Intro (Background/Context/Rationale)
+## Assignment: Intro (Background/Context/Rationale)
 BEFORE you write your intro, read:
 * [Indiana University's Paragraphs and Topic Sentences](http://www.indiana.edu/~wts/pamphlets/paragraphs.shtml)
 * Chapter 4, The dissertation Introduction, in [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
@@ -140,7 +140,7 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
 * Emphasize the value of/need for your research
 
 
-### Assignment: Conclusion
+## Assignment: Conclusion
 BEFORE you write your conclusion, read:
 * [Indiana’s University’s Writing Conclusions](http://www.indiana.edu/~wts/pamphlets/conclusions.shtml)
 * Chapter 9, Concluding your dissertation, in [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
@@ -154,7 +154,7 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
 * Include self-reflection (limitations of study, lessons learnt, advice to others)
 
 
-### Assignment: Abstract
+## Assignment: Abstract
 BEFORE you write your abstract, read:
 * [Indiana University's Writing Abstracts](http://www.indiana.edu/~wts/pamphlets/abstracts.shtml)
 * Chapter 10, Finally: Writing the abstract, in [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
@@ -170,7 +170,7 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
 * Keep to one paragraph (it is not an essay!)
 
 
-### Assignment: Proofread
+## Assignment: Proofread
 BEFORE you proofread, read: 
 * [Indiana University's Proofreading for Common Surface Errors: Spelling, Punctuation, and Grammar](http://www.indiana.edu/~wts/pamphlets/proofing_grammar.shtml)
 
