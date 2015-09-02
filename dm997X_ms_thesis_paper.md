@@ -3,7 +3,7 @@
 
 ---
 
-## THESIS PAPER GUIDELINES
+# THESIS PAPER GUIDELINES
 
 For standard formatting, consult Master's Thesis and Project Guidelines_March2014 version.pdf, the word templates (pinned on Slack), as well as [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary).
 
