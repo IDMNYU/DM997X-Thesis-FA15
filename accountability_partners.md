@@ -5,5 +5,5 @@
 
 ## ACCOUNTABILITY PARTNERS
 
-Ernie and Donovan
-Lauren and Catt
+* Ernie and Donovan
+* Lauren and Catt
