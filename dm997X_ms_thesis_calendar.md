@@ -55,7 +55,7 @@
     <td>Wed, Sep 09</td>
     <td>
     <ul>
-    <li>(if you have not done so already) direct message me on Slack your accountability partner (which must be a classmate)</li>
+    <li>(if you have not done so already) direct message me on Slack your accountability partner (which must be a classmate). You can look at the accountability page to see who has already teamed up.</li>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha Due <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong> include</li> 
     
