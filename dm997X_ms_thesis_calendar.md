@@ -59,8 +59,8 @@
     <li>Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</li>
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha Presentations <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong> include</li> 
     
-    <li>Share your <strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 1st Draft</li> with your accountability partner.
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> 1st Draft</li>
+    <li>Share your <strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 1st Draft with your accountability partner.</li>
+    <li>Share your <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> 1st Draft with your accountability partner</li>
    
     <li><strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 2nd Draft</li>
     
@@ -79,8 +79,8 @@
         <li>Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</li>
         <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha Presentations <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong> include</li>
         
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 2nd Draft</li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> 2nd Draft</li>
+    <li>Share your <strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 2nd Draft</li> with your accountability partner
+    <li>Share your <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> 2nd Draft with your accountability partner</li>
     
         
         <li><strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> 1st Draft</li>
