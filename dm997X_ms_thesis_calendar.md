@@ -177,7 +177,7 @@
     <td>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
-    <li><strong>10 minute <a href="dm997X_ms_thesis_project.md">Project Gold Presentations</a></strong> for ALL students.</li>
+    <li><strong>10 minute <a href="dm997X_ms_thesis_project.md">Project Gold</a></strong> for ALL students.</li>
     </ul> 
     
     </td> 
