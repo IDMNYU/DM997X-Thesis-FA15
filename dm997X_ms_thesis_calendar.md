@@ -187,7 +187,7 @@
     <td>Wed, Nov 11</td>
     <td>
     <ul>
-    <li>Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</li>
+    <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
     <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Vita, Acknowledgements (optional), and Dedication (optional)</a></strong> 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></li> 
     <li><strong>Share your <a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> 1st Draft with your project advisor if you have not already done so.</li>
