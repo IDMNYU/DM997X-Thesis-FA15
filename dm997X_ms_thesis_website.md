@@ -3,7 +3,7 @@
 
 ---
 
-## THESIS PROCESS WEBSITE
+# THESIS PROCESS WEBSITE
 
 You should have a **dedicated**, thesis website to document your **weekly** progress/process of your MS Thesis (ideally in wordpress) on http://sites.bxmc.poly.edu. If you do not use sites.bxmc.poly.edu, you'll need to post your process pdf on sites.bxmc.poly.edu at the end of the semester for archival purposes.
 * Students are expected to share their progress with the instructor and class using
@@ -16,7 +16,7 @@ their process website.
 
 
 
-**What your thesis website should contain?**
+##What your thesis process website should contain?
 * *Weekly Thesis Progress/Process*
   * at least, 1 post per week DUE at noon on Wednesdays. If it is not posted by noon, you will not receive credit. 
   * The majority of the posts should be your own writing (well-composed and proofread for impeccable spelling and grammar).
@@ -40,11 +40,13 @@ their process website.
   * Annotated means with notes. You don’t have to write a novel. 1 to 2 thoughtful, contextual sentences is more than enough. So, “This was inspirational,” would not be a good note as it provides no context for your thesis. However, “This book discusses how nostalgia is a useless emotion because nostalgia is based on the past. This point of view is antithetical to my thesis because I’m trying to demonstrate how the sentimentality of nostalgia is valuable to the human experience.” is a viable note.)
 
 
-**What your thesis should NOT contain?**
+##What your thesis process website should NOT contain?
 * How you are feeling about your MS thesis? This is different than evaluating or reflecting about what is working and what is not working. In other words, don’t rant, complain, blame, self-deprecate or make excuses on your thesis website. 
 * This is a public representation of you as an artist, designer, creative technologist and/or entrepreneur. You want it to be as professional as possible. You want prospective employers, gallery owners, venture capitalists, and/or possible collaborators to take you seriously.
 * Any content that is NOT related to your thesis explicitly.
-* 
+
+
+##Examples of Process Websites
 Spencer Hargiss’ thesis website is a good example, http://www.spencerhargiss.com/thesis/. Please use Spencer’s thesis website as a guide. Why?  
 * You can clearly read what his thesis was about due to his about link. You don’t have to wade through to the beginning of his posts to find this out. His navigation stands out due to its visual hierarchy.
 * He explicitly stated what he did, concisely and clearly.
