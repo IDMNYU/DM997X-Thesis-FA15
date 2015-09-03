@@ -13,5 +13,5 @@
 * [Thesis Process Website](dm997X_ms_thesis_website.md)
 * [Recommended Resources](dm997x_ms_thesis_resources.md)
 * [Beginning of Semester Status](beginning_of_semester_status.md)
-* Accountability Partners
+* [Accountability Partners](accountability_partners.md)
 
