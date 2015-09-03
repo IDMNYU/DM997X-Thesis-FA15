@@ -76,7 +76,7 @@
     <td>Wed, Sep 16</td>
     <td>
         <ul>
-        <li>Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</li>
+        <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
         <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha Due <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong> include</li>
         
     <li>Share your <strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 2nd Draft</li> with your accountability partner
