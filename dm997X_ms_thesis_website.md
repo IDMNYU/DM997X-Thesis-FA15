@@ -14,16 +14,7 @@ their process website.
 * Install wordpress in this folder
 * Make and appointment with Elton to connect a database to this particular wordpress installation
 
-Spencer Hargiss’ thesis website is a good example, http://www.spencerhargiss.com/thesis/. Please use Spencer’s thesis website as a guide. Why?  
-* You can clearly read what his thesis was about due to his about link. You don’t have to wade through to the beginning of his posts to find this out. His navigation stands out due to its visual hierarchy.
-* He explicitly stated what he did, concisely and clearly.
-* He had visual documentation (images and screenshots). 
-* However, most importantly, he had supporting text for these images and screenshots.
 
-Also the following PDFs contain excellent examples of possible entries:
-* http://issuu.com/russmaschmeyer/docs/motiv-process-book (process)
-  * http://musicwithmotiv.com (project)
-* http://www.clickcolleen.com/foodforthought/CMiller_processbook.pdf
 
 **What your thesis website should contain?**
 * *Weekly Thesis Progress/Process*
@@ -53,6 +44,17 @@ Also the following PDFs contain excellent examples of possible entries:
 * How you are feeling about your MS thesis? This is different than evaluating or reflecting about what is working and what is not working. In other words, don’t rant, complain, blame, self-deprecate or make excuses on your thesis website. 
 * This is a public representation of you as an artist, designer, creative technologist and/or entrepreneur. You want it to be as professional as possible. You want prospective employers, gallery owners, venture capitalists, and/or possible collaborators to take you seriously.
 * Any content that is NOT related to your thesis explicitly.
+* 
+Spencer Hargiss’ thesis website is a good example, http://www.spencerhargiss.com/thesis/. Please use Spencer’s thesis website as a guide. Why?  
+* You can clearly read what his thesis was about due to his about link. You don’t have to wade through to the beginning of his posts to find this out. His navigation stands out due to its visual hierarchy.
+* He explicitly stated what he did, concisely and clearly.
+* He had visual documentation (images and screenshots). 
+* However, most importantly, he had supporting text for these images and screenshots.
+
+Also the following PDFs contain excellent examples of possible entries:
+* http://issuu.com/russmaschmeyer/docs/motiv-process-book (process)
+  * http://musicwithmotiv.com (project)
+* http://www.clickcolleen.com/foodforthought/CMiller_processbook.pdf
 
 
 
