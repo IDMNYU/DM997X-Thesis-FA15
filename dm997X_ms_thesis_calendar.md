@@ -95,7 +95,7 @@
     <td>Wed, Sep 23</td>
     <td>
     <ul>
-    <li>Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</li>
+    <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Detailed Written Outline</a></strong> 1st Draft</li>
     
     <li>In-class peer critiques</li>
