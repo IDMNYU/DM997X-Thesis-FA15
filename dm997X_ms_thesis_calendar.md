@@ -120,7 +120,7 @@
     <td>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Presentation: Beta <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
     
     <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 1st Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 2nd Draft</li>
