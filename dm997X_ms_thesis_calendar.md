@@ -65,7 +65,6 @@
    
     <li><strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 2nd Draft</li>
     <li>Guest Talk: Billy Noble, IDM MS '15</li>
-    <li>Make an appointment with IDM’s Technology Manager, Elton Kwok, MAGNET 883, eltonkwok@nyu.edu to connect a database to your <a href="dm997X_ms_thesis_website.md">thesis process website</a> on http://sites.bxmc.poly.edu</li>
     </ul>
     </td> 
 </tr>
