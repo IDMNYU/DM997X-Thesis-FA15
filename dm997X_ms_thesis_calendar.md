@@ -2,8 +2,7 @@
 ##### Fall 2015 • De Angela L. Duff • Wednesdays • 7:30-10:20pm • 2MTC MAGNET 811 
 
 ---
-# CALENDAR (THIS IS A DRAFT!!!)
-## This will be in draft form until we meet on the first day of class.
+# CALENDAR
 
 <table>
 <tr>
