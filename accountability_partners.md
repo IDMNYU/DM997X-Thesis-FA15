@@ -7,3 +7,5 @@
 
 * Ernie and Donovan
 * Lauren and Catt
+* Sandra and Louisa
+* Sriya and Celine
