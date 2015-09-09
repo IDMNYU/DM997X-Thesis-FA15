@@ -75,6 +75,8 @@
     <td>Wed, Sep 16</td>
     <td>
         <ul>
+        <li>Attend Jane McGonigal's talk on the floor, beginning at 7pm, for the beginning of class.</li>
+        <li>We will meet for class when her talk ends.</li>
         <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
         <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha Due <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong> include</li>
         
