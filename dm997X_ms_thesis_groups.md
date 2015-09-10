@@ -24,7 +24,7 @@ Group A and Group B will alternate every other week. Consult the <a href="dm997X
     </td>
     <td>7:30pm Class Begins<br>
     8:00pm <strong>Catt</strong><br>
-    8:20pm <strong>Guanchen</strong><br>
+    8:20pm <strong>Sandra</strong><br>
     8:40pm <strong>Srihari</strong><br>
     9:00pm <strong>Lauren</strong><br>
     9:20pm <strong>Maria</strong><br>
