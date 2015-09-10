@@ -5,10 +5,11 @@
 
 ## ACCOUNTABILITY PARTNERS
 
-* Ernie and Donovan and Ijele
+* Ernie and Donovan
 * Lauren and Catt
 * Sandra and Louisa
 * Sriya and Celine
+* Joe and Ijele
 
 
 ###Responsibility of Accountability Partners
