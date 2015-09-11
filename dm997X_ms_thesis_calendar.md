@@ -77,11 +77,13 @@
 <strong>Homework</strong>
 <ul>
         <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
-        
-        <li>Post your <strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> (1st Draft), <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> (revised) and <a href="dm997X_ms_thesis_paper.md">Thesis Statement</a> (optional revision) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
-    <li>Share the items in the above bullet with your accountability partner.</li>
-<li>Share your <strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> (2nd Draft), <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> (2nd Draft), and <strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> (1st Draft)</li>
-        <li>(OPTIONAL) Post your <strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> (3rd Draft) on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website.</a></li>
+        <li>Listen to the following Unmistakeable Creative Podcast, <a href="https://unmistakablecreative.com/podcast/asking-a-more-beautiful-question-with-warren-berger" target="_blank">Asking A More Beautiful Question With Warren Berger</a> (Start around 22 minutes...)
+</li>
+<li>ONLY AFTER listening to the podcast, go through the exercise of asking: <strong>why? what if? and how?</strong> as it relates to your thesis paper and project. Post the results to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
+<li>Revise your thesis statement based on the previous exercise ONLY IF your project shifts after doing the exercise. Post the revision to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
+<li>Post your <strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> (1st Draft) and <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> (revised) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
+    <li>Share the items in the above bullets with your accountability partner.</li>
+</ul>
         
     
         </ul>
@@ -96,9 +98,14 @@
 <tr>
     <td>Wed, Sep 23</td>
     <td>
+    <strong>Homework</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Detailed Written Outline</a></strong> 1st Draft</li>
+    </ul>
+    <strong>Class</strong>
+    <ul>
+    
     
     <li>In-class peer critiques</li>
     <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group A</a>: Individual Meetings / Project Milestones / Self Assessment / Project Website Updates / <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a> for at least one week</li>
@@ -108,9 +115,14 @@
 <tr>
     <td>Wed, Sep 30</td>
     <td>
+    <strong>Homework</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 1st Draft</li> 
+    </ul>
+    <strong>Class</strong>
+    <ul>
+    
     <li>In-class peer critiques: Body Drafts (Bring at least 1 printed copy (ideally 2) to class so that a classmate can read and edit your document during class.)</li>
 <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group B</a>: Individual Meetings / Project Milestones / Self Assessment / Project Website Updates /  <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a> for at least one week</li>
     </ul> 
@@ -120,6 +132,10 @@
 <tr>
     <td>Wed, Oct 07</td>
     <td>
+    <strong>Homework</strong>
+    <ul>
+    </ul>
+    <strong>Class</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
@@ -150,6 +166,10 @@
     <td>Wed, Oct 21</td>
     <td>
     <ul>
+    <strong>Homework</strong>
+    <ul>
+    </ul>
+    <strong>Class</strong>
     <li>Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</li>
     <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 1st Draft </li> 
@@ -161,6 +181,10 @@
 <tr>
     <td>Wed, Oct 28</td>
     <td>
+    <strong>Homework</strong>
+    <ul>
+    </ul>
+    <strong>Class</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
     <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
@@ -177,6 +201,10 @@
 <tr>
     <td>Wed, Nov 04</td>
     <td>
+    <strong>Homework</strong>
+    <ul>
+    </ul>
+    <strong>Class</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
     <li><strong>10 minute <a href="dm997X_ms_thesis_project.md">Project Gold</a></strong> for ALL students.</li>
@@ -188,6 +216,10 @@
 <tr>
     <td>Wed, Nov 11</td>
     <td>
+    <strong>Homework</strong>
+    <ul>
+    </ul>
+    <strong>Class</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
     <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
@@ -202,6 +234,10 @@
 <tr>
 <td>Wed, Nov 18</td>
 <td>
+<strong>Homework</strong>
+    <ul>
+    </ul>
+    <strong>Class</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
     <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
@@ -223,7 +259,8 @@
 </tr>
 <tr>
     <td>Dec 7-11 (up to 4 per day)</td>
-    <td><strong><a href="dm997X_ms_thesis_defense.md">Thesis Defenses</a></strong></td>
+    <td>
+    <strong><a href="dm997X_ms_thesis_defense.md">Thesis Defenses</a></strong></td>
 </tr>
 <tr>
     <td>Dec 12-18</td>
