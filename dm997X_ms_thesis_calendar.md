@@ -34,7 +34,6 @@
        <li>Class Exercise: Your Allies</li>
        <li>Class Exercise: Your mantra, power song, or power move to get you to action.</li>
        <li>Discuss Process (Research, Design, and Build)
-       
        <li><a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A</li>
        <li>Discuss Succeeding with your master's dissertation a step-by-step handbook by John Biggam</li>
        <li>Always report any broken links or typos in the thesis gitbook with a direct message on slack
