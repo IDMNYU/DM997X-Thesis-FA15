@@ -101,7 +101,7 @@
     <strong>Homework</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
-    <li>Post your <strong><a href="dm997X_ms_thesis_paper.md">Detailed Written Outline</a></strong> (1st Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
+    <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Detailed Written Outline</a></strong> (1st Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
     </ul>
     <strong>Class</strong>
     <ul>
@@ -116,7 +116,7 @@
     <strong>Homework</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 1st Draft to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li> 
+    <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 1st Draft to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li> 
     </ul>
     <strong>Class</strong>
     <ul>
@@ -132,14 +132,16 @@
     <td>
     <strong>Homework</strong>
     <ul>
+    <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
+    <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 1st Draft to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
+    <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 2nd Draft to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
+    
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
     
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 1st Draft to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 2nd Draft to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
+    
 
     </ul>     
     </td> 
