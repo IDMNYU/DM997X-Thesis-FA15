@@ -53,15 +53,16 @@
 </tr>
 <tr>
     <td>Wed, Sep 09</td>
-    <td>
+    <td><strong>Homework</strong>
     <ul>
     <li>(if you have not done so already) direct message me on Slack your accountability partner (which must be a classmate). You can look at the accountability page to see who has already teamed up.</li>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha Due <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong> include</li> 
-    
     <li>Post your <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> (1st Draft) and  <strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> (2nd Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
-    <li>Share your <strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> (1st Draft), <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> (1st Draft), and <strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> (2nd Draft) with your accountability partner.</li>
-
+     <li>Share the items in the above bullet with your accountability partner.</li>
+    </ul>
+<strong>Class</strong>    
+    <ul>
+    <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha Due</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></strong></li> 
     <li>Guest Talk: Billy Noble, IDM MS '15</li>
     </ul>
     </td> 
@@ -73,22 +74,22 @@
 <tr>
     <td>Wed, Sep 16</td>
     <td>
-        <ul>
-        <li><strong>Attend Jane McGonigal's talk on the floor, beginning at 7pm, for the beginning of class.</strong></li>
-        <li>We will meet for class when her talk ends.</li>
+<strong>Homework</strong>
+<ul>
         <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
-        <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha Due</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></li>
         
-    
-    
-        
-        <li>Post your <strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> (1st Draft) on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website.</a></li>
-         <li>Post your <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> (1st Draft) and  <strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> (2nd Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
-    <li>Share your <strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> (1st Draft), <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> (1st Draft), and <strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> (2nd Draft) with your accountability partner.</li>
+        <li>Post your <strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> (1st Draft), <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> (revised) and <a href="dm997X_ms_thesis_paper.md">Thesis Statement</a> (optional revision) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
+    <li>Share the items in the above bullet with your accountability partner.</li>
 <li>Share your <strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> (2nd Draft), <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> (2nd Draft), and <strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> (1st Draft)</li>
         <li>(OPTIONAL) Post your <strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> (3rd Draft) on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website.</a></li>
         
     
+        </ul>
+        <strong>Class</strong>    
+        <ul>
+        <li><strong>Attend Jane McGonigal's talk on the floor, beginning at 7pm.</strong></li>
+        <li>We will meet for class when her talk ends.</li>
+        <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha Due</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></li>
         </ul>
     </td> 
 </tr>
