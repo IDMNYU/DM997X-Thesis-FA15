@@ -101,12 +101,10 @@
     <strong>Homework</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Detailed Written Outline</a></strong> 1st Draft</li>
+    <li>Post your <strong><a href="dm997X_ms_thesis_paper.md">Detailed Written Outline</a></strong> (1st Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
     </ul>
     <strong>Class</strong>
     <ul>
-    
-    
     <li>In-class peer critiques</li>
     <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group A</a>: Individual Meetings / Project Milestones / Self Assessment / Project Website Updates / <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a> for at least one week</li>
     </ul> 
@@ -118,7 +116,7 @@
     <strong>Homework</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 1st Draft</li> 
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 1st Draft to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li> 
     </ul>
     <strong>Class</strong>
     <ul>
@@ -140,8 +138,8 @@
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
     
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 1st Draft</li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 2nd Draft</li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 1st Draft to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 2nd Draft to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
 
     </ul>     
     </td> 
@@ -154,8 +152,8 @@
     <li><strong>Schedule one on one, 30 minute appointments for midterm assessment.</strong> Bring your printed self-assessments with you to your scheduled one on one appointments. The self assessment will be posted on slack, and handed out in class.</li>
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
     
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 2nd Draft</li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 3rd Draft</li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 2nd Draft to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 3rd Draft to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
  
     </ul> 
     </td> 
@@ -172,8 +170,8 @@
     <strong>Class</strong>
     <li>Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</li>
     <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 1st Draft </li> 
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 1st Draft</li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 1st Draft  to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li> 
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 1st Draft to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
     </ul> 
    
     </td> 
