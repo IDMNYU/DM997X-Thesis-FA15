@@ -147,7 +147,7 @@
 </tr>
 <tr>
     <td>Wed, Oct 14</td>
-    <strong>Homework</strong>
+    <td><strong>Homework</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
    
