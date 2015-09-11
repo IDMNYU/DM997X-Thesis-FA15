@@ -223,7 +223,7 @@
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Vita, Acknowledgements (optional), and Dedication (optional)</a></strong> 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a> on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li> 
     <li>Share your <strong> <a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> 1st Draft with your project advisor and accountability partner if you have not already done so.</li>
-    <li><strong><a href="dm997X_ms_thesis_assignments.md">Dropbox link of deliverables for the ms thesis catalog</a></strong></li>
+    <li>Direct Message <strong><a href="dm997X_ms_thesis_assignments.md">Dropbox link of deliverables for the ms thesis catalog</a></strong> to deangela on slack.</li>
     </ul>
     <strong>Class</strong>
     <ul>
