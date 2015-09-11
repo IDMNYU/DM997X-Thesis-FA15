@@ -101,6 +101,7 @@
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Detailed Written Outline</a></strong> (1st Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
+    <li>Share the items in the above bullets with your accountability partner.</li>
     </ul>
     <strong>Class</strong>
     <ul>
@@ -116,6 +117,7 @@
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 1st Draft to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li> 
+    <li>Share the items in the above bullets with your accountability partner.</li>
     </ul>
     <strong>Class</strong>
     <ul>
@@ -134,6 +136,7 @@
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> (1st Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> (2nd Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
+    <li>Share the items in the above bullets with your accountability partner.</li>
     </ul>
     <strong>Class</strong>
     <ul>
@@ -167,6 +170,7 @@
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> (1st Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li> 
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> (1st Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
+    <li>Share the items in the above bullets with your accountability partner.</li>
     </ul>
     <strong>Class</strong>
     <ul> 
@@ -182,6 +186,7 @@
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> (2nd Draft) on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li> 
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> (2nd Draft) on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
+    <li>Rehearse your Mock Thesis Defense with your accountability partner.</li>
     </ul>
     <strong>Class</strong>
     <ul>
@@ -199,6 +204,7 @@
     <strong>Homework</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
+    <li>Share the state of your project (gold) in the above bullets with your accountability partner.</li>
     </ul>
     <strong>Class</strong>
     <ul>
