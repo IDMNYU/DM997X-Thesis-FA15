@@ -81,7 +81,7 @@
 </li>
 <li>ONLY AFTER listening to the podcast, go through the exercise of asking: <strong>why? what if? and how?</strong> as it relates to your thesis paper and project. Post the results to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
 <li>Revise your thesis statement based on the previous exercise ONLY IF your project shifts after doing the exercise. Post the revision to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
-<li>Post your <strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> (1st Draft) and <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> (revised) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
+<li>Post <strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> (1st Draft) and <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> (revised) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
     <li>Share the items in the above bullets with your accountability partner.</li>
 </ul>
         
