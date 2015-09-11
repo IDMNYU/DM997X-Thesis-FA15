@@ -62,7 +62,7 @@
     <li>Share your <strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 1st Draft with your accountability partner.</li>
     <li>Share your <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> 1st Draft with your accountability partner and post it on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
    
-    <li>Post your <strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 2nd Draft</li>on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a>
+    <li>Post your <strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> (2nd Draft)</li>on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a>
     <li>Guest Talk: Billy Noble, IDM MS '15</li>
     </ul>
     </td> 
@@ -80,13 +80,12 @@
         <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
         <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha Due <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong> include</li>
         
-    <li>Share your <strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 2nd Draft</li> with your accountability partner
-    <li>Share your <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> 2nd Draft with your accountability partner and post it on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website.</a></li>
+    
     
         
-        <li><strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> 1st Draft</li>
-
-        <li>(OPTIONAL) <strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 3rd Draft</li>
+        <li>Post your <strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> (1st Draft) on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website.</a></li>
+<li>Share your <strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> (2nd Draft), <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> (2nd Draft), and <strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> (1st Draft) with your accountability partner and post it on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website.</a></li>
+        <li>(OPTIONAL) Post your <strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> (3rd Draft) on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website.</a></li>
         
     
         </ul>
