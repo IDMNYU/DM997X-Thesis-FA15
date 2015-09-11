@@ -62,7 +62,7 @@
     <li>Share your <strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 1st Draft with your accountability partner.</li>
     <li>Share your <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> 1st Draft with your accountability partner and post it on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
    
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 2nd Draft</li>
+    <li>Post your <strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 2nd Draft</li>on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a>
     <li>Guest Talk: Billy Noble, IDM MS '15</li>
     </ul>
     </td> 
