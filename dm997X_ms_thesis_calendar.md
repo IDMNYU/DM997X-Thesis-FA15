@@ -85,9 +85,8 @@
     <li>Share the items in the above bullets with your accountability partner.</li>
 </ul>
         
-    
-        </ul>
-        <strong>Class</strong>    
+
+<strong>Class</strong>    
         <ul>
         <li><strong>Attend Jane McGonigal's talk on the floor, beginning at 7pm.</strong></li>
         <li>We will meet for class when her talk ends.</li>
@@ -106,7 +105,7 @@
     <strong>Class</strong>
     <ul>
     <li>In-class peer critiques</li>
-    <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group A</a>: Individual Meetings / Project Milestones / Self Assessment / Project Website Updates / <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a> for at least one week</li>
+    <li>Individual Meetings with <a href="dm997X_ms_thesis_groups.md" target="_blank">Group A</a>: Project Milestones / Self Assessment / Process Website Updates / <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a> for at least one week</li>
     </ul> 
     </td> 
 </tr>
@@ -122,7 +121,7 @@
     <ul>
     
     <li>In-class peer critiques: Body Drafts (Bring at least 1 printed copy (ideally 2) to class so that a classmate can read and edit your document during class.)</li>
-<li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group B</a>: Individual Meetings / Project Milestones / Self Assessment / Project Website Updates /  <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a> for at least one week</li>
+<li>Individual Meetings with <a href="dm997X_ms_thesis_groups.md" target="_blank">Group B</a>: Project Milestones / Self Assessment / Process Website Updates /  <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a> for at least one week</li>
     </ul> 
     </td> 
 </tr>
@@ -139,24 +138,22 @@
     <strong>Class</strong>
     <ul>
     
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
-    
-    
-
+    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></strong></li>
     </ul>     
     </td> 
 </tr>
 <tr>
     <td>Wed, Oct 14</td>
-    <td>
+    <strong>Homework</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
     <li><strong>Schedule one on one, 30 minute appointments for midterm assessment.</strong> Bring your printed self-assessments with you to your scheduled one on one appointments. The self assessment will be posted on slack, and handed out in class.</li>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
-    
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 2nd Draft to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 3rd Draft to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
- 
+    <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 2nd Draft to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
+    <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 3rd Draft to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
+    </ul>
+    <strong>Class</strong>
+    <ul>
+    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></strong></li>
     </ul> 
     </td> 
 </tr>
@@ -167,15 +164,15 @@
     <td>
     <ul>
     <strong>Homework</strong>
-    <ul>
+    
+    <li>Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</li>
+    <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 1st Draft  to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li> 
+    <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 1st Draft to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
     </ul>
     <strong>Class</strong>
-    <li>Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</li>
-    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 1st Draft  to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li> 
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 1st Draft to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
-    </ul> 
-   
+    <ul> 
+   <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 1st Draft</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></strong></li>
+   </ul>
     </td> 
 </tr>
 <tr>
