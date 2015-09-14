@@ -76,7 +76,7 @@
 <strong>Homework</strong>
 <ul>
         <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
-        <li>Listen to the following Unmistakeable Creative Podcast, <a href="https://unmistakablecreative.com/podcast/asking-a-more-beautiful-question-with-warren-berger" target="_blank">Asking A More Beautiful Question With Warren Berger</a> (Start around 22 minutes...)
+        <li>Listen to the following Unmistakeable Creative Podcast, <a href="https://unmistakablecreative.com/podcast/asking-a-more-beautiful-question-with-warren-berger" target="_blank">Asking A More Beautiful Question With Warren Berger</a> (Start listening to the podcast around 22 minutes INTO the podcast...)
 </li>
 <li>ONLY AFTER listening to the podcast, go through the exercise of asking: <strong>why? what if? and how?</strong> as it relates to your thesis paper and project. Post the results to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
 <li>Revise your thesis statement based on the previous exercise ONLY IF your project shifts after doing the exercise above. Post the revision to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
