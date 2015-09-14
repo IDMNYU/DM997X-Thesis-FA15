@@ -19,7 +19,7 @@ Group A and Group B will alternate every other week. Consult the <a href="dm997X
     8:40pm <strong>Ernesto</strong><br>
     9:00pm <strong>Ijele</strong><br>
     9:20pm <strong>Sriya</strong><br>
-    9:40pm <strong>Rachana</strong><br>
+    9:40pm<br>
     10:00pm Class Wraps Up
     </td>
     <td>7:30pm Class Begins<br>
