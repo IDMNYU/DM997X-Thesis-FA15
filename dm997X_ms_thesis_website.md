@@ -20,7 +20,8 @@ their process website.
 * *Weekly Thesis Progress/Process*
   * at least, 1 post per week DUE at noon on Wednesdays. If it is not posted by noon, you will not receive credit. 
   * The majority of the posts should be your own writing (well-composed and proofread for impeccable spelling and grammar).
-  * Project Advisor Meeting Documentation (2-4x)
+  * Project Advisor Meeting Notes (2-4x)
+  * Accountability partner meeting notes
   * pdfs of any presentations (annotated)
   * Milestones / Tasks that have been completed (transcribed from your personal kanban)
   * Include who or what was involved.
