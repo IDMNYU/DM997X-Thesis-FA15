@@ -20,6 +20,7 @@
 * Conduct a weekly review
  * Review each other's calendar weekly
  * Review each other's project tasks (are they actionable?) weekly; Are they complete?
+ * Discuss anything that you discussed with your accountability partner in your weekly review
 * Take notes for each other's presentations
 * Be each other's editor for the thesis paper 
  * Read, proofread, and edit each other's thesis paper assignments.
