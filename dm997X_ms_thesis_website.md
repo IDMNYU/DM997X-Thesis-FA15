@@ -23,6 +23,7 @@ their process website.
   * Project Advisor meeting notes (2-4x)
   * Accountability partner meeting notes
   * pdfs of any presentations (annotated)
+  * notes taken from any presentation
   * Milestones / Tasks that have been completed (transcribed from your personal kanban)
   * Include who or what was involved.
   * Include images, illustrations, audio, video, snippets of research, ANNOTATED links, etc. relevant to your thesis. 
