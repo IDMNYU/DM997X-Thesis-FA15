@@ -20,7 +20,7 @@
 * Conduct a weekly review
  * Review each other's calendar weekly
  * Review each other's project tasks (are they actionable?) weekly; Are they complete?
-* Take notes for one another whenever your partner is presenting.
+* Take notes for each other's presentations
 * Be each other's editor for the thesis paper 
  * Read, proofread, and edit each other's thesis paper assignments.
 * Provide moral support and encouragement
