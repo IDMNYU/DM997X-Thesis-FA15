@@ -93,6 +93,8 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 * [Bird by Bird: Some Instructions on Writing and Life](http://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/ref=sr_1_1?ie=UTF8&qid=1421432230&sr=8-1&keywords=bird+by+bird) by Anne Lamott
 
+* [NYU Library](http://library.nyu.edu) 
+    * Graduate students have access to a wide range of amenities in the NYU libraries, from spaces designed just for you, to classes that will help you become a better researcher, to on-demand consultation and help from our 35 subject-specialist librarians. Visit [NYU Library](http://library.nyu.edu) to learn more about our services and our world-class collection of research materials.  
 
 ## RECOMMENDED ACADEMIC RESEARCH TOOLS
 * [EasyBib](http://www.easybib.com)
