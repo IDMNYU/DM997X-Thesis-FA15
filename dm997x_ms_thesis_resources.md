@@ -97,6 +97,9 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 * **[NYU Library](http://library.nyu.edu)**
     * Graduate students have access to a wide range of amenities in the NYU libraries, from [spaces](http://library.nyu.edu/services/group_study.html) designed just for you, to [classes](http://nyu.libcal.com) that will help you become a better researcher, to on-demand consultation and help from our [35 subject-specialist librarians](http://library.nyu.edu/research/lib_arc.html.). Visit [NYU Library](http://library.nyu.edu) to learn more about our services and our world-class collection of research materials.  
 
+## RECOMMENDED ACADEMIC RESEARCH RESOURCES
+* [Pew Research](http://www.pewresearch.org
+
 ## RECOMMENDED ACADEMIC RESEARCH TOOLS
 * [EasyBib](http://www.easybib.com)
 * [NCU Citation Builder](http://www.lib.ncsu.edu/citationbuilder)
