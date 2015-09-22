@@ -149,3 +149,8 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 * [Steal Like An Artist: 10 Things Nobody Told You About Being Creative](http://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253/ref=sr_1_1?ie=UTF8&qid=1422468736&sr=8-1&keywords=steal+like+an+artist) by Austin Kleon
 
 * [The War of Art: Break Through the Blocks and Win Your Inner Creative Battles](http://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/) by Steven Pressfield<br>(If you like *Do The Work* by Steven Pressfield, which is pretty much a distillation of the principles in The War of Art, also by Steven Pressfield, I highly suggest you acquire this one as well.)
+
+* [Lean In for Graduates](http://www.amazon.com/Lean-Graduates-Sheryl-Sandberg/dp/0385353677/ref=sr_1_1?ie=UTF8&qid=1442940600&sr=8-1&keywords=lean+in+for+graduates) by Sheryl Sanders 
+
+* [Thrive](http://www.amazon.com/Thrive-Redefining-Success-Creating-Well-Being/dp/0804140863/ref=sr_1_1?ie=UTF8&qid=1442940637&sr=8-1&keywords=thrive+arianna+huffington) by Arianna Huffington 
+
