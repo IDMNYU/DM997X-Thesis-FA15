@@ -53,6 +53,10 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 * [NYU SoE's Thesis guidelines](http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf)
 
+* [NYU's Tips for Thesis and Dissertation Writers](http://guides.nyu.edu/content.php?pid=31133&sid=1112487)
+  * **Dissertation Abstracts (Sample Theses)**
+
+
 * [The Elements of Style, Fourth Edition](http://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/ref=sr_1_1?ie=UTF8&qid=1422276317&sr=8-1&keywords=stunk+and+whites+elements+of+style) by Strunk and White
 
 * [The Mac is Not a Typewriter](http://www.amazon.com/Mac-Not-Typewriter-2nd/dp/0201782634/ref=sr_1_1?ie=UTF8&qid=1422276493&sr=8-1&keywords=the+mac+is+not+a+typewriter) by Robin Williams
@@ -62,9 +66,6 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 * [Guide to Writing a Masters Thesis](http://www.kf.vu.lt/dokumentai/Uzsienio%20reikalai/Masters_Thesis_Guide.pdf)
 
 * [How To Write X Number of Words a Day & Not Go Crazy](http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy)
-
-* [NYU's Tips for Thesis and Dissertation Writers](http://guides.nyu.edu/content.php?pid=31133&sid=1112487)
-  * **Dissertation Abstracts (Sample Theses)**
 
 
 * [Purdue Writing Lab](http://owl.english.purdue.edu/owl/)
@@ -93,8 +94,8 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 * [Bird by Bird: Some Instructions on Writing and Life](http://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/ref=sr_1_1?ie=UTF8&qid=1421432230&sr=8-1&keywords=bird+by+bird) by Anne Lamott
 
-* [NYU Library](http://library.nyu.edu) 
-    * Graduate students have access to a wide range of amenities in the NYU libraries, from spaces designed just for you, to classes that will help you become a better researcher, to on-demand consultation and help from our 35 subject-specialist librarians. Visit [NYU Library](http://library.nyu.edu) to learn more about our services and our world-class collection of research materials.  
+* **[NYU Library](http://library.nyu.edu)**
+    * Graduate students have access to a wide range of amenities in the NYU libraries, from [spaces](http://library.nyu.edu/services/group_study.html) designed just for you, to [classes](http://nyu.libcal.com) that will help you become a better researcher, to on-demand consultation and help from our [35 subject-specialist librarians](http://library.nyu.edu/research/lib_arc.html.). Visit [NYU Library](http://library.nyu.edu) to learn more about our services and our world-class collection of research materials.  
 
 ## RECOMMENDED ACADEMIC RESEARCH TOOLS
 * [EasyBib](http://www.easybib.com)
