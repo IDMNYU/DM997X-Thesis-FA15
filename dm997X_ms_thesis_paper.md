@@ -7,7 +7,7 @@
 
 For standard formatting, consult Master's Thesis and Project Guidelines_March2014 version.pdf, the word templates (pinned on Slack), as well as [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary).
 
-**<font color="#ff0000">Please have someone other than yourself read and edit your all of your writing before you turn it in.</a>** (Even better, have someone read your writing out loud to you.) Include that person's name [and their title and/or relationship with you (if not your accountability partner or other classmate)] at the top of the paper as Editor.
+**<font color="#ff0000">Please have someone other than yourself read and edit your all of your writing before you turn it in.</font>** (Even better, have someone read your writing out loud to you.) Include that person's name [and their title and/or relationship with you (if not your accountability partner or other classmate)] at the top of the paper as Editor.
 
 ## Assignment: The “elevator pitch” / Thesis Statement
 Read [Indiana University's How To Write a Thesis Statement](http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml) BEFORE you write your thesis statement.
