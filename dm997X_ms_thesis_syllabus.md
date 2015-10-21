@@ -218,7 +218,7 @@ Students, in addition to their regular NYU allotment, also have available to the
 
 ### REQUIRED TOOLS
 * Analog or Digital Calendar
-* [Poly's Writing Center](http://engineering.nyu.edu/academics/support/polytechnic/writing)
+* [NYU School of Engineering's Writing Center](http://engineering.nyu.edu/academics/support/polytechnic/writing)
 
 ### THESIS COMPONENTS
 The MS Thesis in Digital Media is comprised of four primary components: 
