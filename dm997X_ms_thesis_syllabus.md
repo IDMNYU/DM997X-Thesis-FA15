@@ -212,6 +212,8 @@ Students, in addition to their regular NYU allotment, also have available to the
 
 * [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
 
+### REQUIRED MEDIA
+* [Time Management](https://www.youtube.com/watch?v=blaK_tB_KQA) by Randy Pausch, November 2007
 
 ### REQUIRED TOOLS
 * Analog or Digital Calendar
