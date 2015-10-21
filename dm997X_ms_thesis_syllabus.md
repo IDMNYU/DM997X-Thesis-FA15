@@ -214,6 +214,7 @@ Students, in addition to their regular NYU allotment, also have available to the
 
 ### REQUIRED MEDIA
 * [Time Management](https://www.youtube.com/watch?v=blaK_tB_KQA) by Randy Pausch, November 2007
+* [Asking A More Beautiful Question With Warren Berger](https://unmistakablecreative.com/podcast/asking-a-more-beautiful-question-with-warren-berger) (Start listening to the podcast around 22 minutes INTO the podcast...)
 
 ### REQUIRED TOOLS
 * Analog or Digital Calendar
