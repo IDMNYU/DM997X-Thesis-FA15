@@ -11,8 +11,8 @@
 * [Thesis Paper](dm997X_ms_thesis_paper.md)
 * [Thesis Project](dm997X_ms_thesis_project.md)
 * [Thesis Research](dm997X_ms_thesis_research.md)
+* [Thesis Roles](thesis_roles.md)
 * [Thesis Process Website](dm997X_ms_thesis_website.md)
 * [Recommended Resources](dm997x_ms_thesis_resources.md)
 * [Beginning of Semester Status](beginning_of_semester_status.md)
-* [Thesis Roles](thesis_roles.md)
 
