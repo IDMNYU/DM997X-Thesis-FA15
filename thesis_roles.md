@@ -22,3 +22,11 @@ External Reviewer (TBD in consultation with thesis project advisor)
 * The Thesis Project Advisor, Thesis Faculty or IDM's Coordinator of Academic Programs will contact the External Reviewer to determine their availability for the Thesis Defense. 
 
 * The External Reviewer will attend the student's Thesis Defense Panel, and will be given a digital copy of their Thesis paper for review before the Defense.
+
+###Your Thesis Accountability Partner
+
+* You will partner with a classmate for moral support, ideation, proofreading, presentation practice, and most importantly to stay on task.
+
+###Thesis Peers
+
+* Your fellow graduate students are considered to be peers in the discussion and dialogue of your thesis. Students are strongly encouraged to share research and resources as well as critique from their peers. Utilize IDM's grad studio MAGNET 804 to hold informal critiques and discussion outside of class.
