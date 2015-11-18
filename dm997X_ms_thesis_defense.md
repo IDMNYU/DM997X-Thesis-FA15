@@ -12,7 +12,7 @@ The Thesis Defense Panel is comprised of:
 * An External Examiner
 * Your Thesis Accountability Partner and Thesis Peers can also attend your presentation and Q&A.
 
-See descriptions of these [thesis roles](https://deangela.gitbooks.io/ms-thesis-in-digital-media/content/thesis_roles.md).
+See descriptions of these [thesis roles](thesis_roles.md).
 
 ##THESIS DEFENSE SCHEDULE
 
