@@ -17,9 +17,8 @@ Your thesis is under the guidance of faculty and a community of peers, both insi
 * The Thesis Project Advisor agrees to attend the Thesis Defense Panel, and will be given a digital copy of their Thesis paper for review. 
 
 * The Thesis Defense will be scheduled at a time that is good for the Thesis Project Advisor and the External Reviewer sometime during Mon 12/7 through Fri 12/11. Date, Time, and Room to be determined.
-External Reviewer (TBD in consultation with thesis project advisor)
 
-###The External Reviewer (is identified in consultation with the Thesis Project Advisor.)
+###External Reviewer (is identified in consultation with the Thesis Project Advisor.)
 
 * The Thesis Project Advisor, Thesis Faculty or IDM's Coordinator of Academic Programs will contact the External Reviewer to determine their availability for the Thesis Defense. 
 
