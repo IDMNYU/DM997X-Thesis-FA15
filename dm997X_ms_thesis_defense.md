@@ -10,7 +10,8 @@ The Thesis Defense Panel is comprised of:
 * One or both IDM Co-Directors
 * Your Project Advisor
 * An External Examiner
-* Your Thesis Accountability Partner and Thesis Peers can also attend your presentation and Q&A.
+
+Your Thesis Accountability Partner and Thesis Peers can also attend your presentation and Q&A.
 
 See descriptions of these [thesis roles](thesis_roles.md).
 
@@ -28,7 +29,8 @@ See descriptions of these [thesis roles](thesis_roles.md).
 </table>
 
 ## BEFORE THE THESIS DEFENSE
-Send your project advisor and thesis instructor a PDF of your complete thesis paper draft **at least a week before your thesis defense** so he or she can send it to your external examiner. You want to make sure that everyone has time to read it and make suggestions on how to make it a stronger thesis. 
+* Send your project advisor and thesis instructor a PDF of your complete thesis paper draft **at least a weekend (preferably a week) before your thesis defense** so either your project advisor or thesis faculty can send it to your external examiner. 
+* You want to make sure that everyone has time to read it and make suggestions on how to make it a stronger thesis. 
 
 
 ## AT THE THESIS DEFENSE
