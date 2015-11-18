@@ -10,10 +10,9 @@ The Thesis Defense Panel is comprised of:
 * One or both IDM Co-Directors
 * Your Project Advisor
 * An External Examiner
+* Your Thesis Accountability Partner and Thesis Peers can also attend your presentation and Q&A.
 
-Your Thesis Accountability Partner and Thesis Peers can also attend your presentation and Q&A.
-
-See <a href="dm997X_ms_thesis_syllabus.md">syllabus</a> for descriptions of these thesis roles.
+See descriptions of these [thesis roles](https://deangela.gitbooks.io/ms-thesis-in-digital-media/content/thesis_roles.md).
 
 ##THESIS DEFENSE SCHEDULE
 
