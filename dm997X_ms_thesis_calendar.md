@@ -234,7 +234,7 @@
 <td>
 <strong>Homework</strong>
     <ul>
-    <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
+    <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
      <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> (2nd Draft) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li> 
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Vita, Acknowledgements (optional), and Dedication (optional)</a></strong> on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a> (1st Draft) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
     </ul>
@@ -253,7 +253,7 @@
     <td>
     <strong>Homework</strong>
     <ul>
-    <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done the past two weeks?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
+    <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done the past two weeks?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
     <li><strong><a href="dm997xmsthesis_end_of_semester_deliverables.md">End of Semester Deliverables</a></strong> Due
     </ul>
     <strong>Class</strong>
