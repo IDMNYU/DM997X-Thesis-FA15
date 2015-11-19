@@ -147,7 +147,7 @@
     <td>Wed, Oct 14</td>
     <td><strong>Homework</strong>
     <ul>
-    <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
+    <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
    
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> (2nd Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> (3rd Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
