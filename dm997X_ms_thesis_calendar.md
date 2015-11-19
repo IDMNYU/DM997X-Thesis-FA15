@@ -243,7 +243,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong>, Guest critic: Katherine Bennett</li>
+    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a>, Guest critic: Katherine Bennett</strong></li>
     </ul>
     </td> 
 </tr>
