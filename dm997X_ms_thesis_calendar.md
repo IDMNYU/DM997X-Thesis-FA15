@@ -288,7 +288,7 @@
     <li>MAGNET 8XX (depending on the room you get assigned.)</li>
     <li>Include <a href="http://engineering.nyu.edu/services/communications/identity">NYU Tandon's Logo</a></li>
     </ul>
-    <li>Rehearse your Mock Thesis Defense with your accountability partner.</li>
+    <li>Rehearse your Mock Thesis Defense with your accountability partner as many times as needed. I'd also suggest filming yourself and reviewing the footage.</li>
     
     </ul>
     
