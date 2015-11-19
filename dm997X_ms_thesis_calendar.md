@@ -255,11 +255,13 @@
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
     <li><strong><a href="dm997xmsthesis_end_of_semester_deliverables.md">End of Semester Deliverables</a></strong> Due
-    
+    </ul>
     <strong>Class</strong>
     <ul>
-    <li><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 3rd draft</a> (for any student who would like more feedback. I would encourage the majority of you to do so.</li>
-    <li>If time, we'll review your portfolio sites, cover letters, and resumes.</li>
+    <li>Discuss Exit Interview Survey</li>
+    <li>Discuss <a href="http://chloekoo.net/thesis" target="_blank">http://chloekoo.net/thesis</a> as a model for moving forward with your thesis project.</li>
+    <li>(OPTIONAL) <strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 3rd draft</a></strong> (for any student who would like more feedback. I would encourage the majority of you to do so.</li>
+    <li>(If time) Review of portfolio sites, cover letters, and resumes.</li>
     </ul>
     
     </ul></td>
