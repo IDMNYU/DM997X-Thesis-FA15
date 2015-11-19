@@ -203,7 +203,7 @@
     <strong>Homework</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> </strong></li>
-    <li>Share the state of your project (gold) in the above bullets with your accountability partner.</li>
+    <li>Share the state of your project (gold) with your accountability partner.</li>
     </ul>
     <strong>Class</strong>
     <ul>
