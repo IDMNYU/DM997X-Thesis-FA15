@@ -16,16 +16,24 @@ You really need to create a dropbox account if you have not already done so. Let
 Each student will provide their own **dropbox link**. A dropbox link is actually different than sharing an actual *dropbox folder*. Here’s a how to: https://www.dropbox.com/help/167 (There is also a video explaining how to do it later in the page as well.) 
  
 Create a dropbox link that contains the following: 
-1. PDF of your Final Thesis Paper
-2. PDF of your Thesis Defense Presentation
-3. PDF of Letter to Next Cohort
-4. PDF of Resume and Cover Letter
-3. URL to your thesis process website
-4. URL to your portfolio website
-5. URL to your linkedin profile
-2. *at least* 3, hi-res images of your project (RAW preferably or 300dpi)
-3. **all related project files** (e.g. video, HTML files, audio files, etc ) for **gold** version
-
+* PDFs
+ * Final Thesis Paper
+ * Final Thesis Defense Presentation
+ * Letter to Next Cohort (see description below)
+ * Resume and Cover Letter
+ * URLs to the following all on one page 
+   * thesis process website
+   * portfolio website
+   * linkedin profile
+   * any other social media presences where you promote your work (instagram, twitter, facebook group or page, etc.) 
+* Photo documentation
+  * ***at least*** 3, hi-res images of your project (RAW preferably or 300dpi)
+* Video or Audio documentation
+ *  If creating a website or digital application (mobile, game, etc.), create video documentation by screen capturing a user interacting with your interface.
+ *  If creating a physical object, musical instrument, or interactive installation, create video documentation of a user interacting with your object.
+ *  If creating a video web series via youtube, vimeo, or other online channels, provide compressed video files of all videos.
+ *  If creating an audio podcast, provide mp3s of all podcasts.
+ *  
 
 ## PORTFOLIO WEBSITE
 
