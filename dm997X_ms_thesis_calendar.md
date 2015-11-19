@@ -225,7 +225,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></strong>, Guest critic: Arlene Ducao</li>
+    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a>, Guest critic: Arlene Ducao</strong></li>
     </ul>
    
     </td> 
@@ -243,7 +243,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a>, Guest critic: Katherine Bennett</strong></li>
+    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a>, Guest critic: Katherine Bennett</strong></li>
     </ul>
     </td> 
 </tr>
@@ -266,7 +266,7 @@
     <ul>
     <li>Discuss Exit Interview Survey</li>
     <li>Discuss <a href="http://chloekoo.net/thesis" target="_blank">http://chloekoo.net/thesis</a> as a model for moving forward with your thesis project.</li>
-    <li>(OPTIONAL) <strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 3rd draft</a></strong> Guest Critic, Kate Sicchio, (for any student who would like more feedback. I would encourage the majority of you to do so.</li>
+    <li>(OPTIONAL) <strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 3rd draft</a> Guest Critic, Kate Sicchio</strong>, (for any student who would like more feedback. I would encourage the majority of you to do so.</li>
     <li>(If time) Review of portfolio sites, cover letters, and resumes.</li>
     </ul>
     
