@@ -9,13 +9,13 @@ NOTE: There are other assignments listed on the [thesis paper](dm997X_ms_thesis_
 
 ## DELIVERABLES FOR IDM ARCHIVES 
 
-*Direct message the dropbox URL to deangela on slack.*
+*Direct message the dropbox link or google drive folder to deangela on slack.*
 
-You really need to create a dropbox account if you have not already done so. Let me know if you do not have a dropbox account. Both you and I can get additional space if I invite you.
+If you want to create a dropbox account and have not already done so, let me know. Both you and I can get additional free space if I invite you.
 
 Each student will provide their own **dropbox link**. A dropbox link is actually different than sharing an actual *dropbox folder*. Here’s a how to: https://www.dropbox.com/help/167 (There is also a video explaining how to do it later in the page as well.) 
  
-Create a dropbox link that contains the following: 
+Create a dropbox link (NOT folder, see above) or google drive folder that contains the following: 
 * PDFs
  * Final Thesis Paper
  * Final Thesis Defense Presentation
@@ -26,14 +26,15 @@ Create a dropbox link that contains the following:
    * portfolio website
    * linkedin profile
    * any other social media presences where you promote your work (instagram, twitter, facebook group or page, etc.) 
-* Photo documentation
+* Photo documentation (for all students)
   * ***at least*** 3, hi-res images of your project (RAW preferably or 300dpi)
-* Video or Audio documentation
- *  If creating a website or digital application (mobile, game, etc.), create video documentation by screen capturing a user interacting with your interface.
- *  If creating a physical object, musical instrument, or interactive installation, create video documentation of a user interacting with your object.
- *  If creating a video web series via youtube, vimeo, or other online channels, provide compressed video files of all videos.
+* Video or Audio documentation (varies by student)
+ *  If creating a website or digital application (mobile, game, etc.), create video documentation by screen capturing a user interacting with your screen's interface.
+ *  If creating a physical object, musical instrument, or interactive installation, create video documentation of a user(s) interacting with your object.
+ *  If creating a performance or event, please provide video documentation of the performance or event.
+ * If creating any sort of moving image (animation, film, motion graphics, video web series, etc.), please provide compressed video files of your moving image.
  *  If creating an audio podcast, provide mp3s of all podcasts.
- *  
+ *  If creating any print medium, provide an original copy of it or provide a digital copy of it (preferably pdf).
 
 ## PORTFOLIO WEBSITE
 
