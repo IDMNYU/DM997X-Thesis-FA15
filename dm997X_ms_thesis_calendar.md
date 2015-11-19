@@ -224,7 +224,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></strong>, Guest critic: Arlene Ducao</li>
     </ul>
    
     </td> 
@@ -240,7 +240,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong>, Guest critic: Katherine Bennett</li>
     </ul>
     </td> 
 </tr>
@@ -250,7 +250,19 @@
 </tr>
 <tr>
     <td>Wed, Dec 02</td>
-    <td><strong><a href="dm997xmsthesis_end_of_semester_deliverables.md">End of Semester Deliverables</a></strong> Due</td>
+    <td>
+    <strong>Homework</strong>
+    <ul>
+    <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> and Calendar</strong></li>
+    <li><strong><a href="dm997xmsthesis_end_of_semester_deliverables.md">End of Semester Deliverables</a></strong> Due
+    
+    <strong>Class</strong>
+    <ul>
+    <li><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 3rd draft</a> (for any student who would like more feedback. I would encourage the majority of you to do so.</li>
+    <li>If time, we'll review your portfolio sites, cover letters, and resumes.</li>
+    </ul>
+    
+    </ul></td>
 </tr>
 <tr>
     <td>Dec 7-11 (up to 4 per day)</td>
