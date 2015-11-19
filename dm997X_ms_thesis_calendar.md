@@ -277,6 +277,18 @@
     <td>
     <strong>Homework</strong>
     <ul>
+    <li><strong>at least 2 days before your defense</strong>, send me a flyer to promote your defense on the MAGNET screens and BxMC facebook page.</li>
+    <ul>
+    <Li>Dimensions should be 1920x1200</li>
+    <li>Your Name</li>
+    <li>Thesis Project Name</li>
+    <li>IDM MS Thesis Defense</li>
+    <Li>URL to Thesis Project website</li>
+    <li>Date and Time</li>
+    <li>MAGNET 8XX (depending on the room you get assigned.)</li>
+    <li>Include <a href="http://engineering.nyu.edu/services/communications/identity">NYU Tandon's Logo</a></li>
+    
+    </ul>
     <li>Rehearse your Mock Thesis Defense with your accountability partner.</li>
     
     </ul>
