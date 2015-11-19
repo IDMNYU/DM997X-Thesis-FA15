@@ -266,7 +266,7 @@
     <ul>
     <li>Discuss Exit Interview Survey</li>
     <li>Discuss <a href="http://chloekoo.net/thesis" target="_blank">http://chloekoo.net/thesis</a> as a model for moving forward with your thesis project.</li>
-    <li>(OPTIONAL) <strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 3rd draft</a> Guest Critic, Kate Sicchio</strong>, (for any student who would like more feedback. I would encourage the majority of you to do so.</li>
+    <li>(OPTIONAL) <strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 3rd draft</a> Guest Critic, Kate Sicchio</strong>, for any student who would like more feedback. I would encourage the majority of you to do so.</li>
     <li>(If time) Review of portfolio sites, cover letters, and resumes.</li>
     </ul>
     
@@ -287,7 +287,6 @@
     <li>Date and Time</li>
     <li>MAGNET 8XX (depending on the room you get assigned.)</li>
     <li>Include <a href="http://engineering.nyu.edu/services/communications/identity">NYU Tandon's Logo</a></li>
-    
     </ul>
     <li>Rehearse your Mock Thesis Defense with your accountability partner.</li>
     
