@@ -257,8 +257,10 @@
     <strong>Homework</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done the past two weeks?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
+    <li>Get your paper reviewed at the Writing Center.</li>
+    <li>Have at least 2 different people read and edit your paper (not including your project advisor.)</li>
     <li><strong><a href="dm997xmsthesis_end_of_semester_deliverables.md">End of Semester Deliverables</a></strong> Due
-    <li>Rehearse your Mock Thesis Defense with your accountability partner.</li>
+    
     </ul>
     <strong>Class</strong>
     <ul>
@@ -273,6 +275,12 @@
 <tr>
     <td>Dec 7-11 (up to 4 per day)</td>
     <td>
+    <strong>Homework</strong>
+    <ul>
+    <li>Rehearse your Mock Thesis Defense with your accountability partner.</li>
+    
+    </ul>
+    
     <strong><a href="dm997X_ms_thesis_defense.md">Thesis Defenses</a></strong></td>
 </tr>
 <tr>
