@@ -25,7 +25,22 @@ See descriptions of these [thesis roles](thesis_roles.md).
     <td>External Examiner<br>Title / Position<br>Organization</td>
     <td>Project Advisor<br>Title / Position<br>Organization</td>
 </tr>
+<tr>
+<td>Tue Dec 8, 4pm</td>
+<td>MAGNET TBD</td>
+<td>Lauren Towles</td>
+<td>Liz Slagus, Founder & Director of the SexEd project, http://sexedproject.org/about</td>
+<td>Frank Lantz<br>Professor of Educational Communication and Technology, NYU Steinhardt</td>
 </tr>
+<tr>
+<td>Tue Dec 8, 5pm</td>
+<td>MAGNET TBD</td>
+<td>Catt Small</td>
+<td>Liz Slagus, Founder & Director of the SexEd project, http://sexedproject.org/about</td>
+<td>Frank Lantz<br>Director, NYU Game Center, NYU Tisch</td>
+</tr>
+
+
 </table>
 
 ## BEFORE THE THESIS DEFENSE
