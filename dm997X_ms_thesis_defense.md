@@ -39,7 +39,13 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>Liz Slagus, Founder & Director of the SexEd project, http://sexedproject.org/about</td>
 <td>Frank Lantz<br>Director, NYU Game Center, NYU Tisch</td>
 </tr>
-
+<tr>
+<td>Thu Dec 10, 1 or 2pm (TBD)</td>
+<td>MAGNET TBD</td>
+<td>Michael Grey</td>
+<td>Liz Slagus, Founder & Director of the SexEd project, http://sexedproject.org/about</td>
+<td>Beth Rosenberg<br>Integrated Digital Media (IDM)<br>NYU Engineering</td>
+</tr>
 
 </table>
 
