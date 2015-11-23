@@ -28,7 +28,7 @@ Your thesis is under the guidance of faculty and a community of peers, both insi
 
 * The Thesis Project Advisor, Thesis Faculty, Thesis Student, or IDM's Coordinator of Academic Programs will contact the External Reviewer to determine their availability for the Thesis Defense, depending on the Thesis Project Advisor communication preferences. 
 
-* The External Reviewer will attend the student's Thesis Defense Panel, and will be given a digital copy of the student's thesis paper for review (at least a weekend) BEFORE the Defense.
+* The External Reviewer will attend the student's Thesis Defense Panel, and will be given a digital copy of the student's thesis paper for review (at least a week) BEFORE the Defense.
 
 ###Your Thesis Accountability Partner
 
