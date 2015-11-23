@@ -14,7 +14,7 @@ Your thesis is under the guidance of faculty and a community of peers, both insi
 
 * The Thesis Project Advisor will be the primary recommender for the external reviewer.
 
-* The Thesis Project Advisor agrees to attend the Thesis Defense Panel, and will be given a digital copy of the student's thesis paper for review (at least a weekend) BEFORE the Defense.
+* The Thesis Project Advisor agrees to attend the Thesis Defense Panel, and will be given a digital copy of the student's thesis paper for review (at least a week) BEFORE the Defense.
 
 * The Thesis Defense will be scheduled at a time that is good for the Thesis Project Advisor **AND** the External Reviewer sometime during **Mon 12/7 through Fri 12/11**. Date, Time, and Room to be determined.
 
