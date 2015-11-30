@@ -239,7 +239,7 @@
      <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> (2nd Draft) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li> 
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Vita, Acknowledgements (optional), and Dedication (optional)</a></strong> on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a> (1st Draft) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
     <li>Rehearse your Mock Thesis Defense with your accountability partner.</li>
-    <li>Rehearse your Mock Thesis Defense with your accountability partner.</li>
+
     </ul>
     <strong>Class</strong>
     <ul>
@@ -257,8 +257,11 @@
     <strong>Homework</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done the past two weeks?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
-    <li>Direct Message me on slack your <strong> Final <a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a> as a PDF</strong> (Please note who has proofread and edited your paper.)</li>
-    <ul><li>Get your paper reviewed at the Writing Center.</li>
+    <li><strong> Final <a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></li>
+    
+    <ul>
+    <li>Direct Message me on slack your compiled thesis paper as a PDF</strong> (Please note who has proofread and edited your paper.)</li>
+    <li>Get your paper reviewed at the Writing Center.</li>
     <li>Have at least 2 different people read and edit your paper (not including your project advisor.)</li></ul>
     
     
