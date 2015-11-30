@@ -257,7 +257,7 @@
     <strong>Homework</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done the past two weeks?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
-    <li><strong> Final <a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> (Please note who has proofread and edited your paper.)</li>
+    <li>Direct Message me on slack your <strong> Final <a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a> as a PDF</strong> (Please note who has proofread and edited your paper.)</li>
     <ul><li>Get your paper reviewed at the Writing Center.</li>
     <li>Have at least 2 different people read and edit your paper (not including your project advisor.)</li></ul>
     
