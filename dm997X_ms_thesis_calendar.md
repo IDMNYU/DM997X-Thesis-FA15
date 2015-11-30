@@ -259,7 +259,7 @@
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done the past two weeks?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
     <li>Get your paper reviewed at the Writing Center.</li>
     <li>Have at least 2 different people read and edit your paper (not including your project advisor.)</li>
-    <li><strong><a href="dm997xmsthesis_end_of_semester_deliverables.md">End of Semester Deliverables</a></strong> Due
+    
     
     </ul>
     <strong>Class</strong>
@@ -270,7 +270,7 @@
     <li>(OPTIONAL) <strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 3rd draft</a> Guest Critic, Kate Sicchio</strong>, for any student who would like more feedback. I would encourage the majority of you to do so.</li>
     <li>(If time) Review of portfolio sites, cover letters, and resumes.</li>
     </ul>
-    
+    <li><strong> Final <a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> (Please note who has proofread / edited your paper. You should have had at least 2 people do so.)</li>
     </ul></td>
 </tr>
 <tr>
@@ -297,7 +297,9 @@
 </tr>
 <tr>
     <td>Dec 12-18</td>
-    <td><strong>Exit Interview Survey</strong> (will be emailed to you)</td>
+    <td><ul>
+    <li><strong><a href="dm997xmsthesis_end_of_semester_deliverables.md">End of Semester Deliverables</a></strong> Due</li>
+    <li><strong>Exit Interview Survey</strong> (will be emailed to you)</li></td>
 </tr>
 <tr>
     <td>by or before Dec 23</td>
