@@ -260,9 +260,9 @@
     <li><strong> Final <a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></li>
     
     <ul>
-    <li>Direct Message me on slack your compiled thesis paper as a PDF</strong> (Please note who has proofread and edited your paper.)</li>
     <li>Get your paper reviewed at the Writing Center.</li>
-    <li>Have at least 2 different people read and edit your paper (not including your project advisor.)</li></ul>
+    <li>Have at least 2 different people read and edit your paper (not including your project advisor.)</li>
+    <li>Direct Message me on slack your compiled thesis paper as a PDF</strong> (Please note who has proofread and edited your paper.)</li></ul>
     
     
     </ul>
