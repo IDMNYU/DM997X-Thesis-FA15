@@ -40,8 +40,8 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>Frank Lantz<br>Director, NYU Game Center, NYU Tisch</td>
 </tr>
 <tr>
-<td>Thu Dec 10, 1 or 2pm (TBD)</td>
-<td>MAGNET TBD</td>
+<td>Thu Dec 10, 1pm</td>
+<td>MAGNET 813</td>
 <td>Sandra Song</td>
 <td>Michael Grey</td>
 <td>Beth Rosenberg<br>Integrated Digital Media (IDM)<br>NYU Engineering</td>
