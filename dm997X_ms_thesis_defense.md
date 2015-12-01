@@ -19,36 +19,41 @@ See descriptions of these [thesis roles](thesis_roles.md).
 
 <table>
 <tr>
-    <td>Date &amp; Time</td>
+    <td>Date</td>
+    <td>Time</td>
     <td>Room</td>
     <td>Student</td>
     <td>External Examiner<br>Title / Position<br>Organization</td>
     <td>Project Advisor<br>Title / Position<br>Organization</td>
 </tr>
 <tr>
-<td>Tue Dec 8, 4pm</td>
+<td>Tue Dec 8</td>
+<td>4pm</td>
 <td>MAGNET TBD</td>
 <td>Lauren</td>
 <td>Liz Slagus, Founder & Director of the SexEd project, http://sexedproject.org/about</td>
 <td>Frank Lantz<br>Professor of Educational Communication and Technology, NYU Steinhardt</td>
 </tr>
 <tr>
-<td>Tue Dec 8, 5pm</td>
-<td>MAGNET TBD</td>
+<td>Tue Dec 8</td>
+<td>5pm</td>
+<td>MAGNET 824</td>
 <td>Catt</td>
 <td>Liz Slagus, Founder & Director of the SexEd project, http://sexedproject.org/about</td>
 <td>Frank Lantz<br>Director, NYU Game Center, NYU Tisch</td>
 </tr>
 <tr>
-<td>Wed Dec 9, TBD</td>
+<td>Wed Dec 9</td>
+<td>11am</td>
 <td>MAGNET TBD</td>
 <td>Srihari</td>
 <td>Dr. Bruce Homer<br>CREATE Director for Research, NYU Steinhardt, http://create.nyu.edu</td>
 <td>Alvaro Olsen<br>CREATE Assistant Research Scientist, NYU Steinhardt, http://create.nyu.edu</td>
 </tr>
 <tr>
-<td>Thu Dec 10, 1pm</td>
-<td>MAGNET 813</td>
+<td>Thu Dec 10</td>
+<td>1pm</td>
+<td>MAGNET 817</td>
 <td>Sandra</td>
 <td>Michael Grey</td>
 <td>Beth Rosenberg<br>Integrated Digital Media (IDM)<br>NYU Engineering</td>
