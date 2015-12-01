@@ -43,8 +43,8 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>Wed Dec 9, TBD</td>
 <td>MAGNET TBD</td>
 <td>Srihari</td>
-<td>Dr. Bruce Homer<br>CREATE Director for Research, NYU Steinhardt</td>
-<td>Alvaro Olsen<br>CREATE Assistant Research Scientist, NYU Steinhardt</td>
+<td>Dr. Bruce Homer<br>CREATE Director for Research, NYU Steinhardt, http://create.nyu.edu</td>
+<td>Alvaro Olsen<br>CREATE Assistant Research Scientist, NYU Steinhardt, http://create.nyu.edu</td>
 </tr>
 <tr>
 <td>Thu Dec 10, 1pm</td>
