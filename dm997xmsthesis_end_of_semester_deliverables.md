@@ -43,7 +43,11 @@ NOTE: This is different than your <a href="dm4003_thesis_website.md">Thesis Proc
 This website should market and promote your body of work for possible employment or other post graduation opportunities. This site should NOT be hosted on http://sites.bxmc.poly.edu. Ideally, you should have your own domain name.
 
 
-## LETTER TO NEXT COHORT  
+## LETTER TO NEXT COHORT 
+
+*As a pdf, direct message to deangela on Slack.*
+* Please name your file as firstnameinitiallastname_thesis_fa15_letter.pdf (i.e. dduff_thesis_fa15_letter.pdf) 
+* Also make sure that you  have a header within the actual document.  i.e. Your Name / Fall 2015 /  IDM MS Thesis / Letter to Next Cohort.
 
 Write a letter to the next class giving them advice on how to succeed with their thesis paper, project, and defense. (What would you do differently if you could start the course again? What would you do the same?)
 
