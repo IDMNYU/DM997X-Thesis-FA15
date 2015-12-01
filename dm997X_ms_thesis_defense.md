@@ -31,7 +31,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>6pm</td>
 <td>MAGNET TBD</td>
 <td>Ijele</td>
-<td>Art Jones</td>
+<td>Art Jones, Image / Sound manipulator</td>
 <td>Dr. Roger Friedland<br>Visiting Professor, Media, Culture, and Communication, NYU Steinhardt</td>
 </tr>
 <tr>
