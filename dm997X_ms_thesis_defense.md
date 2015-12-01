@@ -28,21 +28,28 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <tr>
 <td>Tue Dec 8, 4pm</td>
 <td>MAGNET TBD</td>
-<td>Lauren Towles</td>
+<td>Lauren</td>
 <td>Liz Slagus, Founder & Director of the SexEd project, http://sexedproject.org/about</td>
 <td>Frank Lantz<br>Professor of Educational Communication and Technology, NYU Steinhardt</td>
 </tr>
 <tr>
 <td>Tue Dec 8, 5pm</td>
 <td>MAGNET TBD</td>
-<td>Catt Small</td>
+<td>Catt</td>
 <td>Liz Slagus, Founder & Director of the SexEd project, http://sexedproject.org/about</td>
 <td>Frank Lantz<br>Director, NYU Game Center, NYU Tisch</td>
 </tr>
 <tr>
+<td>Wed Dec 9, TBD</td>
+<td>MAGNET TBD</td>
+<td>Srihari</td>
+<td>Dr. Bruce Homer<br>CREATE Director for Research, NYU Steinhardt</td>
+<td>Alvaro Olsen<br>CREATE Assistant Research Scientist, NYU Steinhardt</td>
+</tr>
+<tr>
 <td>Thu Dec 10, 1pm</td>
 <td>MAGNET 813</td>
-<td>Sandra Song</td>
+<td>Sandra</td>
 <td>Michael Grey</td>
 <td>Beth Rosenberg<br>Integrated Digital Media (IDM)<br>NYU Engineering</td>
 </tr>
