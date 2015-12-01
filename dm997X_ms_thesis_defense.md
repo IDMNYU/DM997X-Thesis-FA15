@@ -21,7 +21,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <tr>
     <td>Date</td>
     <td>Time</td>
-    <td>Room</td>
+    <td>MAGNET Room</td>
     <td>Student</td>
     <td>External Examiner<br>Title / Position<br>Organization</td>
     <td>Project Advisor<br>Title / Position<br>Organization</td>
@@ -29,7 +29,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <tr>
 <td>Mon Dec 7</td>
 <td>6pm</td>
-<td>MAGNET TBD</td>
+<td>TBD</td>
 <td>Ijele</td>
 <td>Art Jones, Image / Sound manipulator</td>
 <td>Dr. Roger Friedland<br>Visiting Professor, Media, Culture, and Communication, NYU Steinhardt</td>
@@ -37,7 +37,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <tr>
 <td>Tue Dec 8</td>
 <td>4pm</td>
-<td>MAGNET TBD</td>
+<td>TBD</td>
 <td>Lauren</td>
 <td>Liz Slagus, Founder & Director of the SexEd project, http://sexedproject.org/about</td>
 <td>Dr. Ricki Goldman<br>Professor of Educational Communication and Technology, NYU Steinhardt</td>
@@ -45,7 +45,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <tr>
 <td>Tue Dec 8</td>
 <td>5pm</td>
-<td>MAGNET 824</td>
+<td>824</td>
 <td>Catt</td>
 <td>Liz Slagus, Founder & Director of the SexEd project, http://sexedproject.org/about</td>
 <td>Frank Lantz<br>Director, NYU Game Center, NYU Tisch</td>
@@ -53,7 +53,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <tr>
 <td>Wed Dec 9</td>
 <td>11am</td>
-<td>MAGNET TBD</td>
+<td>TBD</td>
 <td>Srihari</td>
 <td>Dr. Bruce Homer<br>CREATE Director for Research, NYU Steinhardt, http://create.nyu.edu</td>
 <td>Alvaro Olsen<br>CREATE Assistant Research Scientist, NYU Steinhardt, http://create.nyu.edu</td>
@@ -61,7 +61,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <tr>
 <td>Thu Dec 10</td>
 <td>1pm</td>
-<td>MAGNET 817</td>
+<td>817</td>
 <td>Sandra</td>
 <td>Michael Grey, Artist</td>
 <td>Beth Rosenberg<br>Integrated Digital Media (IDM)<br>NYU Engineering</td>
