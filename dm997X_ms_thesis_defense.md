@@ -27,12 +27,20 @@ See descriptions of these [thesis roles](thesis_roles.md).
     <td>Project Advisor<br>Title / Position<br>Organization</td>
 </tr>
 <tr>
+<td>Mon Dec 7</td>
+<td>6pm</td>
+<td>MAGNET TBD</td>
+<td>Ijele</td>
+<td>Art Jones</td>
+<td>Dr. Roger Friedland<br>Visiting Professor, Media, Culture, and Communication, NYU Steinhardt</td>
+</tr>
+<tr>
 <td>Tue Dec 8</td>
 <td>4pm</td>
 <td>MAGNET TBD</td>
 <td>Lauren</td>
 <td>Liz Slagus, Founder & Director of the SexEd project, http://sexedproject.org/about</td>
-<td>Frank Lantz<br>Professor of Educational Communication and Technology, NYU Steinhardt</td>
+<td>Dr. Ricki Goldman<br>Professor of Educational Communication and Technology, NYU Steinhardt</td>
 </tr>
 <tr>
 <td>Tue Dec 8</td>
@@ -55,7 +63,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>1pm</td>
 <td>MAGNET 817</td>
 <td>Sandra</td>
-<td>Michael Grey</td>
+<td>Michael Grey, Artist</td>
 <td>Beth Rosenberg<br>Integrated Digital Media (IDM)<br>NYU Engineering</td>
 </tr>
 
