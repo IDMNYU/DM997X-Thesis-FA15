@@ -25,6 +25,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
     <td>Student</td>
     <td>External Examiner<br>Title / Position<br>Organization</td>
     <td>Project Advisor<br>Title / Position<br>Organization</td>
+    <td>Co-Director on Signature Page</td>
 </tr>
 <tr>
 <td>Mon Dec 7</td>
@@ -33,6 +34,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>Ijele</td>
 <td>Art Jones, Image / Sound manipulator</td>
 <td>Dr. Roger Friedland<br>Visiting Professor, Media, Culture, and Communication, NYU Steinhardt</td>
+<td>De Angela</td>
 </tr>
 <tr>
 <td>Tue Dec 8</td>
@@ -41,6 +43,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>Lauren</td>
 <td>Liz Slagus, Founder & Director of the SexEd project, http://sexedproject.org/about</td>
 <td>Dr. Ricki Goldman<br>Professor of Educational Communication and Technology, NYU Steinhardt</td>
+<td>Luke</td>
 </tr>
 <tr>
 <td>Tue Dec 8</td>
@@ -49,6 +52,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>Catt</td>
 <td>Liz Slagus, Founder & Director of the SexEd project, http://sexedproject.org/about</td>
 <td>Frank Lantz<br>Director, NYU Game Center, NYU Tisch</td>
+<td>Luke</td>
 </tr>
 <tr>
 <td>Wed Dec 9</td>
@@ -57,6 +61,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>Srihari</td>
 <td>Dr. Bruce Homer<br>CREATE Director for Research, NYU Steinhardt, http://create.nyu.edu</td>
 <td>Alvaro Olsen<br>CREATE Assistant Research Scientist, NYU Steinhardt, http://create.nyu.edu</td>
+<td>De Angela</td>
 </tr>
 <tr>
 <td>Thu Dec 10</td>
@@ -65,6 +70,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>Sandra</td>
 <td>Michael Grey, Artist</td>
 <td>Beth Rosenberg<br>Integrated Digital Media (IDM)<br>NYU Engineering</td>
+<td>De Angela</td>
 </tr>
 <tr>
 <td>Thu Dec 10</td>
@@ -73,6 +79,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>Ernie</td>
 <td>Kevin Irlen, NYU MusEDLab Software Architect in Residence</td>
 <td>Ethan Hein<br>Experience Designer in Residence<br> NYU MusEDLab</td>
+<td>De Angela</td>
 </tr>
 </table>
 
