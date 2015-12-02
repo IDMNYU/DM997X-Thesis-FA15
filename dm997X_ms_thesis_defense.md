@@ -29,7 +29,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <tr>
 <td>Mon Dec 7</td>
 <td>6pm</td>
-<td>TBD</td>
+<td>806</td>
 <td>Ijele</td>
 <td>Art Jones, Image / Sound manipulator</td>
 <td>Dr. Roger Friedland<br>Visiting Professor, Media, Culture, and Communication, NYU Steinhardt</td>
@@ -37,7 +37,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <tr>
 <td>Tue Dec 8</td>
 <td>4pm</td>
-<td>TBD</td>
+<td>806</td>
 <td>Lauren</td>
 <td>Liz Slagus, Founder & Director of the SexEd project, http://sexedproject.org/about</td>
 <td>Dr. Ricki Goldman<br>Professor of Educational Communication and Technology, NYU Steinhardt</td>
@@ -53,7 +53,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <tr>
 <td>Wed Dec 9</td>
 <td>11am</td>
-<td>TBD</td>
+<td>824</td>
 <td>Srihari</td>
 <td>Dr. Bruce Homer<br>CREATE Director for Research, NYU Steinhardt, http://create.nyu.edu</td>
 <td>Alvaro Olsen<br>CREATE Assistant Research Scientist, NYU Steinhardt, http://create.nyu.edu</td>
