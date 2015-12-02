@@ -257,7 +257,7 @@
     <strong>Homework</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done the past two weeks?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
-    <li><strong> Final <a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></li>
+    <li><strong> Final <a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a>, including the preliminaries (most notably the Table of Contents) in one pdf. Consult the templates pinned on slack. Also make sure you include your name in the filename of any file you submit to someone else. Once I download a file to my computer, I don't know whose paper it is until I open it if it does not have your name in the filename.</li>
     
     <ul>
     <li>Get your paper reviewed at the Writing Center.</li>
