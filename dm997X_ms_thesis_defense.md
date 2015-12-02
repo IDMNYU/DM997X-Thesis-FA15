@@ -69,7 +69,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <tr>
 <td>Thu Dec 10</td>
 <td>3pm</td>
-<td></td>
+<td>TBD</td>
 <td>Ernie</td>
 <td>Kevin Irlen, NYU MusEDLab Software Architect in Residence</td>
 <td>Ethan Hein<br>Experience Designer in Residence<br> NYU MusEDLab</td>
