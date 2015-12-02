@@ -7,6 +7,13 @@
 
 For standard formatting, consult Master's Thesis and Project Guidelines_March2014 version.pdf, the word templates (pinned on Slack), as well as [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary).
 
+What do I mean by COMPILED thesis paper? 
+* The body AND the preliminaries (most notably the Table of Contents) in one pdf. 
+* Consult the templates pinned on slack. 
+ * MS_Thesis_Paper_Body.docx
+ * MS_Thesis_Paper_Preliminaries_revised.docx
+* Also make sure you include your name in the filename of any file you submit to someone else. I'm getting a lot of thesispaper.pdf but once I download them to my computer I don't know whose paper it is until I open it. Imagine receiving 100 resumes names resume.pdf.
+
 **<font color="#ff0000">Please have someone other than yourself read and edit all of your writing before you turn it in.</font>** (Even better, have someone read your writing out loud to you.) Include that person's name [and their title and/or relationship with you (if not your accountability partner or other classmate)] at the top of each paper assignment as Editor.
 
 ## Assignment: The “elevator pitch” / Thesis Statement
