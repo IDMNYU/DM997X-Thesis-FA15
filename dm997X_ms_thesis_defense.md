@@ -66,7 +66,14 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>Michael Grey, Artist</td>
 <td>Beth Rosenberg<br>Integrated Digital Media (IDM)<br>NYU Engineering</td>
 </tr>
-
+<tr>
+<td>Thu Dec 10</td>
+<td>3pm</td>
+<td></td>
+<td>Ernie</td>
+<td>Kevin Irlen, NYU MusEDLab Software Architect in Residence</td>
+<td>Ethan Hein<br>Experience Designer in Residence<br> NYU MusEDLab</td>
+</tr>
 </table>
 
 ## BEFORE THE THESIS DEFENSE
