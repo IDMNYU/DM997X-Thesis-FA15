@@ -270,7 +270,6 @@
     <strong>Class</strong>
     <ul>
     <li>Discuss Wasserman Center's Resume Book (info pinned on slack)</li>
-    <li>Discuss Exit Interview Survey (will post link on slack.)</li>
     <li>Discuss <a href="http://chloekoo.net/thesis" target="_blank">http://chloekoo.net/thesis</a> as a model for moving forward with your thesis project.</li>
     <li>Discuss <a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a> and version control</li>
     <li>(OPTIONAL) <strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 3rd draft</a> Guest Critic, Kate Sicchio</strong>, for any student who would like more feedback. I would encourage the majority of you to do so.</li>
