@@ -78,7 +78,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>TBD</td>
 <td>Donovan</td>
 <td>Cristóbal Cea, Visual Artist</td>
-<td>Mark Skwarek<br>Instructor, Integrated Digital Media<br>NYU Tandon School of Engineering</td>
+<td>Mark Skwarek<br>Lecturer, Integrated Digital Media<br>NYU Tandon School of Engineering</td>
 <td>De Angela</td>
 </tr>
 <tr>
