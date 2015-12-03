@@ -284,7 +284,7 @@
     <td>
     <strong>Homework</strong>
     <ul>
-    <li><strong>at least 2 days before your defense</strong>, send me a flyer to promote your defense on the MAGNET screens and BxMC facebook page.</li>
+    <li><strong>by Monday at 10am</strong>, send me a flyer to promote your defense on the MAGNET screens and BxMC facebook page.</li>
     <ul>
     <Li>Dimensions should be 1920x1200</li>
     <li>Your Name</li>
