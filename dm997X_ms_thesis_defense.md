@@ -69,7 +69,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>817</td>
 <td>Sandra</td>
 <td>Michael Grey, Artist</td>
-<td>Beth Rosenberg<br>Integrated Digital Media (IDM)<br>NYU Engineering</td>
+<td>Beth Rosenberg<br>Integrated Digital Media (IDM)<br>NYU Tandon School of Engineering</td>
 <td>De Angela</td>
 </tr>
 <tr>
@@ -79,6 +79,15 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>Ernie</td>
 <td>Kevin Irlen, NYU MusEDLab Software Architect in Residence</td>
 <td>Ethan Hein<br>Experience Designer in Residence<br> NYU MusEDLab</td>
+<td>De Angela</td>
+</tr>
+<tr>
+<td>Wed Dec 16</td>
+<td>11am</td>
+<td>TBD</td>
+<td>Joe</td>
+<td>Vache Asatryan, CTO, Co-founder at Haystack.im & Dendrite Corp.</td>
+<td>Elton Kwok<br>Technology Director, Integrated Digital Media<br>NYU Tandon School of Engineering</td>
 <td>De Angela</td>
 </tr>
 </table>
