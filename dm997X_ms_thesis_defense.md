@@ -100,6 +100,15 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>De Angela</td>
 </tr>
 <tr>
+<td>Mon Dec 14</td>
+<td>6pm</td>
+<td>TBD</td>
+<td>Celine</td>
+<td>Kaho Abe</td>
+<td>Chloe Koo<br>Visual Designer, Deloitte Digital<br> http://chloekoo.net/</td>
+<td>De Angela</td>
+</tr>
+<tr>
 <td>Wed Dec 16</td>
 <td>11am</td>
 <td>TBD</td>
