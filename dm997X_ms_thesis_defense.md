@@ -32,8 +32,9 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>4pm</td>
 <td>811</td>
 <td>Sriya</td>
-<td>Chris Dawes</td>
-<td>Samuel Woolley, Project Manager, Political Bots Project</td>
+<td>Chris Dawes<br>Department of Politics<br>
+NYU College of Arts & Sciences</td>
+<td>Samuel Woolley<br>Project Manager<br>Political Bots Project</td>
 <td>De Angela</td>
 </tr>
 <tr>
