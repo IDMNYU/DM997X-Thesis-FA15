@@ -104,7 +104,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>6pm</td>
 <td>TBD</td>
 <td>Celine</td>
-<td>Kaho Abe</td>
+<td>Kaho Abe<br>Artist in Residence, Game Innovation Lab at NYU Tandon School of Engineering</td>
 <td>Chloe Koo<br>Visual Designer, Deloitte Digital<br> http://chloekoo.net/</td>
 <td>De Angela</td>
 </tr>
