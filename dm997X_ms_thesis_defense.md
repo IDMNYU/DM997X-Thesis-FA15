@@ -111,7 +111,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <tr>
 <td>Wed Dec 16</td>
 <td>11am</td>
-<td>TBD</td>
+<td>824</td>
 <td>Joe</td>
 <td>Vache Asatryan, CTO, Co-founder at Haystack.im & Dendrite Corp.</td>
 <td>Elton Kwok<br>Technology Director, Integrated Digital Media<br>NYU Tandon School of Engineering</td>
