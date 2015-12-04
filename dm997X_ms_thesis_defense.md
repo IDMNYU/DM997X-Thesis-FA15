@@ -29,6 +29,15 @@ See descriptions of these [thesis roles](thesis_roles.md).
 </tr>
 <tr>
 <td>Mon Dec 7</td>
+<td>4pm</td>
+<td>811</td>
+<td>Sriya</td>
+<td>Chris Dawes</td>
+<td>Samuel Woolley, Project Manager, Political Bots Project</td>
+<td>De Angela</td>
+</tr>
+<tr>
+<td>Mon Dec 7</td>
 <td>6pm</td>
 <td>806</td>
 <td>Ijele</td>
