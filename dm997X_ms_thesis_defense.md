@@ -74,6 +74,15 @@ NYU College of Arts & Sciences</td>
 <td>De Angela</td>
 </tr>
 <tr>
+<td>Wed Dec 9</td>
+<td>3pm</td>
+<td>811</td>
+<td>Louisa</td>
+<td>Kaho Abe<br>Artist in Residence, Game Innovation Lab at NYU Tandon School of Engineering</td>
+<td>Christian Howard<br>Narrative Design Lead, Hidden Level Games</td>
+<td>De Angela</td>
+</tr>
+<tr>
 <td>Thu Dec 10</td>
 <td>1pm</td>
 <td>817</td>
