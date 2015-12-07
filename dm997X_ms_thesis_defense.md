@@ -48,7 +48,7 @@ NYU College of Arts & Sciences</td>
 </tr>
 <tr>
 <td>Tue Dec 8</td>
-<td>4pm</td>
+<td>3:50pm</td>
 <td>806</td>
 <td>Lauren</td>
 <td>Liz Slagus, Founder & Director of the SexEd project, http://sexedproject.org/about</td>
