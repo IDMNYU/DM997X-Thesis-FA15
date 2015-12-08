@@ -12,7 +12,7 @@ What do I mean by COMPILED thesis paper?
 * Consult the templates pinned on slack. 
  * MS_Thesis_Paper_Body.docx
  * MS_Thesis_Paper_Preliminaries_revised.docx
-* Also make sure you include your name in the filename of any file you submit to someone else. I'm getting a lot of thesispaper.pdf but once I download them to my computer I don't know whose paper it is until I open it. Imagine receiving 100 resumes names resume.pdf.
+* Also make sure you include your name in the filename of any file you submit to someone else. I'm getting a lot of thesispaper.pdf but once I download them to my computer I don't know whose paper it is until I open it. Imagine receiving 100 resumes named resume.pdf.
 
 **<font color="#ff0000">Please have someone other than yourself read and edit all of your writing before you turn it in.</font>** (Even better, have someone read your writing out loud to you.) Include that person's name [and their title and/or relationship with you (if not your accountability partner or other classmate)] at the top of each paper assignment as Editor.
 
