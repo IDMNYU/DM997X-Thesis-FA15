@@ -93,7 +93,7 @@ NYU College of Arts & Sciences</td>
 </tr>
 <tr>
 <td>Thu Dec 10</td>
-<td>11am</td>
+<td>10am</td>
 <td>813</td>
 <td>Donovan</td>
 <td>Cristóbal Cea, Visual Artist</td>
