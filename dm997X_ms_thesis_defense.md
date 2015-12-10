@@ -82,15 +82,7 @@ NYU College of Arts & Sciences</td>
 <td>Christian Howard<br>Narrative Design Lead, Hidden Level Games</td>
 <td>De Angela</td>
 </tr>
-<tr>
-<td>Thu Dec 10</td>
-<td>1pm</td>
-<td>817</td>
-<td>Sandra</td>
-<td>Michael Grey, Artist</td>
-<td>Beth Rosenberg<br>Integrated Digital Media (IDM)<br>NYU Tandon School of Engineering</td>
-<td>De Angela</td>
-</tr>
+
 <tr>
 <td>Thu Dec 10</td>
 <td>10am</td>
@@ -98,6 +90,15 @@ NYU College of Arts & Sciences</td>
 <td>Donovan</td>
 <td>Cristóbal Cea, Visual Artist</td>
 <td>Mark Skwarek<br>Lecturer, Integrated Digital Media<br>NYU Tandon School of Engineering</td>
+<td>De Angela</td>
+</tr>
+<tr>
+<td>Thu Dec 10</td>
+<td>1pm</td>
+<td>817</td>
+<td>Sandra</td>
+<td>Michael Grey, Artist</td>
+<td>Beth Rosenberg<br>Integrated Digital Media (IDM)<br>NYU Tandon School of Engineering</td>
 <td>De Angela</td>
 </tr>
 <tr>
