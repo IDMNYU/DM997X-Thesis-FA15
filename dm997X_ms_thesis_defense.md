@@ -116,8 +116,9 @@ NYU College of Arts & Sciences</td>
 <td>6pm</td>
 <td>806</td>
 <td>Celine</td>
-<td>Kaho Abe<br>Artist in Residence, Game Innovation Lab at NYU Tandon School of Engineering</td>
+
 <td>Chloe Koo<br>Visual Designer, Deloitte Digital<br> http://chloekoo.net/</td>
+<td>Kaho Abe<br>Artist in Residence, Game Innovation Lab at NYU Tandon School of Engineering</td>
 <td>De Angela</td>
 </tr>
 <tr>
